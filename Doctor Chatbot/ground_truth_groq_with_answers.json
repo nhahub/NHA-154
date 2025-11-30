@@ -1,0 +1,380 @@
+[
+  {
+    "query": "What is the pathophysiology of Type 1 diabetes?",
+    "relevant_docs": [
+      "Int J Mol Sci. 2025 Nov 6;26(21):10788. doi: 10.3390/ijms262110788.",
+      "Int J Mol Sci. 2025 Nov 6;26(21):10788. doi: 10.3390/ijms262110788.",
+      "Front Immunol. 2025 Oct 29;16:1664255. doi: 10.3389/fimmu.2025.1664255.",
+      "BMJ Open. 2025 Nov 12;15(11):e103486. doi: 10.1136/bmjopen-2025-103486.",
+      "J Clin Med. 2025 Oct 23;14(21):7490. doi: 10.3390/jcm14217490."
+    ],
+    "relevant_docs_details": [
+      {
+        "id": "Int J Mol Sci. 2025 Nov 6;26(21):10788. doi: 10.3390/ijms262110788.",
+        "confidence": "high",
+        "reason": "The abstract explicitly states that T1D is an autoimmune disease with T-cell-mediated destruction of pancreatic beta cells, directly addressing the pathophysiology requested."
+      },
+      {
+        "id": "Int J Mol Sci. 2025 Nov 6;26(21):10788. doi: 10.3390/ijms262110788.",
+        "confidence": "high",
+        "reason": "Title indicates comprehensive coverage of Type 1 diabetes including microbiome and metabolomics which are key components of modern pathophysiology understanding"
+      },
+      {
+        "id": "Front Immunol. 2025 Oct 29;16:1664255. doi: 10.3389/fimmu.2025.1664255.",
+        "confidence": "high",
+        "reason": "The document directly addresses the autoimmune destruction of beta cells by autoreactive T cells, which is a core component of Type 1 diabetes pathophysiology."
+      },
+      {
+        "id": "BMJ Open. 2025 Nov 12;15(11):e103486. doi: 10.1136/bmjopen-2025-103486.",
+        "confidence": "high",
+        "reason": "The abstract explicitly states that Type 1 diabetes is characterized by progressive loss of pancreatic beta cells and identifies IL-17 as a mediator of this destruction, directly addressing the pathophysiology."
+      },
+      {
+        "id": "J Clin Med. 2025 Oct 23;14(21):7490. doi: 10.3390/jcm14217490.",
+        "confidence": "medium",
+        "reason": "The document describes pancreatic atrophy and age-specific structural changes in early post-diagnosis Type 1 diabetes, which contributes to understanding the disease's pathophysiology, though it does not detail the autoimmune destruction process itself."
+      }
+    ],
+    "reference_answer": "Type 1 diabetes mellitus (T1DM) arises from a T-cell–mediated autoimmune process that selectively destroys pancreatic β-cells, the sole source of insulin. Disease begins when autoreactive CD8⁺ and CD4⁺ T lymphocytes infiltrate islets (insulitis) and recognize β-cell antigens—insulin, GAD65, IA-2 and ZnT8—presented on HLA class II molecules (predominantly DR4-DQ8 or DR3-DQ2). Cytokines (IFN-γ, IL-1β, TNF-α) and granzymes released by these T cells, along with Fas–Fas-ligand interactions, trigger apoptotic β-cell death. As β-cell mass falls below the threshold needed for euglycemia, first-phase insulin secretion is lost, leading to hyperglycemia and overt diabetes. Autoantibodies to the same antigens appear earlier and serve as markers, but do not directly mediate β-cell killing."
+  },
+  {
+    "query": "What are the first-line treatments for hypertension?",
+    "relevant_docs": [
+      "High Blood Press Cardiovasc Prev. 2025 Nov 12. doi: 10.1007/s40292-025-00751-8.",
+      "J Health Popul Nutr. 2025 Nov 11;44(1):394. doi: 10.1186/s41043-025-01058-z.",
+      "Front Med (Lausanne). 2025 Oct 29;12:1630160. doi: 10.3389/fmed.2025.1630160.",
+      "Inn Med (Heidelb). 2025 Nov 9. doi: 10.1007/s00108-025-02016-x.",
+      "J Hypertens. 2025 Sep 18. doi: 10.1097/HJH.0000000000004156."
+    ],
+    "relevant_docs_details": [
+      {
+        "id": "High Blood Press Cardiovasc Prev. 2025 Nov 12. doi: 10.1007/s40292-025-00751-8.",
+        "confidence": "high",
+        "reason": "Document title indicates it discusses a triple-pill combination of telmisartan, amlodipine, and indapamide for initial treatment, which directly relates to first-line antihypertensive therapy."
+      },
+      {
+        "id": "J Health Popul Nutr. 2025 Nov 11;44(1):394. doi: 10.1186/s41043-025-01058-z.",
+        "confidence": "high",
+        "reason": "A comprehensive narrative review on precision medicine approach to hypertension would necessarily include discussion of first-line treatments as a foundational element before discussing personalized approaches."
+      },
+      {
+        "id": "Front Med (Lausanne). 2025 Oct 29;12:1630160. doi: 10.3389/fmed.2025.1630160.",
+        "confidence": "high",
+        "reason": "Document on hypertension management in CKD would include first-line antihypertensive agents recommended for this population, which are part of the broader first-line treatments for hypertension."
+      },
+      {
+        "id": "Inn Med (Heidelb). 2025 Nov 9. doi: 10.1007/s00108-025-02016-x.",
+        "confidence": "high",
+        "reason": "The document explicitly mentions ACE inhibitors and angiotensin receptor blockers as drugs used in routine treatment of hypertension, which are well-established first-line agents."
+      },
+      {
+        "id": "J Hypertens. 2025 Sep 18. doi: 10.1097/HJH.0000000000004156.",
+        "confidence": "high",
+        "reason": "The abstract explicitly lists ACE inhibitors, ARBs, calcium channel blockers, and diuretics as guideline-recommended first-line drug classes for hypertension."
+      }
+    ],
+    "reference_answer": "First-line drug therapy for uncomplicated hypertension is any one of the four “thiazide-type” diuretic, calcium-channel blocker (CCB), angiotensin-converting-enzyme inhibitor (ACE-I), or angiotensin-receptor blocker (ARB) classes.  \nLarge outcome trials show that low-dose thiazides (e.g., chlorthalidone 12.5–25 mg daily) reduce fatal and non-fatal stroke, coronary events and heart failure at least as effectively as other agents, while CCBs (e.g., amlodipine 5–10 mg daily) give equivalent or superior stroke prevention. ACE-Is/ARBs lower mortality and renal events, particularly in patients with diabetes or proteinuria.  \n\nBecause head-to-head comparisons reveal no consistent difference in major cardiovascular endpoints among these classes, choice is guided by co-morbidity, tolerability and cost. Thiazides remain the reference standard; CCBs are preferred in isolated systolic hypertension or when diuretics are poorly tolerated; ACE-Is/ARBs are favoured for diabetes, chronic kidney disease, post-myocardial infarction or heart failure. β-blockers are no longer first-line in the absence of compelling indications such as angina, post-MI or heart failure with reduced ejection fraction.  \n\nTreatment starts with the lowest effective dose of the selected drug; if goal BP (<140/90 mmHg for most, <130/80 mmHg for high-risk patients) is not achieved, uptitrate the dose or add a drug from another class."
+  },
+  {
+    "query": "Compare ACE inhibitors and ARBs",
+    "relevant_docs": [
+      "J Hypertens. 2025 Sep 18. doi: 10.1097/HJH.0000000000004156.",
+      "J Hypertens. 2025 Sep 18. doi: 10.1097/HJH.0000000000004156."
+    ],
+    "relevant_docs_details": [
+      {
+        "id": "J Hypertens. 2025 Sep 18. doi: 10.1097/HJH.0000000000004156.",
+        "confidence": "high",
+        "reason": "The document directly compares ARBs and ACE inhibitors (ACEI) in terms of mortality outcomes, reporting ARBs reduced mortality while ACEI were neutral, which helps answer the comparative aspect of the query."
+      },
+      {
+        "id": "J Hypertens. 2025 Sep 18. doi: 10.1097/HJH.0000000000004156.",
+        "confidence": "high",
+        "reason": "The document directly compares ACE inhibitors and ARBs by evaluating their association with mortality in hypertensive patients, providing comparative effectiveness data between these two drug classes."
+      }
+    ],
+    "reference_answer": "ACE inhibitors and ARBs both block the renin-angiotensin-aldosterone system, but at different steps: ACE inhibitors prevent conversion of angiotensin I → II, while ARBs antagonise the angiotensin II type-1 receptor. Meta-analyses of >60 000 patients show no consistent difference in major outcomes. Blood-pressure reduction is equivalent (≈ –8/–5 mm Hg), and in chronic heart failure with reduced ejection fraction both classes reduce all-cause mortality by ~20 % and hospital admission by ~30 %. In post-myocardial-infarction patients they comparably cut cardiovascular death, recurrent MI or heart-failure hospitalisation by ~20 %.  \n\nSafety profiles diverge: ACE inhibitors raise the incidence of dry cough (relative risk ≈ 2–3) and angio-oedema (≈ 0.3 % vs 0.1 % with ARBs), whereas ARBs are virtually free of these effects. Hyperkalaemia and acute kidney injury occur with similar frequency with both. Consequently, guidelines recommend an ACE inhibitor first; switch to an ARB only if cough, angio-oedema, or intolerance develops. Combination therapy offers no outcome benefit and increases adverse renal events and symptomatic hypotension, so it is discouraged."
+  },
+  {
+    "query": "What are the contraindications for metformin?",
+    "relevant_docs": [],
+    "relevant_docs_details": [],
+    "reference_answer": "Metformin is contraindicated in patients with:\n\n1. **Renal disease or dysfunction** – Serum creatinine ≥1.5 mg/dL (men) or ≥1.4 mg/dL (women), or abnormal creatinine clearance, due to the risk of lactic acidosis from drug accumulation.\n\n2. **Heart failure requiring pharmacologic treatment** – Especially acute or unstable cases, as hypoperfusion increases lactate production and the risk of lactic acidosis.\n\n3. **Liver disease or alcohol abuse** – Hepatic impairment or acute alcohol intoxication (including binge drinking) predisposes to lactate accumulation.\n\n4. **Conditions causing hypoxia or tissue hypoperfusion** – Such as acute myocardial infarction, sepsis, shock, or pulmonary insufficiency, which heighten lactic acidosis risk.\n\n5. **Metabolic acidosis** – Including diabetic ketoacidosis, where metformin can worsen acidosis.\n\n6. **Age-related restrictions** – Not recommended for patients ≥80 years unless normal renal function is confirmed.\n\n7. **Radiologic contrast procedures** – Temporarily discontinue metformin before and 48 hours after iodinated contrast use to avoid acute kidney injury and lactic acidosis.\n\n8. **Surgical or fasting states** – Withhold metformin 48 hours before surgery or procedures involving fasting, resuming only after confirming normal renal function.\n\nThese contraindications stem from metformin’s primary risk of lactic acidosis, particularly in settings impairing renal clearance or increasing lactate production."
+  },
+  {
+    "query": "How does chronic kidney disease affect drug metabolism?",
+    "relevant_docs": [
+      "Indian J Pharmacol. 2025 Nov 1;57(6):371-379. doi: 10.4103/ijp.ijp_66_24. Epub"
+    ],
+    "relevant_docs_details": [
+      {
+        "id": "Indian J Pharmacol. 2025 Nov 1;57(6):371-379. doi: 10.4103/ijp.ijp_66_24. Epub",
+        "confidence": "medium",
+        "reason": "The document title indicates a comprehensive review on chronic kidney disease, which is likely to include sections on altered drug metabolism in CKD, a standard topic in such reviews."
+      }
+    ],
+    "reference_answer": "Chronic kidney disease (CKD) alters every phase of pharmacokinetics.  \n• Absorption: Uremia raises gastric pH and vomiting, cutting Cmax of drugs such as levodopa and some β-blockers by ≈20–30 %.  \n• Distribution: Accumulated acids and lower albumin decrease protein binding (e.g., phenytoin free fraction doubles), effectively increasing the active drug; at the same time fluid overload raises the volume of distribution for hydrophilic agents (e.g., gentamicin ↑30–50 %).  \n• Metabolism: Kidney is the major extra-hepatic site for insulin, morphine, imipenem and enalapril activation; loss of renal blood flow therefore slows conversion—enalaprilat formation falls 50 % in stage 4 CKD and morphine-6-glucuronide clearance drops 75 %. Hepatic CYP3A4/2C8 activity is also down-regulated, reducing midazolam clearance by 25 % and repaglinide by 40 %.  \n• Excretion: Glomerular filtration of unchanged hydrophilic drugs (atenolol, lithium, vancomycin) falls in direct proportion to eGFR; with tubular secretion impaired, metformin plasma half-life triples and acyclovir can reach nephrotoxic levels.  \n\nConsequences: standard doses of renally-cleared or hepato-renal drugs yield higher, prolonged exposure, so dose reduction or interval extension guided by eGFR or measured GFR is mandatory."
+  },
+  {
+    "query": "Explain the mechanism of action of statins",
+    "relevant_docs": [
+      "ChemistryOpen. 2025 Nov 10:e202500533. doi: 10.1002/open.202500533.",
+      "Curr Atheroscler Rep. 2025 Nov 13;27(1):114. doi: 10.1007/s11883-025-01358-z.",
+      "Curr Atheroscler Rep. 2025 Nov 13;27(1):114. doi: 10.1007/s11883-025-01358-z.",
+      "Cardiol Rev. 2025 Nov 8. doi: 10.1097/CRD.0000000000001122.",
+      "Cell Death Discov. 2025 Nov 6;11(1):505. doi: 10.1038/s41420-025-02749-6.",
+      "ChemistryOpen. 2025 Nov 10:e202500533. doi: 10.1002/open.202500533."
+    ],
+    "relevant_docs_details": [
+      {
+        "id": "ChemistryOpen. 2025 Nov 10:e202500533. doi: 10.1002/open.202500533.",
+        "confidence": "high",
+        "reason": "The document discusses statin analogs as inhibitors of HMG-CoA reductase, which is the enzyme target of statins, directly relating to their mechanism of action."
+      },
+      {
+        "id": "Curr Atheroscler Rep. 2025 Nov 13;27(1):114. doi: 10.1007/s11883-025-01358-z.",
+        "confidence": "low",
+        "reason": "The abstract mentions 'diverse mechanisms of statins' but does not specify any details about their mechanism of action, offering only minimal relevance."
+      },
+      {
+        "id": "Curr Atheroscler Rep. 2025 Nov 13;27(1):114. doi: 10.1007/s11883-025-01358-z.",
+        "confidence": "high",
+        "reason": "The document explicitly discusses statins' biological effects, including downregulating pro-inflammatory cytokines, suppressing ROS, and inhibiting signaling pathways, which directly relates to their mechanism of action."
+      },
+      {
+        "id": "Cardiol Rev. 2025 Nov 8. doi: 10.1097/CRD.0000000000001122.",
+        "confidence": "high",
+        "reason": "A review article on statins and their cardiovascular effects is highly likely to describe their mechanism of action."
+      },
+      {
+        "id": "Cell Death Discov. 2025 Nov 6;11(1):505. doi: 10.1038/s41420-025-02749-6.",
+        "confidence": "high",
+        "reason": "The document explicitly states that atorvastatin inhibits HMG-CoA reductase (HMGCR), which is the canonical mechanism of action for all statins, directly answering the query."
+      },
+      {
+        "id": "ChemistryOpen. 2025 Nov 10:e202500533. doi: 10.1002/open.202500533.",
+        "confidence": "high",
+        "reason": "Document focuses on statin analogs targeting HMG-CoA reductase, which is the primary enzyme inhibited by statins, directly related to their mechanism of action."
+      }
+    ],
+    "reference_answer": "Statins lower plasma cholesterol by reversibly inhibiting 3-hydroxy-3-methyl-glutaryl-coenzyme-A (HMG-CoA) reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate in the hepatic cholesterol-synthetic pathway. This blockade depletes hepatocyte cholesterol, triggering two compensatory events: (1) a stereospecific increase in cell-surface LDL receptors that avidly remove circulating LDL-cholesterol (LDL-C) and (2) enhanced transcription of the LDL-receptor gene via activation of the sterol regulatory element-binding protein (SREBP) pathway. The net effect is accelerated clearance of LDL-C from plasma, producing dose-dependent reductions of 18–55 % in LDL-C, 7–30 % in triglycerides, and a modest 5–15 % rise in HDL-C."
+  },
+  {
+    "query": "What are the diagnostic criteria for sepsis?",
+    "relevant_docs": [
+      "Healthcare (Basel). 2025 Oct 23;13(21):2686. doi: 10.3390/healthcare13212686."
+    ],
+    "relevant_docs_details": [
+      {
+        "id": "Healthcare (Basel). 2025 Oct 23;13(21):2686. doi: 10.3390/healthcare13212686.",
+        "confidence": "high",
+        "reason": "The document explicitly states the diagnostic criterion used for sepsis in the study: 'suspected/confirmed infection plus an acute increase in total Sequential Organ Failure Assessment (SOFA) ≥ 2 points,' which directly addresses the query."
+      }
+    ],
+    "reference_answer": "The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3) define sepsis as “life-threatening organ dysfunction caused by a dysregulated host response to infection” (JAMA 2016).  \nDiagnostic criterion: an acute increase of ≥2 points in the Sequential [Sepsis-related] Organ Failure Assessment (SOFA) score in a patient with suspected or proven infection.  \nThis change represents a ≥10 % in-hospital mortality risk attributable to infection.  \nSeptic shock is a subset of sepsis in which circulatory, cellular, and metabolic abnormalities are profound enough to increase mortality to >40 %.  \nClinically it is identified by:  \n1. Persistent hypotension requiring vasopressors to maintain MAP ≥65 mm Hg, and  \n2. Serum lactate >2 mmol/L despite adequate volume resuscitation."
+  },
+  {
+    "query": "Describe the management of acute myocardial infarction",
+    "relevant_docs": [
+      "Sci Rep. 2025 Nov 12;15(1):39645. doi: 10.1038/s41598-025-23262-x.",
+      "Int J Angiol. 2025 Jul 18;34(4):320-331. doi: 10.1055/a-2645-8838. eCollection",
+      "Lancet. 2025 Nov 9:S0140-6736(25)02170-1. doi: 10.1016/S0140-6736(25)02170-1.",
+      "Heart Lung Circ. 2025 Nov 5:S1443-9506(25)01623-3. doi:",
+      "Biomed Khim. 2025 Nov;71(5):342-350. doi: 10.18097/PBMCR1622.",
+      "Probl Sotsialnoi Gig Zdravookhranenniiai Istor Med. 2025 Dec 15;33(5):1125-1130.",
+      "Sci Rep. 2025 Nov 7;15(1):39133. doi: 10.1038/s41598-025-24372-2.",
+      "Sci Rep. 2025 Nov 12;15(1):39645. doi: 10.1038/s41598-025-23262-x."
+    ],
+    "relevant_docs_details": [
+      {
+        "id": "Sci Rep. 2025 Nov 12;15(1):39645. doi: 10.1038/s41598-025-23262-x.",
+        "confidence": "high",
+        "reason": "The document title indicates it discusses heart rate management with ivabradine in acute myocardial infarction, which is a specific aspect of AMI management."
+      },
+      {
+        "id": "Int J Angiol. 2025 Jul 18;34(4):320-331. doi: 10.1055/a-2645-8838. eCollection",
+        "confidence": "high",
+        "reason": "Document title indicates it covers medical management of coronary artery disease, which includes acute myocardial infarction management"
+      },
+      {
+        "id": "Lancet. 2025 Nov 9:S0140-6736(25)02170-1. doi: 10.1016/S0140-6736(25)02170-1.",
+        "confidence": "high",
+        "reason": "The document discusses PCI revascularisation strategies for patients with STEMI and NSTEMI, which is a key component of acute myocardial infarction management."
+      },
+      {
+        "id": "Heart Lung Circ. 2025 Nov 5:S1443-9506(25)01623-3. doi:",
+        "confidence": "high",
+        "reason": "The document discusses cardiogenic shock as a complication of acute myocardial infarction and mentions reperfusion strategies, which are part of AMI management."
+      },
+      {
+        "id": "Biomed Khim. 2025 Nov;71(5):342-350. doi: 10.18097/PBMCR1622.",
+        "confidence": "medium",
+        "reason": "The document reports experimental data on metilin reducing infarct size and CK-MB release in a rat model of myocardial infarction, which provides evidence for a potential therapeutic intervention in acute MI management."
+      },
+      {
+        "id": "Probl Sotsialnoi Gig Zdravookhranenniiai Istor Med. 2025 Dec 15;33(5):1125-1130.",
+        "confidence": "high",
+        "reason": "Document discusses interventions (thrombolysis, PCI, CABG) and timing that are core components of acute myocardial infarction management, even though it frames them as factors affecting mortality rather than providing a full management protocol."
+      },
+      {
+        "id": "Sci Rep. 2025 Nov 7;15(1):39133. doi: 10.1038/s41598-025-24372-2.",
+        "confidence": "high",
+        "reason": "The document discusses antithrombotic therapy choices (prasugrel vs ticagrelor) and de-escalation strategies in AMI patients undergoing primary PCI, which is part of the management of acute myocardial infarction."
+      },
+      {
+        "id": "Sci Rep. 2025 Nov 12;15(1):39645. doi: 10.1038/s41598-025-23262-x.",
+        "confidence": "high",
+        "reason": "The document discusses ivabradine therapy for heart rate control in acute myocardial infarction, which is a specific aspect of AMI management."
+      }
+    ],
+    "reference_answer": "Acute myocardial infarction (AMI) management centers on rapid reperfusion and adjunctive care. All patients should receive 162–325 mg aspirin immediately and daily thereafter, plus clopidogrel 300 mg loading (75 mg daily) or ticagrelor 180 mg loading (90 mg bid) for at least 12 months. High-intensity statin (atorvastatin 40–80 mg or rosuvastatin 20–40 mg) is started promptly and continued indefinitely.\n\nPrimary percutaneous coronary intervention (PCI) is preferred when first-medical-contact-to-balloon time is ≤90 min; otherwise give fibrinolysis (tenecteplase weight-based bolus) within 30 min of hospital arrival. Post-thrombolysis, transfer for angiography and rescue PCI if needed. Anticoagulation is mandatory: unfractionated heparin during PCI, or enoxaparin 1 mg kg⁻¹ sc bid if fibrinolysis is used.\n\nIV beta-blocker (metoprolol 5 mg q5 min to 15 mg) is given unless contraindicated, followed by oral metoprolol 25–100 mg bid. ACE inhibitor (or ARB) and high-intensity statin are initiated within 24 h and continued long-term. Oxygen is reserved for SaO₂ <90 % or respiratory distress.\n\nSecondary prevention includes BP <130/80 mmHg, LDL-C <1.4 mmol L⁻¹, smoking cessation, cardiac rehabilitation, and annual influenza vaccination."
+  },
+  {
+    "query": "What are the side effects of chemotherapy?",
+    "relevant_docs": [
+      "Cancer Rep (Hoboken). 2025 Nov;8(11):e70381. doi: 10.1002/cnr2.70381.",
+      "Cancer Rep (Hoboken). 2025 Nov;8(11):e70381. doi: 10.1002/cnr2.70381.",
+      "Support Care Cancer. 2025 Nov 13;33(12):1059. doi: 10.1007/s00520-025-10126-3.",
+      "Iran J Pharm Res. 2025 Oct 20;24(1):e162962. doi: 10.5812/ijpr-162962.",
+      "Support Care Cancer. 2025 Nov 13;33(12):1059. doi: 10.1007/s00520-025-10126-3.",
+      "ANZ J Surg. 2025 Nov 14. doi: 10.1111/ans.70380.",
+      "ESMO Open. 2025 Nov 11;10(12):105895. doi: 10.1016/j.esmoop.2025.105895.",
+      "Integr Cancer Ther. 2025 Jan-Dec;24:15347354251382931. doi:",
+      "Support Care Cancer. 2025 Nov 12;33(12):1053. doi: 10.1007/s00520-025-09973-x.",
+      "JMIR Res Protoc. 2025 Nov 14;14:e72950. doi: 10.2196/72950.",
+      "Front Oncol. 2025 Oct 27;15:1655444. doi: 10.3389/fonc.2025.1655444. eCollection",
+      "BMC Cancer. 2025 Nov 12;25(1):1754. doi: 10.1186/s12885-025-15043-6."
+    ],
+    "relevant_docs_details": [
+      {
+        "id": "Cancer Rep (Hoboken). 2025 Nov;8(11):e70381. doi: 10.1002/cnr2.70381.",
+        "confidence": "high",
+        "reason": "The document explicitly lists multiple chemotherapy side effects reported by patients (hair loss, darkened nails, mouth sores, weakness, vomiting, diarrhea, constipation)."
+      },
+      {
+        "id": "Cancer Rep (Hoboken). 2025 Nov;8(11):e70381. doi: 10.1002/cnr2.70381.",
+        "confidence": "high",
+        "reason": "The document lists specific chemotherapy side effects reported by patients (hair loss, darkened nails, mouth sores, weakness, vomiting, diarrhea, constipation) and discusses managing these side effects, directly addressing the query."
+      },
+      {
+        "id": "Support Care Cancer. 2025 Nov 13;33(12):1059. doi: 10.1007/s00520-025-10126-3.",
+        "confidence": "high",
+        "reason": "Document focuses on patient-reported oral adverse events during chemotherapy, directly addressing side effects of chemotherapy"
+      },
+      {
+        "id": "Iran J Pharm Res. 2025 Oct 20;24(1):e162962. doi: 10.5812/ijpr-162962.",
+        "confidence": "high",
+        "reason": "The document explicitly mentions that doxorubicin, a widely used chemotherapy drug, has several side effects including cardiotoxicity, directly addressing the query about chemotherapy side effects."
+      },
+      {
+        "id": "Support Care Cancer. 2025 Nov 13;33(12):1059. doi: 10.1007/s00520-025-10126-3.",
+        "confidence": "high",
+        "reason": "The document discusses persistent oral adverse events (dry mouth) in chemotherapy outpatients, which is a specific side effect of chemotherapy."
+      },
+      {
+        "id": "ANZ J Surg. 2025 Nov 14. doi: 10.1111/ans.70380.",
+        "confidence": "high",
+        "reason": "Document examines chemotherapy-induced toxicity, which directly relates to side effects of chemotherapy"
+      },
+      {
+        "id": "ESMO Open. 2025 Nov 11;10(12):105895. doi: 10.1016/j.esmoop.2025.105895.",
+        "confidence": "high",
+        "reason": "The document lists specific chemotherapy-related adverse events (diarrhea, leukopenia, neutropenia, thrombocytopenia, febrile neutropenia, hepatitis) which directly address the query about side effects of chemotherapy."
+      },
+      {
+        "id": "Integr Cancer Ther. 2025 Jan-Dec;24:15347354251382931. doi:",
+        "confidence": "high",
+        "reason": "The document discusses chemotherapy-induced peripheral neuropathy (CIPN), a specific side effect of chemotherapy, detailing symptoms like tingling, numbness, pain, and paresthesia."
+      },
+      {
+        "id": "Support Care Cancer. 2025 Nov 12;33(12):1053. doi: 10.1007/s00520-025-09973-x.",
+        "confidence": "high",
+        "reason": "The document discusses chemotherapy's impact on bone health, specifically osteoporosis and osteopenia, which are recognized side effects of chemotherapy treatment."
+      },
+      {
+        "id": "JMIR Res Protoc. 2025 Nov 14;14:e72950. doi: 10.2196/72950.",
+        "confidence": "high",
+        "reason": "The document title indicates it examines the interaction between a modified Mediterranean diet and chemotherapy, which implies it will discuss chemotherapy effects, including side effects, in the context of dietary intervention."
+      },
+      {
+        "id": "Front Oncol. 2025 Oct 27;15:1655444. doi: 10.3389/fonc.2025.1655444. eCollection",
+        "confidence": "high",
+        "reason": "Document discusses late side effects of oncological treatment, which includes chemotherapy, specifically mentioning male infertility as a side effect"
+      },
+      {
+        "id": "BMC Cancer. 2025 Nov 12;25(1):1754. doi: 10.1186/s12885-025-15043-6.",
+        "confidence": "high",
+        "reason": "The document explicitly lists specific chemotherapy side effects observed in two patient groups: anemia in the TP group, and neutropenia and neuropathy in the GP group, directly addressing the query about chemotherapy side effects."
+      }
+    ],
+    "reference_answer": "Chemotherapy side-effects arise because cytotoxic drugs also injure normal rapidly-dividing tissues. The most frequently encountered toxicities are:\n\n• Bone-marrow suppression – neutropenia, anaemia and thrombocytopenia occur in virtually all regimens and are dose-limiting.  \n• Gastro-intestinal – acute nausea or vomiting affects >70% of patients; mucositis and diarrhoea are common with 5-FU, irinotecan and methotrexate.  \n• Hair follicle damage leads to alopecia in 60-100% of those receiving anthracyclines, cyclophosphamide or taxanes; it is usually reversible.  \n• Reproductive – gonadal failure: permanent amenorrhoea after alkylating agents in >90% of women >40 years; azoospermia in most men.  \n• Organ-specific – doxorubicin and related anthracyclines produce cumulative, irreversible cardiomyopathy above 450 mg m⁻²; bleomycin causes dose-dependent pulmonary fibrosis; cisplatin and ifosfamide can induce renal tubular damage.  \n• Secondary malignancy – alkylators raise the lifetime risk of acute leukaemia ≈2-5-fold, peaking 4-10 years after treatment.  \n• Neurotoxicity – vinca alkaloids and platinum agents cause predominantly sensory peripheral neuropathy; high-dose cytarabine may precipitate cerebellar ataxia.  \n• Constitutional symptoms – fatigue, anorexia and increased infection risk due to immunosuppression are almost universal.\n\nMost acute toxicities resolve within weeks of completing therapy, but some (cardiomyopathy, infertility, neuropathy, second cancers) can be permanent or appear years later."
+  },
+  {
+    "query": "How is asthma diagnosed and treated?",
+    "relevant_docs": [
+      "Rev Prat. 2025 Sep;75(7):732-737.",
+      "Paediatr Respir Rev. 2025 Sep 20:S1526-0542(25)00080-6. doi:",
+      "Allergy. 2025 Aug 29. doi: 10.1111/all.70027.",
+      "Paediatr Respir Rev. 2025 Sep 20:S1526-0542(25)00080-6. doi:",
+      "J Allergy Clin Immunol Pract. 2025 Oct;13(10):2537-2551. doi:",
+      "Children (Basel). 2025 Aug 15;12(8):1073. doi: 10.3390/children12081073.",
+      "Rev Prat. 2025 Sep;75(7):743-747.",
+      "BMC Complement Med Ther. 2025 Nov 7;25(1):416. doi: 10.1186/s12906-025-05155-8.",
+      "Zhonghua Nei Ke Za Zhi. 2025 Nov 1;64(11):1026-1054. doi:",
+      "J Med Internet Res. 2025 Oct 30;27:e78693. doi: 10.2196/78693."
+    ],
+    "relevant_docs_details": [
+      {
+        "id": "Rev Prat. 2025 Sep;75(7):732-737.",
+        "confidence": "high",
+        "reason": "The document details the diagnostic process for adult asthma, including clinical criteria, spirometry with bronchodilator reversibility testing, and the role of allergological testing, directly addressing the 'diagnosed' part of the query."
+      },
+      {
+        "id": "Paediatr Respir Rev. 2025 Sep 20:S1526-0542(25)00080-6. doi:",
+        "confidence": "high",
+        "reason": "The document discusses challenges and considerations in diagnosing asthma in preschoolers, including the use of lung function tests and biomarkers, which directly relates to the diagnosis aspect of the query."
+      },
+      {
+        "id": "Allergy. 2025 Aug 29. doi: 10.1111/all.70027.",
+        "confidence": "high",
+        "reason": "Document discusses diagnosis and management of severe asthma in children, which directly addresses parts of the query about how asthma is diagnosed and treated."
+      },
+      {
+        "id": "Paediatr Respir Rev. 2025 Sep 20:S1526-0542(25)00080-6. doi:",
+        "confidence": "high",
+        "reason": "The document discusses diagnostic approaches for asthma in preschoolers, including lung function tests, biomarkers, and clinical predictive indices, which directly addresses the 'diagnosis' part of the query."
+      },
+      {
+        "id": "J Allergy Clin Immunol Pract. 2025 Oct;13(10):2537-2551. doi:",
+        "confidence": "medium",
+        "reason": "The document discusses diagnostic challenges and tools for asthma in preschool children, including lung function tests and bronchodilator response, which are relevant to the diagnosis aspect of the query."
+      },
+      {
+        "id": "Children (Basel). 2025 Aug 15;12(8):1073. doi: 10.3390/children12081073.",
+        "confidence": "high",
+        "reason": "The document discusses lung function tests used in asthma diagnosis, including traditional methods like spirometry and newer technologies, which directly relates to the diagnostic aspect of the query."
+      },
+      {
+        "id": "Rev Prat. 2025 Sep;75(7):743-747.",
+        "confidence": "high",
+        "reason": "The document details pharmacological and non-pharmacological treatment strategies for adult asthma, directly addressing the treatment aspect of the query."
+      },
+      {
+        "id": "BMC Complement Med Ther. 2025 Nov 7;25(1):416. doi: 10.1186/s12906-025-05155-8.",
+        "confidence": "high",
+        "reason": "The document explicitly discusses asthma treatment practices, including diagnostic and treatment approaches used by Korean medicine doctors, which directly addresses the treatment aspect of the query."
+      },
+      {
+        "id": "Zhonghua Nei Ke Za Zhi. 2025 Nov 1;64(11):1026-1054. doi:",
+        "confidence": "high",
+        "reason": "The document explicitly addresses diagnostic techniques, standards, and treatment principles for allergic asthma, which directly contributes to answering how asthma is diagnosed and treated."
+      },
+      {
+        "id": "J Med Internet Res. 2025 Oct 30;27:e78693. doi: 10.2196/78693.",
+        "confidence": "high",
+        "reason": "The document describes a study that classified participants into confirmed, suspected, or excluded asthma groups, which directly relates to the diagnostic aspect of the query."
+      }
+    ],
+    "reference_answer": "Diagnosis  \nAsthma is confirmed by (1) a compatible history of variable respiratory symptoms (wheeze, dyspnoea, chest tightness, cough) and (2) objective evidence of reversible airway obstruction—i.e. an increase in FEV1 ≥12 % and ≥200 ml after inhaled SABA or a 20 % fall in FEV1 after exercise or methacholine challenge. Spirometry is the preferred initial test; if baseline values are normal, bronchial provocation or PEF variability is used. All patients should also have fractional exhaled nitric oxide (FeNO) measured and be screened for allergic sensitisation (skin-prick or specific-IgE testing).\n\nTreatment  \nStepwise pharmacologic therapy is started at the step appropriate to initial symptom control and risk of exacerbations.  \n- Step 1 (SABA prn) is reserved for patients with infrequent, mild symptoms and no exacerbation risk factors.  \n- Step 2 adds a low-dose ICS taken daily; this halves exacerbation risk compared with SABA alone.  \n- Step 3 increases ICS to medium dose or adds a long-acting β₂-agonist (LABA); combination ICS/LABA improves lung function and further reduces exacerbations.  \n- Step 4 combines high-dose ICS/LABA ± LTRA or tiotropium.  \n- Step 5 adds a biologic (anti-IgE, anti-IL-5/5R, anti-IL-4R) or oral corticosteroid for severe refractory disease.\n\nNon-pharmacologic measures include inhaler-critique and technique training at every visit, annual influenza vaccination, smoking cessation, weight reduction in obese patients, and allergen avoidance when sensitisation is documented. Written action plans that specify how to increase therapy for loss of control and when to seek medical care reduce hospitalisations by ~50 %."
+  }
+]

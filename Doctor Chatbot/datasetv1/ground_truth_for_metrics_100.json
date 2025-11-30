@@ -1,0 +1,4842 @@
+[
+  {
+    "query_id": "q_019506",
+    "query": "When should domain-specific dispersion be used to predict progression to mild cognitive impairment and dementia in patients, particularly in scenarios where controlling for demographics, ApoE4 status, and MMSE is necessary?",
+    "relevant_doc_ids": [
+      "Clin Neuropsychol. 2025 Nov 12:1-25. doi: 10.1080/13854046.2025.2577149.",
+      "Clin Neuropsychol. 2025 Nov 12:1-25. doi: 10.1080/13854046.2025.2577149.",
+      "Clin Neuropsychol. 2025 Nov 12:1-25. doi: 10.1080/13854046.2025.2577149.",
+      "Clin Neuropsychol. 2025 Nov 12:1-25. doi: 10.1080/13854046.2025.2577149.",
+      "Comput Methods Programs Biomed. 2025 Nov 11;274:109162. doi:",
+      "Comput Methods Programs Biomed. 2025 Nov 11;274:109162. doi:",
+      "Biometrics. 2025 Oct 8;81(4):ujaf144. doi: 10.1093/biomtc/ujaf144.",
+      "Alzheimers Res Ther. 2025 Nov 13;17(1):246. doi: 10.1186/s13195-025-01871-y.",
+      "Front Neurosci. 2025 Oct 28;19:1638503. doi: 10.3389/fnins.2025.1638503.",
+      "Alzheimers Dement. 2025 Nov;21(11):e70894. doi: 10.1002/alz.70894.",
+      "Alzheimers Dement. 2025 Nov;21(11):e70894. doi: 10.1002/alz.70894.",
+      "JMIR Public Health Surveill. 2025 Nov 13;11:e80575. doi: 10.2196/80575.",
+      "Front Neurosci. 2025 Oct 28;19:1638503. doi: 10.3389/fnins.2025.1638503.",
+      "Alzheimers Res Ther. 2025 Nov 13;17(1):246. doi: 10.1186/s13195-025-01871-y."
+    ],
+    "num_relevant": 14,
+    "relevance_judgments": {
+      "Clin Neuropsychol. 2025 Nov 12:1-25. doi: 10.1080/13854046.2025.2577149.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.3168448805809021
+      },
+      "Comput Methods Programs Biomed. 2025 Nov 11;274:109162. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.4483571946620941
+      },
+      "Front Neurosci. 2025 Oct 28;19:1638503. doi: 10.3389/fnins.2025.1638503.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.507192850112915
+      },
+      "Biometrics. 2025 Oct 8;81(4):ujaf144. doi: 10.1093/biomtc/ujaf144.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.4582712650299072
+      },
+      "Alzheimers Res Ther. 2025 Nov 13;17(1):246. doi: 10.1186/s13195-025-01871-y.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5117276906967163
+      },
+      "Alzheimers Dement. 2025 Nov;21(11):e70894. doi: 10.1002/alz.70894.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5049771070480347
+      },
+      "Acad Radiol. 2025 Nov 12:S1076-6332(25)01024-4. doi: 10.1016/j.acra.2025.10.038.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.4874574542045593
+      },
+      "Alzheimers Dement. 2025 Nov;21(11):e70869. doi: 10.1002/alz.70869.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.4894993305206299
+      },
+      "Diabetol Metab Syndr. 2025 Nov 14;17(1):429. doi: 10.1186/s13098-025-02003-0.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.49321648478507996
+      },
+      "Alzheimers Res Ther. 2025 Nov 14;17(1):247. doi: 10.1186/s13195-025-01898-1.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.49473869800567627
+      },
+      "JMIR Public Health Surveill. 2025 Nov 13;11:e80575. doi: 10.2196/80575.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5067441463470459
+      },
+      "Hum Brain Mapp. 2025 Nov;46(16):e70403. doi: 10.1002/hbm.70403.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5115662813186646
+      }
+    }
+  },
+  {
+    "query_id": "q_537961",
+    "query": "What is the difference in median time to sputum culture conversion between smear-positive and smear-negative samples?",
+    "relevant_doc_ids": [
+      "BMC Pulm Med. 2025 Nov 11;25(1):518. doi: 10.1186/s12890-025-03986-2.",
+      "BMC Pulm Med. 2025 Nov 11;25(1):518. doi: 10.1186/s12890-025-03986-2.",
+      "BMC Pulm Med. 2025 Nov 11;25(1):518. doi: 10.1186/s12890-025-03986-2.",
+      "BMC Pulm Med. 2025 Nov 11;25(1):518. doi: 10.1186/s12890-025-03986-2.",
+      "Open Forum Infect Dis. 2025 Nov 12;12(11):ofaf664. doi: 10.1093/ofid/ofaf664."
+    ],
+    "num_relevant": 5,
+    "relevance_judgments": {
+      "BMC Pulm Med. 2025 Nov 11;25(1):518. doi: 10.1186/s12890-025-03986-2.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.3879847526550293
+      },
+      "Open Forum Infect Dis. 2025 Nov 12;12(11):ofaf664. doi: 10.1093/ofid/ofaf664.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.44809192419052124
+      },
+      "Microbiol Spectr. 2025 Nov 12:e0149325. doi: 10.1128/spectrum.01493-25.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.5037477612495422
+      },
+      "J Thorac Dis. 2025 Oct 31;17(10):9003-9012. doi: 10.21037/jtd-2025-1159. Epub": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.5419481992721558
+      },
+      "Pediatr Pulmonol. 2025 Nov;60(11):e71378. doi: 10.1002/ppul.71378.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.5394726991653442
+      },
+      "J Bone Jt Infect. 2025 Nov 5;10(6):437-446. doi: 10.5194/jbji-10-437-2025.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5540265440940857
+      },
+      "Am J Clin Pathol. 2025 Nov 14:aqaf116. doi: 10.1093/ajcp/aqaf116.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5597949028015137
+      },
+      "BMC Infect Dis. 2025 Nov 12;25(1):1551. doi: 10.1186/s12879-025-11917-z.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5778136253356934
+      },
+      "Trials. 2025 Nov 12;26(1):500. doi: 10.1186/s13063-025-09228-4.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5720690488815308
+      },
+      "Transl Pediatr. 2025 Oct 31;14(10):2561-2571. doi: 10.21037/tp-2025-438. Epub": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5726107954978943
+      },
+      "Med Sci Monit. 2025 Nov 8;31:e947984. doi: 10.12659/MSM.947984.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5767513513565063
+      },
+      "Front Cell Infect Microbiol. 2025 Oct 28;15:1611332. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5871034264564514
+      },
+      "Intest Res. 2025 Nov 14. doi: 10.5217/ir.2025.00018.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5889013409614563
+      }
+    }
+  },
+  {
+    "query_id": "q_673630",
+    "query": "What are the differences in how professional bodies and national societies define and support radiographer practice in interventional radiology and interventional cardiology across European countries?",
+    "relevant_doc_ids": [
+      "Radiography (Lond). 2025 Nov 13:103236. doi: 10.1016/j.radi.2025.103236.",
+      "Radiography (Lond). 2025 Nov 13:103236. doi: 10.1016/j.radi.2025.103236.",
+      "Radiography (Lond). 2025 Nov 13:103236. doi: 10.1016/j.radi.2025.103236.",
+      "Radiography (Lond). 2025 Nov 13:103236. doi: 10.1016/j.radi.2025.103236."
+    ],
+    "num_relevant": 4,
+    "relevance_judgments": {
+      "Radiography (Lond). 2025 Nov 13:103236. doi: 10.1016/j.radi.2025.103236.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.4964011311531067
+      },
+      "BMC Med Educ. 2025 Nov 14;25(1):1599. doi: 10.1186/s12909-025-08207-2.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.65267014503479
+      },
+      "Sci Rep. 2025 Nov 10;15(1):39379. doi: 10.1038/s41598-025-23973-1.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.6632497906684875
+      },
+      "Eur Radiol. 2025 Nov 6. doi: 10.1007/s00330-025-12088-w.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.6744967699050903
+      },
+      "Radiography (Lond). 2025 Nov 6;32(1):103214. doi: 10.1016/j.radi.2025.103214.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.6713897585868835
+      },
+      "Cancers (Basel). 2025 Oct 30;17(21):3491. doi: 10.3390/cancers17213491.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.6785985827445984
+      },
+      "J Nucl Med Technol. 2025 Nov 4:jnmt.125.271345. doi: 10.2967/jnmt.125.271345.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.673561692237854
+      },
+      "J Occup Health. 2025 Nov 11:uiaf064. doi: 10.1093/joccuh/uiaf064.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.6761369109153748
+      },
+      "West J Emerg Med. 2025 Oct 3;26(5):1423-1430. doi: 10.5811/westjem.38462.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.6777923107147217
+      },
+      "Lancet. 2025 Oct 18;406(10513):1811-1872. doi: 10.1016/S0140-6736(25)01917-8.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.6833564639091492
+      },
+      "Clin Imaging. 2025 Nov 4;129:110662. doi: 10.1016/j.clinimag.2025.110662.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.6875134706497192
+      },
+      "Lancet. 2025 Nov 7:S0140-6736(25)01853-7. doi: 10.1016/S0140-6736(25)01853-7.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6884220838546753
+      },
+      "Radiologia (Engl Ed). 2025 Nov-Dec;67(6):101633. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6922809481620789
+      }
+    }
+  },
+  {
+    "query_id": "q_389443",
+    "query": "How does the fibrinolytic system modulate outcome after liver, kidney, and lung transplantation through its role in fibrin formation and dissolution?",
+    "relevant_doc_ids": [
+      "Arterioscler Thromb Vasc Biol. 2025 Nov 13. doi: 10.1161/ATVBAHA.125.321621.",
+      "Arterioscler Thromb Vasc Biol. 2025 Nov 13. doi: 10.1161/ATVBAHA.125.321621.",
+      "Arterioscler Thromb Vasc Biol. 2025 Nov 13. doi: 10.1161/ATVBAHA.125.321621.",
+      "TH Open. 2025 Oct 29;9:a27199152. doi: 10.1055/a-2719-9152. eCollection 2025.",
+      "TH Open. 2025 Oct 29;9:a27199152. doi: 10.1055/a-2719-9152. eCollection 2025.",
+      "Thromb Res. 2025 Nov 7;256:109530. doi: 10.1016/j.thromres.2025.109530."
+    ],
+    "num_relevant": 6,
+    "relevance_judgments": {
+      "Arterioscler Thromb Vasc Biol. 2025 Nov 13. doi: 10.1161/ATVBAHA.125.321621.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.31724750995635986
+      },
+      "TH Open. 2025 Oct 29;9:a27199152. doi: 10.1055/a-2719-9152. eCollection 2025.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.5139276385307312
+      },
+      "Thromb Res. 2025 Nov 7;256:109530. doi: 10.1016/j.thromres.2025.109530.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5842278599739075
+      },
+      "Semin Thromb Hemost. 2025 Nov 13. doi: 10.1055/a-2722-7189.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.5599349737167358
+      },
+      "J Clin Med. 2025 Nov 5;14(21):7843. doi: 10.3390/jcm14217843.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.5650169849395752
+      },
+      "J Thorac Dis. 2025 Oct 31;17(10):8019-8029. doi: 10.21037/jtd-2025-625. Epub 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.5678436756134033
+      },
+      "Korean J Intern Med. 2025 Nov;40(6):866-875. doi: 10.3904/kjim.2025.118. Epub": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5873366594314575
+      },
+      "Magn Reson Med. 2025 Nov 14. doi: 10.1002/mrm.70184.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5991544723510742
+      },
+      "J Thorac Dis. 2025 Oct 31;17(10):8234-8244. doi: 10.21037/jtd-2025-742. Epub 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.6007437705993652
+      },
+      "Hepatology. 2025 Nov 11. doi: 10.1097/HEP.0000000000001609.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.6007969975471497
+      },
+      "Int J Mol Sci. 2025 Oct 25;26(21):10385. doi: 10.3390/ijms262110385.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.6012386679649353
+      },
+      "J Thorac Dis. 2025 Oct 31;17(10):8331-8348. doi: 10.21037/jtd-2025-1105. Epub": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.6025575995445251
+      },
+      "Front Immunol. 2025 Oct 28;16:1668591. doi: 10.3389/fimmu.2025.1668591.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6031112670898438
+      },
+      "Thromb Res. 2025 Nov 7;256:109531. doi: 10.1016/j.thromres.2025.109531.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.606189489364624
+      }
+    }
+  },
+  {
+    "query_id": "q_956141",
+    "query": "What are the most commonly reported adverse events associated with cefotaxime, ceftazidime, and cefdinir, respectively, according to the FDA adverse event reporting system database?",
+    "relevant_doc_ids": [
+      "Medicine (Baltimore). 2025 Nov 7;104(45):e45778. doi:",
+      "Medicine (Baltimore). 2025 Nov 7;104(45):e45778. doi:",
+      "Medicine (Baltimore). 2025 Nov 7;104(45):e45778. doi:",
+      "2024-385. TASO REC is accredited by the Uganda"
+    ],
+    "num_relevant": 4,
+    "relevance_judgments": {
+      "Medicine (Baltimore). 2025 Nov 7;104(45):e45778. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.5369211435317993
+      },
+      "PLoS One. 2025 Oct 27;20(10):e0331510. doi: 10.1371/journal.pone.0331510.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.6126933097839355
+      },
+      "J Thorac Dis. 2025 Oct 31;17(10):8561-8570. doi: 10.21037/jtd-2025-386. Epub 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.6371503472328186
+      },
+      "Sci Rep. 2025 Oct 28;15(1):37605. doi: 10.1038/s41598-025-21609-y.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.6361243724822998
+      },
+      "Front Med (Lausanne). 2025 Oct 10;12:1687088. doi: 10.3389/fmed.2025.1687088.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.6390294432640076
+      },
+      "J Pharm Pract. 2025 Nov 3:8971900251394123. doi: 10.1177/08971900251394123.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.6429862380027771
+      },
+      "Front Pharmacol. 2025 Oct 29;16:1625595. doi: 10.3389/fphar.2025.1625595.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.6555120944976807
+      },
+      "BMC Med Inform Decis Mak. 2025 Nov 12;25(1):421. doi: 10.1186/s12911-025-03260-9.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.6456289291381836
+      },
+      "Front Pharmacol. 2025 Oct 27;16:1684475. doi: 10.3389/fphar.2025.1684475.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.6459763050079346
+      },
+      "2024-385. TASO REC is accredited by the Uganda": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6626319289207458
+      },
+      "Cox regression, and": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.652533769607544
+      },
+      "Clin Pharmacol Ther. 2025 Nov 9. doi: 10.1002/cpt.70121.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.6542438268661499
+      },
+      "Microbiologyopen. 2025 Dec;14(6):e70125. doi: 10.1002/mbo3.70125.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.6572011709213257
+      },
+      "Am J Emerg Med. 2025 Nov 2;99:451-470. doi: 10.1016/j.ajem.2025.10.065.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6634861826896667
+      }
+    }
+  },
+  {
+    "query_id": "q_005893",
+    "query": "What is the mechanism by which radiomic features extracted from contrast-enhancing tumor regions on pre-radiotherapy MRI across multiple imaging sequences provide prognostic value in glioblastoma patients?",
+    "relevant_doc_ids": [
+      "Eur J Med Res. 2025 Nov 14;30(1):1121. doi: 10.1186/s40001-025-03333-5.",
+      "Eur J Med Res. 2025 Nov 14;30(1):1121. doi: 10.1186/s40001-025-03333-5.",
+      "Eur J Med Res. 2025 Nov 14;30(1):1121. doi: 10.1186/s40001-025-03333-5.",
+      "Front Cell Dev Biol. 2025 Oct 29;13:1673498. doi: 10.3389/fcell.2025.1673498.",
+      "Eur Radiol Exp. 2025 Nov 14;9(1):111. doi: 10.1186/s41747-025-00652-4.",
+      "Transl Cancer Res. 2025 Oct 31;14(10):7329-7346. doi: 10.21037/tcr-2025-2024.",
+      "Adv Med Educ Pract. 2025 Oct 28;16:1989-2001. doi: 10.2147/AMEP.S554692.",
+      "Eur J Med Res. 2025 Nov 14;30(1):1121. doi: 10.1186/s40001-025-03333-5.",
+      "PLoS One. 2025 Nov 14;20(11):e0336387. doi: 10.1371/journal.pone.0336387."
+    ],
+    "num_relevant": 9,
+    "relevance_judgments": {
+      "Eur J Med Res. 2025 Nov 14;30(1):1121. doi: 10.1186/s40001-025-03333-5.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.4797704815864563
+      },
+      "Eur Radiol Exp. 2025 Nov 14;9(1):111. doi: 10.1186/s41747-025-00652-4.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.4125431478023529
+      },
+      "Transl Cancer Res. 2025 Oct 31;14(10):7329-7346. doi: 10.21037/tcr-2025-2024.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.4413633346557617
+      },
+      "Front Cell Dev Biol. 2025 Oct 29;13:1673498. doi: 10.3389/fcell.2025.1673498.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.40901875495910645
+      },
+      "Adv Med Educ Pract. 2025 Oct 28;16:1989-2001. doi: 10.2147/AMEP.S554692.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.44146203994750977
+      },
+      "J Imaging Inform Med. 2025 Nov 11. doi: 10.1007/s10278-025-01610-7.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.46029770374298096
+      },
+      "Transl Lung Cancer Res. 2025 Oct 31;14(10):4221-4234. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.465792179107666
+      },
+      "J Appl Clin Med Phys. 2025 Nov;26(11):e70347. doi: 10.1002/acm2.70347.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.4657939076423645
+      },
+      "NPJ Digit Med. 2025 Nov 14;8(1):660. doi: 10.1038/s41746-025-02018-x.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.46704840660095215
+      },
+      "Cancers (Basel). 2025 Oct 23;17(21):3406. doi: 10.3390/cancers17213406.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.4710692763328552
+      },
+      "BMC Cancer. 2025 Nov 12;25(1):1760. doi: 10.1186/s12885-025-15206-5.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.48101890087127686
+      },
+      "PLoS One. 2025 Nov 14;20(11):e0336387. doi: 10.1371/journal.pone.0336387.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.48300278186798096
+      },
+      "Acad Radiol. 2025 Nov 12:S1076-6332(25)00968-7. doi: 10.1016/j.acra.2025.10.013.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.49134284257888794
+      },
+      "Diagnostics (Basel). 2025 Oct 27;15(21):2722. doi: 10.3390/diagnostics15212722.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.4917145371437073
+      }
+    }
+  },
+  {
+    "query_id": "q_326194",
+    "query": "In urban HIV care settings, what strategies can be employed to enhance vaccination rates, considering the complexities of measuring intervention impacts in real-world settings?",
+    "relevant_doc_ids": [
+      "AIDS Behav. 2025 Nov 12. doi: 10.1007/s10461-025-04948-9.",
+      "AIDS Behav. 2025 Nov 12. doi: 10.1007/s10461-025-04948-9.",
+      "AIDS Behav. 2025 Nov 12. doi: 10.1007/s10461-025-04948-9.",
+      "BMC Public Health. 2025 Nov 10;25(1):3885. doi: 10.1186/s12889-025-25017-9.",
+      "Pan Afr Med J. 2025 Jun 11;51(Suppl 1):2. doi:",
+      "Hum Vaccin Immunother. 2025 Dec;21(1):2584760. doi:",
+      "Pan Afr Med J. 2025 Jun 11;51(Suppl 1):2. doi:",
+      "JMIR Res Protoc. 2025 Nov 7;14:e72471. doi: 10.2196/72471.",
+      "J Int Assoc Provid AIDS Care. 2025 Jan-Dec;24:23259582251388691. doi:",
+      "BMC Public Health. 2025 Nov 12;25(1):3917. doi: 10.1186/s12889-025-25171-0.",
+      "Cell Host Microbe. 2025 Nov 12;33(11):1811-1814. doi: 10.1016/j.chom.2025.10.014."
+    ],
+    "num_relevant": 11,
+    "relevance_judgments": {
+      "AIDS Behav. 2025 Nov 12. doi: 10.1007/s10461-025-04948-9.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.33727458119392395
+      },
+      "BMC Public Health. 2025 Nov 10;25(1):3885. doi: 10.1186/s12889-025-25017-9.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.4292982220649719
+      },
+      "Pan Afr Med J. 2025 Jun 13;51(Suppl 1):7. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5165688395500183
+      },
+      "AIDS Behav. 2025 Nov 9. doi: 10.1007/s10461-025-04916-3.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.47691377997398376
+      },
+      "BMC Health Serv Res. 2025 Nov 12;25(1):1465. doi: 10.1186/s12913-025-13639-z.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.4876553416252136
+      },
+      "Pan Afr Med J. 2025 Jun 11;51(Suppl 1):2. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.498554527759552
+      },
+      "Hum Vaccin Immunother. 2025 Dec;21(1):2584760. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.489542156457901
+      },
+      "Pan Afr Med J. 2025 Jul 24;51(Suppl 1):12. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.4950960874557495
+      },
+      "EBioMedicine. 2025 Nov 13;122:106017. doi: 10.1016/j.ebiom.2025.106017.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.4957839548587799
+      },
+      "JMIR Res Protoc. 2025 Nov 7;14:e72471. doi: 10.2196/72471.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.504135251045227
+      },
+      "J Int Assoc Provid AIDS Care. 2025 Jan-Dec;24:23259582251388691. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5080087184906006
+      },
+      "BMC Public Health. 2025 Nov 4;25(1):3781. doi: 10.1186/s12889-025-24923-2.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5087242126464844
+      },
+      "AIDS. 2025 Nov 11. doi: 10.1097/QAD.0000000000004400.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5097346901893616
+      },
+      "BMC Public Health. 2025 Nov 12;25(1):3917. doi: 10.1186/s12889-025-25171-0.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5114851593971252
+      },
+      "Cell Host Microbe. 2025 Nov 12;33(11):1811-1814. doi: 10.1016/j.chom.2025.10.014.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5115299224853516
+      },
+      "J Glob Health. 2025 Nov 14;15:03036. doi: 10.7189/jogh.15.03036.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5115630626678467
+      }
+    }
+  },
+  {
+    "query_id": "q_634210",
+    "query": "What is the feasibility of conducting a fully virtual Community Health Assessment Tool (CHAT) remotely, according to the study published in Health Expectation in 2025?",
+    "relevant_doc_ids": [
+      "Health Expect. 2025 Dec;28(6):e70487. doi: 10.1111/hex.70487."
+    ],
+    "num_relevant": 1,
+    "relevance_judgments": {
+      "JMIR Aging. 2025 Nov 13;8:e76653. doi: 10.2196/76653.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 1,
+        "retrieval_score": 0.4515226483345032
+      },
+      "Health Expect. 2025 Dec;28(6):e70487. doi: 10.1111/hex.70487.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.4968874454498291
+      },
+      "JMIR Form Res. 2025 Nov 13;9:e71793. doi: 10.2196/71793.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.47321057319641113
+      },
+      "Cureus. 2025 Sep 22;17(9):e92900. doi: 10.7759/cureus.92900. eCollection 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.5309603810310364
+      },
+      "J Gen Intern Med. 2025 Nov 13. doi: 10.1007/s11606-025-09980-y.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.5385206937789917
+      },
+      "Health Soc Care Deliv Res. 2025 Nov;13(39):1-27. doi: 10.3310/GJHG0331.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.5361039638519287
+      },
+      "Curr Opin Psychiatry. 2025 Oct 23. doi: 10.1097/YCO.0000000000001048.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.537648618221283
+      },
+      "JMIR Res Protoc. 2025 Nov 12;14:e67757. doi: 10.2196/67757.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5478459000587463
+      },
+      "JMIR AI. 2025 Nov 7;4:e69006. doi: 10.2196/69006.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.5443626642227173
+      },
+      "BMC Gastroenterol. 2025 Nov 10;25(1):790. doi: 10.1186/s12876-025-04380-2.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5467022061347961
+      },
+      "Pain Manag Nurs. 2025 Nov 13:S1524-9042(25)00300-5. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5469886064529419
+      },
+      "Technol Health Care. 2025 Nov 7:9287329251388165. doi: 10.1177/09287329251388165.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5471910834312439
+      },
+      "Digit Health. 2025 Nov 7;11:20552076251395985. doi: 10.1177/20552076251395985.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5475925207138062
+      },
+      "Z Evid Fortbild Qual Gesundhwes. 2025 Nov 12:S1865-9217(25)00206-5. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5478451251983643
+      },
+      "Int J Lang Commun Disord. 2025 Nov-Dec;60(6):e70162. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5486389398574829
+      },
+      "J Med Internet Res. 2025 Nov 13;27:e79091. doi: 10.2196/79091.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.549048662185669
+      },
+      "JMIR Cancer. 2025 Nov 14;11:e77390. doi: 10.2196/77390.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5509045720100403
+      }
+    }
+  },
+  {
+    "query_id": "q_085722",
+    "query": "In what scenarios should virtual fixtures (VFs) be utilized to optimize surgical performance and training, particularly in complex surgical procedures such as neurosurgery and fetal laser surgery?",
+    "relevant_doc_ids": [
+      "Comput Biol Med. 2025 Nov 12;199:111294. doi: 10.1016/j.compbiomed.2025.111294.",
+      "Comput Biol Med. 2025 Nov 12;199:111294. doi: 10.1016/j.compbiomed.2025.111294.",
+      "Comput Biol Med. 2025 Nov 12;199:111294. doi: 10.1016/j.compbiomed.2025.111294.",
+      "World J Surg Oncol. 2025 Nov 13;23(1):433. doi: 10.1186/s12957-025-04087-4."
+    ],
+    "num_relevant": 4,
+    "relevance_judgments": {
+      "Comput Biol Med. 2025 Nov 12;199:111294. doi: 10.1016/j.compbiomed.2025.111294.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.5630180835723877
+      },
+      "J Cardiothorac Vasc Anesth. 2025 Oct 16:S1053-0770(25)01051-1. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.6873612403869629
+      },
+      "Microsurgery. 2025 Dec;45(8):e70138. doi: 10.1002/micr.70138.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.6877439618110657
+      },
+      "World J Surg Oncol. 2025 Nov 13;23(1):433. doi: 10.1186/s12957-025-04087-4.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.6953285336494446
+      },
+      "Ann Jt. 2025 Oct 27;10:34. doi: 10.21037/aoj-25-7. eCollection 2025.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.6862064599990845
+      },
+      "J Orthop Surg Res. 2025 Nov 10;20(1):982. doi: 10.1186/s13018-025-06418-3.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.682217001914978
+      },
+      "Healthcare (Basel). 2025 Nov 6;13(21):2820. doi: 10.3390/healthcare13212820.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.6919288039207458
+      },
+      "J Thorac Dis. 2025 Oct 31;17(10):8969-8977. doi: 10.21037/jtd-2025-725. Epub 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.7022756338119507
+      },
+      "BMC Med Educ. 2025 Nov 13;25(1):1594. doi: 10.1186/s12909-025-08162-y.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.7025970220565796
+      },
+      "J Pediatr Surg. 2025 Nov 12:162808. doi: 10.1016/j.jpedsurg.2025.162808.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.7048936486244202
+      },
+      "JBJS Case Connect. 2025 Nov 6;15(4). doi: 10.2106/JBJS.CC.24.00616. eCollection": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.7059311866760254
+      }
+    }
+  },
+  {
+    "query_id": "q_634093",
+    "query": "What are the key factors to consider when differentiating between focal atrial tachycardia and atrial flutter in neonates to guide proper diagnosis and therapy?",
+    "relevant_doc_ids": [
+      "Clin Perinatol. 2025 Dec;52(4):731-746. doi: 10.1016/j.clp.2025.08.006. Epub 2025",
+      "J Cardiovasc Dev Dis. 2025 Oct 1;12(10):386. doi: 10.3390/jcdd12100386.",
+      "BMC Cardiovasc Disord. 2025 Nov 7;25(1):791. doi: 10.1186/s12872-025-05275-6.",
+      "Card Electrophysiol Clin. 2025 Dec;17(4):509-529. doi:"
+    ],
+    "num_relevant": 4,
+    "relevance_judgments": {
+      "Clin Perinatol. 2025 Dec;52(4):731-746. doi: 10.1016/j.clp.2025.08.006. Epub 2025": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 1,
+        "retrieval_score": 0.39528387784957886
+      },
+      "J Cardiovasc Dev Dis. 2025 Oct 1;12(10):386. doi: 10.3390/jcdd12100386.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.6360167860984802
+      },
+      "J Med Case Rep. 2025 Oct 21;19(1):527. doi: 10.1186/s13256-025-05557-9.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.6140381097793579
+      },
+      "Ann Noninvasive Electrocardiol. 2025 Nov;30(6):e70122. doi: 10.1111/anec.70122.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.6203426122665405
+      },
+      "ESC Heart Fail. 2025 Nov 9. doi: 10.1002/ehf2.70009.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.6255814433097839
+      },
+      "Front Cardiovasc Med. 2025 Oct 10;12:1643915. doi: 10.3389/fcvm.2025.1643915.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.6427725553512573
+      },
+      "Transl Pediatr. 2025 Oct 31;14(10):2561-2571. doi: 10.21037/tp-2025-438. Epub": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.6443020105361938
+      },
+      "Hypertens Res. 2025 Nov 10. doi: 10.1038/s41440-025-02448-w.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.6491923928260803
+      },
+      "Card Electrophysiol Clin. 2025 Dec;17(4):591-603. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.6505821347236633
+      },
+      "BMC Cardiovasc Disord. 2025 Nov 7;25(1):791. doi: 10.1186/s12872-025-05275-6.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.6550480127334595
+      },
+      "Diagnostics (Basel). 2025 Nov 4;15(21):2793. doi: 10.3390/diagnostics15212793.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.6550663709640503
+      },
+      "Neuro Endocrinol Lett. 2025 Nov 4;46(4):205-212.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.6575780510902405
+      },
+      "Card Electrophysiol Clin. 2025 Dec;17(4):491-507. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.6580944061279297
+      },
+      "J Interv Card Electrophysiol. 2025 Nov 13. doi: 10.1007/s10840-025-02165-x.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.6584728956222534
+      },
+      "J Am Heart Assoc. 2025 Nov 4;14(21):e044274. doi: 10.1161/JAHA.125.044274. Epub": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.6631128191947937
+      },
+      "Medeni Med J. 2025 Sep 29;40(3):157-165. doi: 10.4274/MMJ.galenos.2025.35306.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.6634998321533203
+      },
+      "Card Electrophysiol Clin. 2025 Dec;17(4):509-529. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6639009118080139
+      },
+      "JACC Adv. 2025 Oct 23;4(11 Pt 1):102269. doi: 10.1016/j.jacadv.2025.102269.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6643785238265991
+      }
+    }
+  },
+  {
+    "query_id": "q_333750",
+    "query": "What is the mechanism by which prenatal diagnosis of isolated right aortic arch (iRAA) influences postnatal vascular ring management, particularly in relation to symptom development and surgical referral?",
+    "relevant_doc_ids": [
+      "Pediatr Pulmonol. 2025 Nov;60(11):e71381. doi: 10.1002/ppul.71381.",
+      "Pediatr Pulmonol. 2025 Nov;60(11):e71381. doi: 10.1002/ppul.71381.",
+      "Pediatr Pulmonol. 2025 Nov;60(11):e71381. doi: 10.1002/ppul.71381."
+    ],
+    "num_relevant": 3,
+    "relevance_judgments": {
+      "Pediatr Pulmonol. 2025 Nov;60(11):e71381. doi: 10.1002/ppul.71381.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.6153237819671631
+      },
+      "Eur J Pediatr. 2025 Nov 11;184(12):746. doi: 10.1007/s00431-025-06599-3.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.6037932634353638
+      },
+      "J Affect Disord. 2025 Nov 10;394(Pt B):120673. doi: 10.1016/j.jad.2025.120673.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.6423662900924683
+      },
+      "J Ultrasound Med. 2025 Dec;44(12):2257-2269. doi: 10.1002/jum.70007. Epub 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.6399750709533691
+      },
+      "Sci Rep. 2025 Nov 11;15(1):39530. doi: 10.1038/s41598-025-23285-4.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.6221530437469482
+      },
+      "Ultrasound Obstet Gynecol. 2025 Nov 14. doi: 10.1002/uog.70124.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.6423490047454834
+      },
+      "BMC Pregnancy Childbirth. 2025 Nov 12;25(1):1195. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.6313926577568054
+      },
+      "J Clin Med. 2025 Oct 30;14(21):7698. doi: 10.3390/jcm14217698.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.6369974613189697
+      },
+      "J Clin Med. 2025 Oct 27;14(21):7626. doi: 10.3390/jcm14217626.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.6451411247253418
+      },
+      "Pediatr Nephrol. 2025 Nov 13. doi: 10.1007/s00467-025-06994-w.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.6451415419578552
+      },
+      "JACC Case Rep. 2025 Nov 13:106050. doi: 10.1016/j.jaccas.2025.106050.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.6461959481239319
+      },
+      "Lancet. 2025 Oct 18;406(10513):1811-1872. doi: 10.1016/S0140-6736(25)01917-8.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.646517276763916
+      },
+      "Neuro Endocrinol Lett. 2025 Nov 4;46(4):205-212.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.6477094888687134
+      },
+      "BMC Pregnancy Childbirth. 2025 Nov 11;25(1):1192. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6500339508056641
+      },
+      "Acta Obstet Gynecol Scand. 2025 Nov 13. doi: 10.1111/aogs.70091.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6503336429595947
+      }
+    }
+  },
+  {
+    "query_id": "q_116514",
+    "query": "What is the proposed mechanism by which trochanteric fractures occur in patients undergoing robotic-assisted total hip arthroplasty with proximal femoral array screw placement?",
+    "relevant_doc_ids": [
+      "Ann Jt. 2025 Oct 22;10:43. doi: 10.21037/aoj-25-5. eCollection 2025.",
+      "Ann Jt. 2025 Oct 22;10:43. doi: 10.21037/aoj-25-5. eCollection 2025.",
+      "Ann Jt. 2025 Oct 22;10:43. doi: 10.21037/aoj-25-5. eCollection 2025.",
+      "Zhongguo Gu Shang. 2025 Oct 25;38(10):1001-8. doi:"
+    ],
+    "num_relevant": 4,
+    "relevance_judgments": {
+      "Ann Jt. 2025 Oct 22;10:43. doi: 10.21037/aoj-25-5. eCollection 2025.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.48807549476623535
+      },
+      "J Robot Surg. 2025 Nov 11;20(1):3. doi: 10.1007/s11701-025-02929-7.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.5656824111938477
+      },
+      "J Clin Med. 2025 Oct 22;14(21):7469. doi: 10.3390/jcm14217469.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.6214551329612732
+      },
+      "J Orthop Surg Res. 2025 Nov 7;20(1):968. doi: 10.1186/s13018-025-06311-z.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6359831690788269
+      },
+      "J Long Term Eff Med Implants. 2025;35(4):87-93. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.6019593477249146
+      },
+      "J Orthop Surg Res. 2025 Nov 14;20(1):1002. doi: 10.1186/s13018-025-06389-5.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.6162915229797363
+      },
+      "Zhongguo Gu Shang. 2025 Oct 25;38(10):1001-8. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.6264524459838867
+      },
+      "Eur J Trauma Emerg Surg. 2025 Nov 14;51(1):340. doi: 10.1007/s00068-025-03007-1.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.6169636249542236
+      },
+      "Curr Osteoporos Rep. 2025 Nov 12;23(1):51. doi: 10.1007/s11914-025-00945-y.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.6350483894348145
+      },
+      "Hip Int. 2025 Nov 12:11207000251385064. doi: 10.1177/11207000251385064.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.631476879119873
+      },
+      "Cureus. 2025 Oct 13;17(10):e94503. doi: 10.7759/cureus.94503. eCollection 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6365808248519897
+      }
+    }
+  },
+  {
+    "query_id": "q_987191",
+    "query": "What is the proposed mechanism by which the aryl hydrocarbon receptor (AHR) protects against the damaging effects of cigarette smoke in chronic obstructive pulmonary disease (COPD) by attenuating pulmonary neutrophilia?",
+    "relevant_doc_ids": [
+      "J Immunol. 2025 Nov 9:vkaf280. doi: 10.1093/jimmun/vkaf280.",
+      "J Immunol. 2025 Nov 9:vkaf280. doi: 10.1093/jimmun/vkaf280.",
+      "J Immunol. 2025 Nov 9:vkaf280. doi: 10.1093/jimmun/vkaf280.",
+      "J Immunol. 2025 Nov 9:vkaf280. doi: 10.1093/jimmun/vkaf280.",
+      "Int J Chron Obstruct Pulmon Dis. 2025 Oct 30;20:3545-3557. doi:",
+      "Life Sci. 2025 Dec 1;382:124040. doi: 10.1016/j.lfs.2025.124040. Epub 2025 Oct",
+      "Naunyn Schmiedebergs Arch Pharmacol. 2025 Nov 11. doi:",
+      "J Inflamm Res. 2025 Oct 29;18:15033-15047. doi: 10.2147/JIR.S532958. eCollection"
+    ],
+    "num_relevant": 8,
+    "relevance_judgments": {
+      "J Immunol. 2025 Nov 9:vkaf280. doi: 10.1093/jimmun/vkaf280.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.3686619997024536
+      },
+      "Int J Chron Obstruct Pulmon Dis. 2025 Oct 30;20:3545-3557. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.5052303671836853
+      },
+      "Clin Exp Med. 2025 Nov 6;25(1):358. doi: 10.1007/s10238-025-01901-x.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5407479405403137
+      },
+      "Life Sci. 2025 Dec 1;382:124040. doi: 10.1016/j.lfs.2025.124040. Epub 2025 Oct": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.5208896994590759
+      },
+      "Naunyn Schmiedebergs Arch Pharmacol. 2025 Nov 11. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5602081418037415
+      },
+      "Pharmacol Ther. 2025 Nov;275:108920. doi: 10.1016/j.pharmthera.2025.108920. Epub": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.532638669013977
+      },
+      "Cytotechnology. 2025 Dec;77(6):188. doi: 10.1007/s10616-025-00857-w. Epub 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.544036865234375
+      },
+      "J Inflamm Res. 2025 Oct 29;18:15033-15047. doi: 10.2147/JIR.S532958. eCollection": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5699265003204346
+      },
+      "J Thorac Dis. 2025 Oct 31;17(10):7673-7688. doi: 10.21037/jtd-2025-247. Epub 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5501648783683777
+      },
+      "Ecotoxicol Environ Saf. 2025 Oct 30;306:119297. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.554363489151001
+      },
+      "J Asthma Allergy. 2025 Nov 7;18:1551-1584. doi: 10.2147/JAA.S550615. eCollection": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5623996257781982
+      },
+      "Front Immunol. 2025 Oct 28;16:1679730. doi: 10.3389/fimmu.2025.1679730.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5697636008262634
+      }
+    }
+  },
+  {
+    "query_id": "q_256940",
+    "query": "What are the key architectural differences between traditional centralized digital health ecosystems and decentralized digital health ecosystems that enable AI-enhanced applications?",
+    "relevant_doc_ids": [
+      "Front Digit Health. 2025 Oct 27;7:1685628. doi: 10.3389/fdgth.2025.1685628.",
+      "Front Digit Health. 2025 Oct 27;7:1685628. doi: 10.3389/fdgth.2025.1685628.",
+      "Digit Health. 2025 Nov 11;11:20552076251395551. doi: 10.1177/20552076251395551.",
+      "Healthcare (Basel). 2025 Oct 10;13(20):2553. doi: 10.3390/healthcare13202553.",
+      "Healthcare (Basel). 2025 Oct 30;13(21):2753. doi: 10.3390/healthcare13212753."
+    ],
+    "num_relevant": 5,
+    "relevance_judgments": {
+      "Front Digit Health. 2025 Oct 27;7:1685628. doi: 10.3389/fdgth.2025.1685628.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.5187734365463257
+      },
+      "J Med Internet Res. 2025 Nov 10;27:e81184. doi: 10.2196/81184.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5638300776481628
+      },
+      "BMC Palliat Care. 2025 Oct 28;24(1):274. doi: 10.1186/s12904-025-01909-w.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5745183825492859
+      },
+      "Digit Health. 2025 Nov 11;11:20552076251395551. doi: 10.1177/20552076251395551.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5759606957435608
+      },
+      "J Health Organ Manag. 2025 Nov 10;39(8):1580-1599. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.5515177845954895
+      },
+      "Public Health. 2025 Nov 12;250:106047. doi: 10.1016/j.puhe.2025.106047.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.5529118180274963
+      },
+      "Healthcare (Basel). 2025 Oct 10;13(20):2553. doi: 10.3390/healthcare13202553.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.5581244230270386
+      },
+      "Healthcare (Basel). 2025 Oct 30;13(21):2753. doi: 10.3390/healthcare13212753.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5611764192581177
+      },
+      "Pharmaceut Med. 2025 Nov 5. doi: 10.1007/s40290-025-00592-9.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5658987760543823
+      },
+      "J Health Organ Manag. 2025 Nov 17:1-13. doi: 10.1108/JHOM-08-2024-0338.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5699402093887329
+      },
+      "J Anesth Analg Crit Care. 2025 Nov 12;5(1):77. doi: 10.1186/s44158-025-00306-2.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5769554376602173
+      },
+      "J Clin Med. 2025 Oct 28;14(21):7651. doi: 10.3390/jcm14217651.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5793138146400452
+      },
+      "Digit Health. 2025 Nov 10;11:20552076251393277. doi: 10.1177/20552076251393277.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5797715187072754
+      }
+    }
+  },
+  {
+    "query_id": "q_779784",
+    "query": "What was the effect of metformin on free testosterone levels in male type 2 diabetes mellitus (T2DM) patients after 30 days of treatment?",
+    "relevant_doc_ids": [
+      "Medicine (Baltimore). 2025 Nov 7;104(45):e44989. doi:",
+      "Medicine (Baltimore). 2025 Nov 7;104(45):e44989. doi:",
+      "Medicine (Baltimore). 2025 Nov 7;104(45):e44989. doi:",
+      "Transl Androl Urol. 2025 Oct 31;14(10):3387-3401. doi: 10.21037/tau-2025-440."
+    ],
+    "num_relevant": 4,
+    "relevance_judgments": {
+      "Medicine (Baltimore). 2025 Nov 7;104(45):e44989. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.18977968394756317
+      },
+      "Front Endocrinol (Lausanne). 2025 Oct 21;16:1703958. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5337552428245544
+      },
+      "Cancers (Basel). 2025 Nov 6;17(21):3579. doi: 10.3390/cancers17213579.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.49233928322792053
+      },
+      "BMC Endocr Disord. 2025 Nov 12;25(1):259. doi: 10.1186/s12902-025-02091-z.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5322775840759277
+      },
+      "BMC Endocr Disord. 2025 Nov 14;25(1):264. doi: 10.1186/s12902-025-02087-9.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.4933266341686249
+      },
+      "Cells. 2025 Oct 31;14(21):1714. doi: 10.3390/cells14211714.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.4963546395301819
+      },
+      "Front Med (Lausanne). 2025 Oct 16;12:1652732. doi: 10.3389/fmed.2025.1652732.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.5056950449943542
+      },
+      "Diabetes Obes Metab. 2025 Nov 14. doi: 10.1111/dom.70278.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5184276103973389
+      },
+      "Biomed Pharmacother. 2025 Nov 11;193:118743. doi: 10.1016/j.biopha.2025.118743.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5201678276062012
+      },
+      "Transl Androl Urol. 2025 Oct 31;14(10):3387-3401. doi: 10.21037/tau-2025-440.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5209985971450806
+      },
+      "Medicine (Baltimore). 2025 Oct 24;104(43):e45112. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5240417718887329
+      },
+      "Obes Surg. 2025 Nov 13. doi: 10.1007/s11695-025-08374-7.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5282586216926575
+      },
+      "Ter Arkh. 2025 Nov 11;97(10):859-866. doi: 10.26442/00403660.2025.10.203462.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5333030223846436
+      },
+      "Indian J Endocrinol Metab. 2025 Sep-Oct;29(5):523-530. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5391245484352112
+      }
+    }
+  },
+  {
+    "query_id": "q_797971",
+    "query": "In a post-cardiac surgery patient with a history of ventricular septal defect repair, what are the key echocardiography findings that suggest a diagnosis of focal constrictive pericarditis presenting with biventricular failure?",
+    "relevant_doc_ids": [
+      "J Saudi Heart Assoc. 2025 Oct 31;37(4):1463. doi: 10.37616/2212-5043.1463."
+    ],
+    "num_relevant": 1,
+    "relevance_judgments": {
+      "J Saudi Heart Assoc. 2025 Oct 31;37(4):1463. doi: 10.37616/2212-5043.1463.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 1,
+        "retrieval_score": 0.2728336453437805
+      },
+      "Front Cardiovasc Med. 2025 Oct 28;12:1660432. doi: 10.3389/fcvm.2025.1660432.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.7262014746665955
+      },
+      "JACC Case Rep. 2025 Nov 14:106054. doi: 10.1016/j.jaccas.2025.106054.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.6969898343086243
+      },
+      "JAMA Oncol. 2025 Nov 13. doi: 10.1001/jamaoncol.2025.4543.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.7194409966468811
+      },
+      "Chest. 2025 Nov;168(5):e145-e148. doi: 10.1016/j.chest.2025.06.007.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.7234973907470703
+      },
+      "Cureus. 2025 Oct 7;17(10):e94040. doi: 10.7759/cureus.94040. eCollection 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.7240396738052368
+      },
+      "Curr Cardiol Rep. 2025 Oct 23;27(1):147. doi: 10.1007/s11886-025-02303-x.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.7242762446403503
+      },
+      "Eur Heart J Case Rep. 2025 Oct 22;9(11):ytaf542. doi: 10.1093/ehjcr/ytaf542.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.7246864438056946
+      },
+      "Cardiooncology. 2025 Nov 6;11(1):101. doi: 10.1186/s40959-025-00382-x.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.7269412279129028
+      },
+      "J Clin Med. 2025 Oct 24;14(21):7554. doi: 10.3390/jcm14217554.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.7272977232933044
+      },
+      "Eur J Case Rep Intern Med. 2025 Oct 28;12(11):005866. doi: 10.12890/2025_005866.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.7315062284469604
+      },
+      "J Artif Organs. 2025 Nov 14;29(1):5. doi: 10.1007/s10047-025-01538-3.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.7322213053703308
+      },
+      "J Clin Med. 2025 Oct 31;14(21):7745. doi: 10.3390/jcm14217745.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.7322879433631897
+      },
+      "Int J Mol Sci. 2025 Oct 31;26(21):10617. doi: 10.3390/ijms262110617.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.7323931455612183
+      },
+      "Am Heart J Plus. 2025 Oct 24;60:100654. doi: 10.1016/j.ahjo.2025.100654.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.736695408821106
+      },
+      "Interv Cardiol. 2025 Nov 4;20:e29. doi: 10.15420/icr.2025.19. eCollection 2025.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.739922046661377
+      },
+      "Cardiology. 2025 Nov 13:1-24. doi: 10.1159/000549488.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.7403929829597473
+      },
+      "J Trauma Acute Care Surg. 2025 Oct 22. doi: 10.1097/TA.0000000000004810.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.7408638000488281
+      },
+      "J Am Heart Assoc. 2025 Nov 11:e042850. doi: 10.1161/JAHA.125.042850.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.7453064322471619
+      }
+    }
+  },
+  {
+    "query_id": "q_881417",
+    "query": "In patients experiencing out-of-hospital cardiac arrest (OHCA), what sex-specific differences in initial rhythm are observed, and how do substance use disorders and atrial fibrillation impact these differences?",
+    "relevant_doc_ids": [
+      "Resuscitation. 2025 Nov 11:110894. doi: 10.1016/j.resuscitation.2025.110894.",
+      "Resuscitation. 2025 Nov 11:110894. doi: 10.1016/j.resuscitation.2025.110894.",
+      "Resuscitation. 2025 Nov 11:110894. doi: 10.1016/j.resuscitation.2025.110894.",
+      "Heart. 2025 Nov 6:heartjnl-2025-326987. doi: 10.1136/heartjnl-2025-326987.",
+      "Heart. 2025 Nov 6:heartjnl-2025-326987. doi: 10.1136/heartjnl-2025-326987.",
+      "Heart. 2025 Nov 6:heartjnl-2025-326987. doi: 10.1136/heartjnl-2025-326987.",
+      "Cureus. 2025 Oct 4;17(10):e93840. doi: 10.7759/cureus.93840. eCollection 2025"
+    ],
+    "num_relevant": 7,
+    "relevance_judgments": {
+      "Resuscitation. 2025 Nov 11:110894. doi: 10.1016/j.resuscitation.2025.110894.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.36637386679649353
+      },
+      "Heart. 2025 Nov 6:heartjnl-2025-326987. doi: 10.1136/heartjnl-2025-326987.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.48416945338249207
+      },
+      "J Addict Dis. 2025 Nov 12:1-9. doi: 10.1080/10550887.2025.2581566.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.4608584940433502
+      },
+      "Rev Gastroenterol Mex (Engl Ed). 2025 Nov 11:S2255-534X(25)00137-9. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.4796134829521179
+      },
+      "J Clin Med. 2025 Oct 28;14(21):7652. doi: 10.3390/jcm14217652.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.48378199338912964
+      },
+      "Neth Heart J. 2025 Nov 11. doi: 10.1007/s12471-025-02001-x.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.48715049028396606
+      },
+      "Addiction. 2025 Nov 13. doi: 10.1111/add.70233.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5025022029876709
+      },
+      "Healthcare (Basel). 2025 Nov 5;13(21):2806. doi: 10.3390/healthcare13212806.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.49017107486724854
+      },
+      "Biomedicines. 2025 Oct 10;13(10):2466. doi: 10.3390/biomedicines13102466.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5046960115432739
+      },
+      "Scand J Trauma Resusc Emerg Med. 2025 Nov 7;33(1):179. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5053307414054871
+      },
+      "Cureus. 2025 Oct 4;17(10):e93840. doi: 10.7759/cureus.93840. eCollection 2025": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5193638205528259
+      },
+      "BMC Public Health. 2025 Nov 12;25(1):3912. doi: 10.1186/s12889-025-25249-9.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5224218368530273
+      },
+      "Biol Sex Differ. 2025 Nov 7;16(1):94. doi: 10.1186/s13293-025-00773-w.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5262506008148193
+      },
+      "J Clin Med. 2025 Nov 5;14(21):7868. doi: 10.3390/jcm14217868.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5287157893180847
+      }
+    }
+  },
+  {
+    "query_id": "q_943227",
+    "query": "What is the recommended approach for managing inflammatory bowel disease in patients from preconception to pregnancy, and how should treatment be adjusted during this period?",
+    "relevant_doc_ids": [
+      "Expert Rev Gastroenterol Hepatol. 2025 Oct 22:1-12. doi:",
+      "Expert Rev Gastroenterol Hepatol. 2025 Oct 22:1-12. doi:",
+      "Expert Rev Gastroenterol Hepatol. 2025 Oct 22:1-12. doi:",
+      "Rev Med Suisse. 2025 Aug 27;21(928):1506-1510. doi:",
+      "United European Gastroenterol J. 2025 Oct 14. doi: 10.1002/ueg2.70122.",
+      "United European Gastroenterol J. 2025 Oct 14. doi: 10.1002/ueg2.70122.",
+      "Intest Res. 2025 Nov 14. doi: 10.5217/ir.2025.00088.",
+      "Medicina (B Aires). 2025;85(4):778-784.",
+      "Cureus. 2025 Nov 5;17(11):e96156. doi: 10.7759/cureus.96156. eCollection 2025",
+      "Dis Colon Rectum. 2025 Nov 7. doi: 10.1097/DCR.0000000000004003."
+    ],
+    "num_relevant": 10,
+    "relevance_judgments": {
+      "Expert Rev Gastroenterol Hepatol. 2025 Oct 22:1-12. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.3094053268432617
+      },
+      "Rev Med Suisse. 2025 Aug 27;21(928):1506-1510. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.3214015066623688
+      },
+      "United European Gastroenterol J. 2025 Oct 14. doi: 10.1002/ueg2.70122.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.4741677939891815
+      },
+      "Medicina (B Aires). 2025;85(4):778-784.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5541805624961853
+      },
+      "Res Pract Thromb Haemost. 2025 Sep 1;9(6):103167. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.5020350217819214
+      },
+      "Dis Colon Rectum. 2025 Nov 7. doi: 10.1097/DCR.0000000000004003.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5773303508758545
+      },
+      "Intest Res. 2025 Nov 14. doi: 10.5217/ir.2025.00088.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5838131308555603
+      },
+      "Clin Exp Gastroenterol. 2025 Nov 1;18:259-275. doi: 10.2147/CEG.S557464.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5499073266983032
+      },
+      "Saudi J Gastroenterol. 2025 Nov 12. doi: 10.4103/sjg.sjg_169_25.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5546585917472839
+      },
+      "Cureus. 2025 Nov 5;17(11):e96156. doi: 10.7759/cureus.96156. eCollection 2025": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5674144625663757
+      },
+      "Cancers (Basel). 2025 Oct 29;17(21):3475. doi: 10.3390/cancers17213475.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5679057240486145
+      },
+      "Digestion. 2025 Nov 5:1-17. doi: 10.1159/000549339.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5819470882415771
+      }
+    }
+  },
+  {
+    "query_id": "q_071875",
+    "query": "What is the association between fever and infections in early life and the subsequent risk of developing atopic diseases?",
+    "relevant_doc_ids": [
+      "Pediatr Allergy Immunol. 2025 Oct;36(10):e70209. doi: 10.1111/pai.70209.",
+      "Pediatr Allergy Immunol. 2025 Oct;36(10):e70209. doi: 10.1111/pai.70209.",
+      "Pediatr Allergy Immunol. 2025 Oct;36(10):e70209. doi: 10.1111/pai.70209.",
+      "Br J Dermatol. 2025 Oct 31:ljaf416. doi: 10.1093/bjd/ljaf416.",
+      "Pediatr Allergy Immunol. 2025 Sep;36(9):e70203. doi: 10.1111/pai.70203.",
+      "BMJ Glob Health. 2025 Nov 12;10(11):e018454. doi: 10.1136/bmjgh-2024-018454.",
+      "Clin Otolaryngol. 2025 Sep 14. doi: 10.1111/coa.70032.",
+      "J Allergy Clin Immunol. 2025 Sep 23:S0091-6749(25)00955-8. doi:",
+      "Environ Int. 2025 Nov 8;205:109900. doi: 10.1016/j.envint.2025.109900.",
+      "Br J Dermatol. 2025 Oct 31:ljaf416. doi: 10.1093/bjd/ljaf416.",
+      "J Allergy Clin Immunol. 2025 Aug 19:S0091-6749(25)00861-9. doi:",
+      "Clin Otolaryngol. 2025 Sep 14. doi: 10.1111/coa.70032."
+    ],
+    "num_relevant": 12,
+    "relevance_judgments": {
+      "Pediatr Allergy Immunol. 2025 Oct;36(10):e70209. doi: 10.1111/pai.70209.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.25654029846191406
+      },
+      "Br J Dermatol. 2025 Oct 31:ljaf416. doi: 10.1093/bjd/ljaf416.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.520818829536438
+      },
+      "Pediatr Allergy Immunol. 2025 Sep;36(9):e70203. doi: 10.1111/pai.70203.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.4915691614151001
+      },
+      "Allergy Asthma Immunol Res. 2025 Sep;17(5):563-577. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.511165976524353
+      },
+      "BMJ Glob Health. 2025 Nov 12;10(11):e018454. doi: 10.1136/bmjgh-2024-018454.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.5055291652679443
+      },
+      "J Pediatr Gastroenterol Nutr. 2025 Oct 30. doi: 10.1002/jpn3.70237.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.5068658590316772
+      },
+      "Clin Otolaryngol. 2025 Sep 14. doi: 10.1111/coa.70032.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5224705934524536
+      },
+      "medRxiv [Preprint]. 2025 Sep 4:2025.01.24.25321071. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.5087393522262573
+      },
+      "BJOG. 2025 Nov 14. doi: 10.1111/1471-0528.70083.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5092481970787048
+      },
+      "Sci Rep. 2025 Nov 12;15(1):39700. doi: 10.1038/s41598-025-23252-z.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5149290561676025
+      },
+      "J Allergy Clin Immunol. 2025 Sep 23:S0091-6749(25)00955-8. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5152949690818787
+      },
+      "J Pediatr Orthop. 2025 Oct 6. doi: 10.1097/BPO.0000000000003126.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5159585475921631
+      },
+      "Environ Int. 2025 Nov 8;205:109900. doi: 10.1016/j.envint.2025.109900.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5166325569152832
+      },
+      "J Allergy Clin Immunol. 2025 Aug 19:S0091-6749(25)00861-9. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5215204954147339
+      }
+    }
+  },
+  {
+    "query_id": "q_660914",
+    "query": "What are the main mechanisms by which priorities are identified in healthcare settings, according to the analysis of priority setting approaches?",
+    "relevant_doc_ids": [
+      "BMJ Public Health. 2024 Dec 12;2(2):e001097. doi: 10.1136/bmjph-2024-001097.",
+      "BMJ Public Health. 2024 Dec 12;2(2):e001097. doi: 10.1136/bmjph-2024-001097.",
+      "Learn Health Syst. 2025 May 14;9(4):e70016. doi: 10.1002/lrh2.70016. eCollection",
+      "BMC Med Ethics. 2025 Oct 27;26(1):148. doi: 10.1186/s12910-025-01305-2.",
+      "BMC Med Ethics. 2025 Oct 27;26(1):148. doi: 10.1186/s12910-025-01305-2."
+    ],
+    "num_relevant": 5,
+    "relevance_judgments": {
+      "BMJ Public Health. 2024 Dec 12;2(2):e001097. doi: 10.1136/bmjph-2024-001097.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.519126296043396
+      },
+      "J Clin Med. 2025 Oct 26;14(21):7592. doi: 10.3390/jcm14217592.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.5682163238525391
+      },
+      "Learn Health Syst. 2025 May 14;9(4):e70016. doi: 10.1002/lrh2.70016. eCollection": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.6138521432876587
+      },
+      "Midwifery. 2025 Nov 3;152:104653. doi: 10.1016/j.midw.2025.104653.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.644233226776123
+      },
+      "J Med Access. 2025 Oct 18;9:27550834251378933. doi: 10.1177/27550834251378933.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.6323146224021912
+      },
+      "BMC Med Ethics. 2025 Oct 27;26(1):148. doi: 10.1186/s12910-025-01305-2.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.632725715637207
+      },
+      "BMC Public Health. 2025 Nov 13;25(1):3934. doi: 10.1186/s12889-025-24835-1.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.6250303387641907
+      },
+      "EClinicalMedicine. 2025 Oct 24;90:103586. doi: 10.1016/j.eclinm.2025.103586.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.6334936618804932
+      },
+      "Int J Equity Health. 2025 Nov 13;24(1):313. doi: 10.1186/s12939-025-02690-1.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.6340181827545166
+      },
+      "J Glob Health. 2025 Nov 14;15:04336. doi: 10.7189/jogh.15.04336.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.6422659158706665
+      },
+      "J Anesth Analg Crit Care. 2025 Nov 12;5(1):77. doi: 10.1186/s44158-025-00306-2.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.642518162727356
+      },
+      "Cureus. 2025 Oct 8;17(10):e94143. doi: 10.7759/cureus.94143. eCollection 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.6433786749839783
+      },
+      "Syst Rev. 2025 Nov 14;14(1):224. doi: 10.1186/s13643-025-02970-5.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6448193192481995
+      },
+      "J Nurs Manag. 2025 Nov 4;2025:4761787. doi: 10.1155/jonm/4761787. eCollection": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6511164307594299
+      }
+    }
+  },
+  {
+    "query_id": "q_490011",
+    "query": "In patients undergoing minimally invasive nasal surgery, what are the implications of concurrent obstructive sleep apnea (OSA) and hypertension on perioperative management to mitigate the risk of major epistaxis?",
+    "relevant_doc_ids": [
+      "J Otolaryngol Head Neck Surg. 2025 Jan-Dec;54:19160216251390319. doi:",
+      "J Otolaryngol Head Neck Surg. 2025 Jan-Dec;54:19160216251390319. doi:",
+      "Sleep Med Rev. 2025 Oct 30;84:102194. doi: 10.1016/j.smrv.2025.102194.",
+      "J Otolaryngol Head Neck Surg. 2025 Jan-Dec;54:19160216251390319. doi:",
+      "J Otolaryngol Head Neck Surg. 2025 Jan-Dec;54:19160216251390319. doi:",
+      "Sleep Med Rev. 2025 Oct 30;84:102194. doi: 10.1016/j.smrv.2025.102194.",
+      "Biomedicines. 2025 Oct 18;13(10):2546. doi: 10.3390/biomedicines13102546.",
+      "Sleep Med Rev. 2025 Oct 30;84:102194. doi: 10.1016/j.smrv.2025.102194."
+    ],
+    "num_relevant": 8,
+    "relevance_judgments": {
+      "J Otolaryngol Head Neck Surg. 2025 Jan-Dec;54:19160216251390319. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.4460480809211731
+      },
+      "Sleep Med Rev. 2025 Oct 30;84:102194. doi: 10.1016/j.smrv.2025.102194.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.5581304430961609
+      },
+      "Biomedicines. 2025 Oct 18;13(10):2546. doi: 10.3390/biomedicines13102546.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5905272364616394
+      },
+      "Obes Surg. 2025 Nov 14. doi: 10.1007/s11695-025-08335-0.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.6045624613761902
+      },
+      "Obes Surg. 2025 Nov 13. doi: 10.1007/s11695-025-08352-z.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.5843505263328552
+      },
+      "Pulm Ther. 2025 Nov 12. doi: 10.1007/s41030-025-00331-0.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5903360843658447
+      },
+      "Plast Reconstr Surg Glob Open. 2025 Nov 11;13(11):e7163. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.6000940799713135
+      },
+      "Sci Rep. 2025 Nov 13;15(1):39805. doi: 10.1038/s41598-025-23469-y.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.6036362648010254
+      },
+      "Int J Surg. 2025 Nov 13. doi: 10.1097/JS9.0000000000003968.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.6091649532318115
+      },
+      "Am J Emerg Med. 2025 Nov 2;99:451-470. doi: 10.1016/j.ajem.2025.10.065.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.6127917766571045
+      },
+      "J Clin Med. 2025 Oct 31;14(21):7746. doi: 10.3390/jcm14217746.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6141160130500793
+      },
+      "Int J Med Sci. 2025 Oct 20;22(16):4365-4373. doi: 10.7150/ijms.116325.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6149119138717651
+      }
+    }
+  },
+  {
+    "query_id": "q_396326",
+    "query": "What is the difference in research outcomes when researchers explicitly acknowledge positionality and adopt reflexive practices versus when they do not, in terms of managing assumptions and biases?",
+    "relevant_doc_ids": [
+      "J Hum Lact. 2025 Sep 26:8903344251369433. doi: 10.1177/08903344251369433.",
+      "J Hum Lact. 2025 Sep 26:8903344251369433. doi: 10.1177/08903344251369433.",
+      "J Hum Lact. 2025 Sep 26:8903344251369433. doi: 10.1177/08903344251369433.",
+      "J Adv Nurs. 2025 Nov 14. doi: 10.1111/jan.70392."
+    ],
+    "num_relevant": 4,
+    "relevance_judgments": {
+      "J Hum Lact. 2025 Sep 26:8903344251369433. doi: 10.1177/08903344251369433.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.4886314570903778
+      },
+      "Reprod Health. 2025 Nov 12;22(1):230. doi: 10.1186/s12978-025-02146-3.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.6341651678085327
+      },
+      "Bioethics. 2025 Nov 14. doi: 10.1111/bioe.70047.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.6373569965362549
+      },
+      "Proc Natl Acad Sci U S A. 2025 Nov 18;122(46):e2505694122. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.6375092267990112
+      },
+      "PLoS One. 2025 Nov 14;20(11):e0336439. doi: 10.1371/journal.pone.0336439.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.6380785703659058
+      },
+      "BMC Med Ethics. 2025 Nov 14;26(1):159. doi: 10.1186/s12910-025-01307-0.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.6477752923965454
+      },
+      "Res Involv Engagem. 2025 Nov 13;11(1):132. doi: 10.1186/s40900-025-00802-3.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.6505671739578247
+      },
+      "Mhealth. 2025 Oct 29;11:65. doi: 10.21037/mhealth-25-20. eCollection 2025.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.651354968547821
+      },
+      "PLoS One. 2025 Nov 13;20(11):e0334835. doi: 10.1371/journal.pone.0334835.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.65366131067276
+      },
+      "Int Arch Occup Environ Health. 2025 Nov 11. doi: 10.1007/s00420-025-02181-4.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.6543412804603577
+      },
+      "Clin Microbiol Infect. 2025 Nov 12:S1198-743X(25)00556-7. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.6633709073066711
+      },
+      "J Clin Psychol. 2025 Nov 14. doi: 10.1002/jclp.70065.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.6555678844451904
+      },
+      "J Orthop Surg Res. 2025 Nov 7;20(1):975. doi: 10.1186/s13018-025-06358-y.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.6596864461898804
+      },
+      "J Adv Nurs. 2025 Nov 14. doi: 10.1111/jan.70392.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6655334830284119
+      },
+      "JMIR Res Protoc. 2025 Nov 12. doi: 10.2196/77321.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6679365038871765
+      }
+    }
+  },
+  {
+    "query_id": "q_012800",
+    "query": "What is the proposed mechanism by which internalized HIV stigma (IHS) affects antiretroviral therapy (ART) adherence in people with HIV (PWH), according to the study?",
+    "relevant_doc_ids": [
+      "J Acquir Immune Defic Syndr. 2025 Nov 6. doi: 10.1097/QAI.0000000000003793.",
+      "J Acquir Immune Defic Syndr. 2025 Nov 6. doi: 10.1097/QAI.0000000000003793.",
+      "J Acquir Immune Defic Syndr. 2025 Nov 6. doi: 10.1097/QAI.0000000000003793.",
+      "AIDS Care. 2025 Nov 10:1-21. doi: 10.1080/09540121.2025.2584602."
+    ],
+    "num_relevant": 4,
+    "relevance_judgments": {
+      "J Acquir Immune Defic Syndr. 2025 Nov 6. doi: 10.1097/QAI.0000000000003793.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.4518250823020935
+      },
+      "BMC Public Health. 2025 Nov 14;25(1):3939. doi: 10.1186/s12889-025-24950-z.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.4597632586956024
+      },
+      "Cad Saude Publica. 2025 Nov 7;41(10):e00021925. doi: 10.1590/0102-311XEN021925.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.46665629744529724
+      },
+      "AIDS Patient Care STDS. 2025 Nov;39(11):462-472. doi: 10.1177/10872914251395736.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.4811767041683197
+      },
+      "AIDS Care. 2025 Nov 10:1-21. doi: 10.1080/09540121.2025.2584602.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.520075798034668
+      },
+      "AIDS Res Ther. 2025 Nov 11;22(1):121. doi: 10.1186/s12981-025-00818-5.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5432270169258118
+      },
+      "Afr J AIDS Res. 2025 Nov 10:1-9. doi: 10.2989/16085906.2025.2566144.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5525072813034058
+      },
+      "Front Psychiatry. 2025 Oct 27;16:1478336. doi: 10.3389/fpsyt.2025.1478336.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5439757108688354
+      },
+      "South Afr J HIV Med. 2025 Oct 29;26(1):1710. doi: 10.4102/sajhivmed.v26i1.1710.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.548737108707428
+      },
+      "Asian Nurs Res (Korean Soc Nurs Sci). 2025 Nov 3:S1976-1317(25)00126-4. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5568927526473999
+      }
+    }
+  },
+  {
+    "query_id": "q_575573",
+    "query": "What is the potential role of MLS in cisplatin-based lung cancer treatment, and how does it compare to DES in terms of modulating therapeutic efficacy?",
+    "relevant_doc_ids": [
+      "Turk J Biol. 2025 Sep 13;49(6):690-699. doi: 10.55730/1300-0152.2771. eCollection",
+      "Turk J Biol. 2025 Sep 13;49(6):690-699. doi: 10.55730/1300-0152.2771. eCollection",
+      "Turk J Biol. 2025 Sep 13;49(6):690-699. doi: 10.55730/1300-0152.2771. eCollection"
+    ],
+    "num_relevant": 3,
+    "relevance_judgments": {
+      "Turk J Biol. 2025 Sep 13;49(6):690-699. doi: 10.55730/1300-0152.2771. eCollection": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.4565128982067108
+      },
+      "ACS Appl Bio Mater. 2025 Nov 13. doi: 10.1021/acsabm.5c01730.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.5649244785308838
+      },
+      "Biomater Adv. 2025 Nov 6;180:214597. doi: 10.1016/j.bioadv.2025.214597.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.5821415185928345
+      },
+      "Zhongguo Shi Yan Xue Ye Xue Za Zhi. 2025 Oct;33(5):1366-1373. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5978062748908997
+      },
+      "Pathol Oncol Res. 2025 Oct 28;31:1612229. doi: 10.3389/pore.2025.1612229.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.586349606513977
+      },
+      "Cancer Lett. 2025 Nov 11:218131. doi: 10.1016/j.canlet.2025.218131.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.5866997838020325
+      },
+      "Iran J Pharm Res. 2025 Oct 12;24(1):e165301. doi: 10.5812/ijpr-165301.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5931063890457153
+      },
+      "Front Immunol. 2025 Oct 29;16:1678911. doi: 10.3389/fimmu.2025.1678911.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5977973341941833
+      },
+      "Cell Oncol (Dordr). 2025 Nov 11. doi: 10.1007/s13402-025-01126-w.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.5921422839164734
+      },
+      "Cox regression. The model was": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5939047336578369
+      },
+      "BMC Cancer. 2025 Nov 12;25(1):1763. doi: 10.1186/s12885-025-15112-w.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5939261317253113
+      },
+      ", and multivariate Cox to derive a prognostic signature. Patients were": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.594335675239563
+      },
+      "Front Oncol. 2025 Oct 21;15:1645589. doi: 10.3389/fonc.2025.1645589. eCollection": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5965367555618286
+      },
+      "Immunol Res. 2025 Nov 13;73(1):164. doi: 10.1007/s12026-025-09724-4.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5981312990188599
+      },
+      "J Biochem Mol Toxicol. 2025 Nov;39(11):e70603. doi: 10.1002/jbt.70603.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5986371040344238
+      }
+    }
+  },
+  {
+    "query_id": "q_840739",
+    "query": "What is the difference in effectiveness between telehealth-delivered Child and Family Traumatic Stress Intervention (CFTSI) and non-specific psychological support in reducing post-traumatic symptoms in children aged 7-17 after recent traumatic events?",
+    "relevant_doc_ids": [
+      "BMC Psychol. 2025 Nov 12;13(1):1254. doi: 10.1186/s40359-025-03585-0.",
+      "BMC Psychol. 2025 Nov 12;13(1):1254. doi: 10.1186/s40359-025-03585-0.",
+      "BMC Psychol. 2025 Nov 12;13(1):1254. doi: 10.1186/s40359-025-03585-0.",
+      "BMC Psychol. 2025 Nov 12;13(1):1254. doi: 10.1186/s40359-025-03585-0.",
+      "Support Care Cancer. 2025 Nov 14;33(12):1062. doi: 10.1007/s00520-025-10113-8."
+    ],
+    "num_relevant": 5,
+    "relevance_judgments": {
+      "BMC Psychol. 2025 Nov 12;13(1):1254. doi: 10.1186/s40359-025-03585-0.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.4320116639137268
+      },
+      "J Korean Med Sci. 2025 Nov 10;40(43):e279. doi: 10.3346/jkms.2025.40.e279.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.5057864189147949
+      },
+      "J Cogn Psychother. 2025 Nov 12:JCP-2025-0033.R1. doi: 10.1891/JCP-2025-0033.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.508784830570221
+      },
+      "Eur J Psychotraumatol. 2025 Dec;16(1):2583875. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5429227948188782
+      },
+      "Child Care Health Dev. 2025;51(6):e70181. doi: 10.1111/cch.70181.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.5119116306304932
+      },
+      "JMIR Form Res. 2025 Nov 12;9:e79708. doi: 10.2196/79708.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.5221632719039917
+      },
+      "Eur J Pediatr. 2025 Nov 6;184(12):733. doi: 10.1007/s00431-025-06590-y.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.5286376476287842
+      },
+      "BMC Psychol. 2025 Nov 12;13(1):1251. doi: 10.1186/s40359-025-03429-x.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.532931923866272
+      },
+      "Trends Psychiatry Psychother. 2025 Nov 10. doi: 10.47626/2237-6089-2025-1127.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5353615283966064
+      },
+      "J Psychosom Res. 2025 Nov 12;200:112448. doi: 10.1016/j.jpsychores.2025.112448.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5507253408432007
+      },
+      "Child Adolesc Psychiatry Ment Health. 2025 Nov 12;19(1):124. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5382903814315796
+      },
+      "Front Public Health. 2025 Oct 22;13:1652569. doi: 10.3389/fpubh.2025.1652569.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5424761176109314
+      },
+      "Support Care Cancer. 2025 Nov 14;33(12):1062. doi: 10.1007/s00520-025-10113-8.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5448393821716309
+      },
+      "J Adv Nurs. 2025 Nov 14. doi: 10.1111/jan.70390.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5464297533035278
+      }
+    }
+  },
+  {
+    "query_id": "q_199813",
+    "query": "What was the effect of Cytosorb therapy on bilirubin levels in patients with acute liver failure, according to the retrospective single centre study?",
+    "relevant_doc_ids": [
+      "Liver Int. 2025 Dec;45(12):e70420. doi: 10.1111/liv.70420.",
+      "Liver Int. 2025 Dec;45(12):e70420. doi: 10.1111/liv.70420.",
+      "Liver Int. 2025 Dec;45(12):e70420. doi: 10.1111/liv.70420.",
+      "J Intensive Med. 2025 Jun 27;5(4):392-399. doi: 10.1016/j.jointm.2025.05.001."
+    ],
+    "num_relevant": 4,
+    "relevance_judgments": {
+      "Liver Int. 2025 Dec;45(12):e70420. doi: 10.1111/liv.70420.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.2972628176212311
+      },
+      "J Intensive Med. 2025 Jun 27;5(4):392-399. doi: 10.1016/j.jointm.2025.05.001.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.5036331415176392
+      },
+      "J Biochem Mol Toxicol. 2025 Nov;39(11):e70603. doi: 10.1002/jbt.70603.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.5805681943893433
+      },
+      "Intensive Care Med Exp. 2025 Nov 14;13(1):114. doi: 10.1186/s40635-025-00808-x.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.6075180768966675
+      },
+      "J Cardiothorac Vasc Anesth. 2025 Oct 22:S1053-0770(25)01054-7. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.6246205568313599
+      },
+      "Nutrients. 2025 Oct 25;17(21):3359. doi: 10.3390/nu17213359.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.6527853012084961
+      },
+      "Int J Surg. 2025 Nov 10. doi: 10.1097/JS9.0000000000003918.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.6391710042953491
+      },
+      "Crit Care. 2025 Nov 11;29(1):482. doi: 10.1186/s13054-025-05727-7.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.644713819026947
+      },
+      "Cancers (Basel). 2025 Nov 5;17(21):3574. doi: 10.3390/cancers17213574.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.6459478139877319
+      },
+      "Eur J Med Res. 2025 Nov 10;30(1):1097. doi: 10.1186/s40001-025-03314-8.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.6502912044525146
+      },
+      "Intern Emerg Med. 2025 Nov 13. doi: 10.1007/s11739-025-04199-5.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.6508840918540955
+      },
+      "Int J Hepatol. 2025 Oct 29;2025:8535952. doi: 10.1155/ijh/8535952. eCollection": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.6520968675613403
+      },
+      "Radiother Oncol. 2025 Nov 12:111280. doi: 10.1016/j.radonc.2025.111280.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.652197003364563
+      },
+      "N Engl J Med. 2025 Nov 9. doi: 10.1056/NEJMoa2508827.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6540974378585815
+      },
+      "World J Gastrointest Surg. 2025 Oct 27;17(10):108239. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6544057726860046
+      }
+    }
+  },
+  {
+    "query_id": "q_927472",
+    "query": "What are common comorbidities that patients with a history of congenital heart defect interventions often face in the long term?",
+    "relevant_doc_ids": [
+      "Clin Perinatol. 2025 Dec;52(4):761-770. doi: 10.1016/j.clp.2025.08.007. Epub 2025",
+      "Int J Cardiol. 2025 Nov 5;444:134004. doi: 10.1016/j.ijcard.2025.134004.",
+      "Int J Psychiatry Med. 2025 Nov 10:912174251395848. doi:",
+      "Europace. 2025 Nov 10:euaf292. doi: 10.1093/europace/euaf292.",
+      "Curr Opin Pediatr. 2025 Dec 1;37(6):591-596. doi: 10.1097/MOP.0000000000001517.",
+      "JAMA Cardiol. 2025 Nov 9:e254603. doi: 10.1001/jamacardio.2025.4603.",
+      "J Cardiovasc Dev Dis. 2025 Oct 1;12(10):386. doi: 10.3390/jcdd12100386.",
+      "Card Electrophysiol Clin. 2025 Dec;17(4):545-559. doi:",
+      "J Glob Health. 2025 Nov 7;15:04321. doi: 10.7189/jogh.15.04321.",
+      "J Cardiovasc Dev Dis. 2025 Oct 1;12(10):386. doi: 10.3390/jcdd12100386."
+    ],
+    "num_relevant": 10,
+    "relevance_judgments": {
+      "Clin Perinatol. 2025 Dec;52(4):761-770. doi: 10.1016/j.clp.2025.08.007. Epub 2025": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 1,
+        "retrieval_score": 0.4441233277320862
+      },
+      "Int J Cardiol. 2025 Nov 5;444:134004. doi: 10.1016/j.ijcard.2025.134004.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 2,
+        "retrieval_score": 0.5727294087409973
+      },
+      "Int J Psychiatry Med. 2025 Nov 10:912174251395848. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.6127638220787048
+      },
+      "Europace. 2025 Nov 10:euaf292. doi: 10.1093/europace/euaf292.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.6196882724761963
+      },
+      "Curr Opin Pediatr. 2025 Dec 1;37(6):591-596. doi: 10.1097/MOP.0000000000001517.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.6226632595062256
+      },
+      "JAMA Cardiol. 2025 Nov 9:e254603. doi: 10.1001/jamacardio.2025.4603.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.6329746246337891
+      },
+      "J Psychiatr Res. 2025 Oct 24;192:132-138. doi: 10.1016/j.jpsychires.2025.10.053.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.632819652557373
+      },
+      "Epilepsia Open. 2025 Nov 14. doi: 10.1002/epi4.70185.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.6338587999343872
+      },
+      "J Cardiovasc Dev Dis. 2025 Oct 1;12(10):386. doi: 10.3390/jcdd12100386.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.6492616534233093
+      },
+      "JAMA Netw Open. 2025 Nov 3;8(11):e2541157. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.6395005583763123
+      },
+      "Orphanet J Rare Dis. 2025 Nov 5;20(1):563. doi: 10.1186/s13023-025-04072-w.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.6412545442581177
+      },
+      "Card Electrophysiol Clin. 2025 Dec;17(4):545-559. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.6440375447273254
+      },
+      "J Glob Health. 2025 Nov 7;15:04321. doi: 10.7189/jogh.15.04321.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.644576907157898
+      },
+      "Childs Nerv Syst. 2025 Nov 13;41(1):353. doi: 10.1007/s00381-025-06994-z.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.6449283361434937
+      },
+      "BMJ Open. 2025 Nov 13;15(11):e109010. doi: 10.1136/bmjopen-2025-109010.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.6453403234481812
+      },
+      "J Clin Med. 2025 Oct 31;14(21):7744. doi: 10.3390/jcm14217744.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.6469149589538574
+      },
+      "ARYA Atheroscler. 2025;21(5):51-59. doi: 10.48305/arya.2025.43595.3043.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6509262323379517
+      },
+      "Healthcare (Basel). 2025 Oct 23;13(21):2681. doi: 10.3390/healthcare13212681.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6519509553909302
+      }
+    }
+  },
+  {
+    "query_id": "q_928684",
+    "query": "What are the major risk factors for hypertension in children and adolescents, according to recent studies?",
+    "relevant_doc_ids": [
+      "Hypertens Res. 2025 Nov 14. doi: 10.1038/s41440-025-02459-7.",
+      "Hypertens Res. 2025 Nov 14. doi: 10.1038/s41440-025-02459-7.",
+      "Front Nutr. 2025 Oct 29;12:1562992. doi: 10.3389/fnut.2025.1562992. eCollection",
+      "Hypertens Res. 2025 Nov 14. doi: 10.1038/s41440-025-02459-7.",
+      "Front Nutr. 2025 Oct 29;12:1562992. doi: 10.3389/fnut.2025.1562992. eCollection",
+      "Cell Signal. 2025 Oct 30;137:112193. doi: 10.1016/j.cellsig.2025.112193.",
+      "Pediatr Obes. 2025 Nov 14:e70071. doi: 10.1111/ijpo.70071.",
+      "Curr Opin Pediatr. 2025 Dec 1;37(6):633-639. doi: 10.1097/MOP.0000000000001504."
+    ],
+    "num_relevant": 8,
+    "relevance_judgments": {
+      "Hypertens Res. 2025 Nov 14. doi: 10.1038/s41440-025-02459-7.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.4938799738883972
+      },
+      "Front Nutr. 2025 Oct 29;12:1562992. doi: 10.3389/fnut.2025.1562992. eCollection": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.5173759460449219
+      },
+      "J Hum Hypertens. 2025 Nov 15. doi: 10.1038/s41371-025-01094-6.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.49941790103912354
+      },
+      "Acta Med Acad. 2025 Aug;54(2):133-142. doi: 10.5644/ama2006-124.477.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.5033730268478394
+      },
+      "Front Cardiovasc Med. 2025 Oct 24;12:1607604. doi: 10.3389/fcvm.2025.1607604.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.5101199746131897
+      },
+      "Front Public Health. 2025 Oct 28;13:1651399. doi: 10.3389/fpubh.2025.1651399.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5454007387161255
+      },
+      "Am J Hypertens. 2025 Nov 13:hpaf203. doi: 10.1093/ajh/hpaf203.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5505667924880981
+      },
+      "Cell Signal. 2025 Oct 30;137:112193. doi: 10.1016/j.cellsig.2025.112193.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.531862735748291
+      },
+      "Nutrients. 2025 Nov 1;17(21):3457. doi: 10.3390/nu17213457.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5344101786613464
+      },
+      "Pediatr Obes. 2025 Nov 14:e70071. doi: 10.1111/ijpo.70071.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5359760522842407
+      },
+      "Public Health. 2025 Nov;248:105960. doi: 10.1016/j.puhe.2025.105960. Epub 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5416017770767212
+      },
+      "Curr Opin Pediatr. 2025 Dec 1;37(6):633-639. doi: 10.1097/MOP.0000000000001504.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5461747646331787
+      },
+      "BMC Public Health. 2025 Nov 7;25(1):3854. doi: 10.1186/s12889-025-25189-4.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5472611784934998
+      },
+      "BJOG. 2025 Nov 14. doi: 10.1111/1471-0528.70072.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5475215911865234
+      },
+      "BMC Nephrol. 2025 Nov 11;26(1):626. doi: 10.1186/s12882-025-04513-5.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5509380102157593
+      }
+    }
+  },
+  {
+    "query_id": "q_027528",
+    "query": "In a setting with socio-economic disparities, how does the effectiveness of long-lasting insecticide-treated nets (LLINs) in malaria control vary when nets are available for no more than two people, and what is the impact of adjusting for socio-economic status (SES) on this effectiveness?",
+    "relevant_doc_ids": [
+      "Malar J. 2025 Oct 22;24(1):355. doi: 10.1186/s12936-025-05528-x.",
+      "Malar J. 2025 Oct 22;24(1):355. doi: 10.1186/s12936-025-05528-x.",
+      "Malar J. 2025 Oct 22;24(1):355. doi: 10.1186/s12936-025-05528-x.",
+      "Malar J. 2025 Oct 22;24(1):355. doi: 10.1186/s12936-025-05528-x.",
+      "Malar J. 2025 Nov 5;24(1):374. doi: 10.1186/s12936-025-05621-1.",
+      "Malar J. 2025 Nov 5;24(1):374. doi: 10.1186/s12936-025-05621-1."
+    ],
+    "num_relevant": 6,
+    "relevance_judgments": {
+      "Malar J. 2025 Oct 22;24(1):355. doi: 10.1186/s12936-025-05528-x.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.38271915912628174
+      },
+      "PLoS One. 2025 Nov 10;20(11):e0336099. doi: 10.1371/journal.pone.0336099.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.4624118506908417
+      },
+      "Malar J. 2025 Nov 5;24(1):374. doi: 10.1186/s12936-025-05621-1.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.4775391221046448
+      },
+      "Parasit Vectors. 2025 Oct 29;18(1):441. doi: 10.1186/s13071-025-07016-2.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.4810214638710022
+      },
+      "Malar J. 2025 Nov 10;24(1):386. doi: 10.1186/s12936-025-05629-7.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.4708336591720581
+      },
+      "BMC Public Health. 2025 Nov 6;25(1):3815. doi: 10.1186/s12889-025-25270-y.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.48388561606407166
+      },
+      "PLOS Glob Public Health. 2025 Nov 7;5(11):e0004796. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.4770772159099579
+      },
+      "PLoS One. 2025 Oct 21;20(10):e0325089. doi: 10.1371/journal.pone.0325089.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.49244290590286255
+      },
+      "Malar J. 2025 Oct 23;24(1):358. doi: 10.1186/s12936-025-05599-w.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.4799058437347412
+      },
+      "PLoS One. 2025 Nov 6;20(11):e0335514. doi: 10.1371/journal.pone.0335514.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.4969518482685089
+      },
+      "Travel Med Infect Dis. 2025 Sep-Oct;67S:102826. doi: 10.1016/j.tmaid.2025.102826.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5012048482894897
+      },
+      "Nat Commun. 2025 Oct 29;16(1):9534. doi: 10.1038/s41467-025-64584-8.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5087190270423889
+      }
+    }
+  },
+  {
+    "query_id": "q_512219",
+    "query": "In what scenarios can patient-specific algorithmic refinements of continuous glucose monitoring (CGM) data be applied to improve inpatient diabetes care, particularly in reducing intrapersonal mean absolute relative difference (MARD)?",
+    "relevant_doc_ids": [
+      "Diabetes Care. 2025 Nov 3:dc251494. doi: 10.2337/dc25-1494.",
+      "Diabetes Care. 2025 Nov 3:dc251494. doi: 10.2337/dc25-1494.",
+      "Diabetes Care. 2025 Nov 3:dc251494. doi: 10.2337/dc25-1494.",
+      "Sci Rep. 2025 Nov 13;15(1):39891. doi: 10.1038/s41598-025-23762-w.",
+      "J Diabetes Sci Technol. 2025 Nov 10:19322968251388107. doi:",
+      "Ann Transl Med. 2025 Oct 31;13(5):59. doi: 10.21037/atm-25-62. Epub 2025 Oct 28."
+    ],
+    "num_relevant": 6,
+    "relevance_judgments": {
+      "Diabetes Care. 2025 Nov 3:dc251494. doi: 10.2337/dc25-1494.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.42711886763572693
+      },
+      "Ther Innov Regul Sci. 2025 Nov 7. doi: 10.1007/s43441-025-00880-1.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.5048862099647522
+      },
+      "Sci Rep. 2025 Nov 13;15(1):39891. doi: 10.1038/s41598-025-23762-w.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5292752981185913
+      },
+      "PLOS Digit Health. 2025 Nov 14;4(11):e0001087. doi: 10.1371/journal.pdig.0001087.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.49027207493782043
+      },
+      "J Diabetes Sci Technol. 2025 Nov 10:19322968251388107. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.51611328125
+      },
+      "Biosens Bioelectron. 2025 Nov 8;294:118209. doi: 10.1016/j.bios.2025.118209.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5421482920646667
+      },
+      "J Diabetes Investig. 2025 Nov 12. doi: 10.1111/jdi.70179.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.5237586498260498
+      },
+      "Ann Transl Med. 2025 Oct 31;13(5):59. doi: 10.21037/atm-25-62. Epub 2025 Oct 28.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5256884098052979
+      },
+      "Eur J Intern Med. 2025 Nov 8:106583. doi: 10.1016/j.ejim.2025.106583.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5476908683776855
+      },
+      "Int J Med Inform. 2025 Oct 30;206:106158. doi: 10.1016/j.ijmedinf.2025.106158.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5333631634712219
+      },
+      "Diabetol Metab Syndr. 2025 Nov 14;17(1):428. doi: 10.1186/s13098-025-01977-1.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5371715426445007
+      },
+      "Healthcare (Basel). 2025 Oct 14;13(20):2588. doi: 10.3390/healthcare13202588.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5376073718070984
+      },
+      "Public Health. 2025 Nov 12;249:106045. doi: 10.1016/j.puhe.2025.106045.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5432642698287964
+      }
+    }
+  },
+  {
+    "query_id": "q_662545",
+    "query": "What is the recommended approach for managing chronic total occlusion (CTO) revascularization, and what are the current indications for percutaneous coronary intervention (PCI) in CTO patients?",
+    "relevant_doc_ids": [
+      "Int J Angiol. 2025 Aug 4;34(4):354-359. doi: 10.1055/a-2655-2536. eCollection",
+      "Cureus. 2025 Oct 11;17(10):e94356. doi: 10.7759/cureus.94356. eCollection 2025",
+      "Front Cardiovasc Med. 2025 Oct 29;12:1637403. doi: 10.3389/fcvm.2025.1637403.",
+      "J Clin Med. 2025 Oct 27;14(21):7626. doi: 10.3390/jcm14217626.",
+      "Cureus. 2025 Oct 11;17(10):e94356. doi: 10.7759/cureus.94356. eCollection 2025",
+      "Cureus. 2025 Oct 11;17(10):e94356. doi: 10.7759/cureus.94356. eCollection 2025"
+    ],
+    "num_relevant": 6,
+    "relevance_judgments": {
+      "Int J Angiol. 2025 Aug 4;34(4):354-359. doi: 10.1055/a-2655-2536. eCollection": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 1,
+        "retrieval_score": 0.2239052653312683
+      },
+      "Cureus. 2025 Oct 11;17(10):e94356. doi: 10.7759/cureus.94356. eCollection 2025": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.6529361009597778
+      },
+      "Front Cardiovasc Med. 2025 Oct 29;12:1637403. doi: 10.3389/fcvm.2025.1637403.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.5366798639297485
+      },
+      "J Clin Med. 2025 Oct 27;14(21):7626. doi: 10.3390/jcm14217626.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.5916121006011963
+      },
+      "Am J Case Rep. 2025 Nov 12;26:e950189. doi: 10.12659/AJCR.950189.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.6127364039421082
+      },
+      "Ann Vasc Surg. 2025 Nov 11:S0890-5096(25)00718-6. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6720651388168335
+      },
+      "Int J Angiol. 2025 Jul 18;34(4):320-331. doi: 10.1055/a-2645-8838. eCollection": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.6384611129760742
+      },
+      "JACC Case Rep. 2025 Nov 12;30(36):105770. doi: 10.1016/j.jaccas.2025.105770. Epub": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.6361381411552429
+      },
+      "Int J Angiol. 2025 Jul 23;34(4):360-369. doi: 10.1055/a-2652-1902. eCollection": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.6433491706848145
+      },
+      "Catheter Cardiovasc Interv. 2025 Oct 29. doi: 10.1002/ccd.70288.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.6501886248588562
+      },
+      "J Clin Med. 2025 Nov 3;14(21):7797. doi: 10.3390/jcm14217797.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.653809666633606
+      },
+      "Circulation. 2025 Nov 10. doi: 10.1161/CIR.0000000000001394.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.6581692695617676
+      },
+      "J Clin Med. 2025 Nov 3;14(21):7791. doi: 10.3390/jcm14217791.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.6610226035118103
+      },
+      "BMC Cardiovasc Disord. 2025 Nov 12;25(1):806. doi: 10.1186/s12872-025-05296-1.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.6694839000701904
+      },
+      "Int J Angiol. 2025 Jul 29;34(4):296-302. doi: 10.1055/a-2655-2479. eCollection": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.6701183915138245
+      },
+      "Interv Neuroradiol. 2025 Nov 10:15910199251347782. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6706304550170898
+      }
+    }
+  },
+  {
+    "query_id": "q_735267",
+    "query": "What are the differences in patients' experiences of ward rounds in a Swedish context compared to other healthcare settings in terms of patient involvement and communication?",
+    "relevant_doc_ids": [
+      "BMJ Open. 2025 Nov 13;15(11):e103481. doi: 10.1136/bmjopen-2025-103481.",
+      "BMJ Open. 2025 Nov 13;15(11):e103481. doi: 10.1136/bmjopen-2025-103481.",
+      "BMJ Open. 2025 Nov 13;15(11):e103481. doi: 10.1136/bmjopen-2025-103481.",
+      "BMC Pulm Med. 2025 Nov 13;25(1):524. doi: 10.1186/s12890-025-04024-x.",
+      "BMC Psychiatry. 2025 Nov 12;25(1):1084. doi: 10.1186/s12888-025-07523-7."
+    ],
+    "num_relevant": 5,
+    "relevance_judgments": {
+      "BMJ Open. 2025 Nov 13;15(11):e103481. doi: 10.1136/bmjopen-2025-103481.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.3419129252433777
+      },
+      "BMC Geriatr. 2025 Nov 4;25(1):839. doi: 10.1186/s12877-025-06516-1.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5760053992271423
+      },
+      "BMC Pulm Med. 2025 Nov 13;25(1):524. doi: 10.1186/s12890-025-04024-x.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.5249341726303101
+      },
+      "J Clin Med. 2025 Oct 22;14(21):7486. doi: 10.3390/jcm14217486.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.564663290977478
+      },
+      "J Adv Nurs. 2025 Nov 13. doi: 10.1111/jan.70389.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.543975293636322
+      },
+      "J Clin Med. 2025 Oct 27;14(21):7608. doi: 10.3390/jcm14217608.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.5479770302772522
+      },
+      "BMC Psychiatry. 2025 Nov 12;25(1):1084. doi: 10.1186/s12888-025-07523-7.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5728340744972229
+      },
+      "BMC Pregnancy Childbirth. 2025 Sep 8;25(1):930. doi: 10.1186/s12884-025-08061-6.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.5600731372833252
+      },
+      "Crit Care Sci. 2025 Oct 24;37:e20250017. doi: 10.62675/2965-2774.20250017.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.564812183380127
+      },
+      "Front Health Serv. 2025 Oct 21;5:1606124. doi: 10.3389/frhs.2025.1606124.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5669115781784058
+      },
+      "AIDS Care. 2025 Nov 8:1-15. doi: 10.1080/09540121.2025.2584612.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5695235133171082
+      },
+      "Aust Health Rev. 2025 Dec 4;49(6):AH25132. doi: 10.1071/AH25132.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5768486857414246
+      },
+      "Scand J Public Health. 2025 Nov 12:14034948251388883. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5769841074943542
+      }
+    }
+  },
+  {
+    "query_id": "q_271776",
+    "query": "In patients with suspected hand osteoarthritis, what is the relationship between X-ray images showing a modified Kellgren-Lawrence scale score of 2 or higher and the presence of macroscopic cartilage defects in finger joints?",
+    "relevant_doc_ids": [
+      "Diagnostics (Basel). 2025 Oct 22;15(21):2669. doi: 10.3390/diagnostics15212669.",
+      "Diagnostics (Basel). 2025 Oct 22;15(21):2669. doi: 10.3390/diagnostics15212669.",
+      "Diagnostics (Basel). 2025 Oct 22;15(21):2669. doi: 10.3390/diagnostics15212669.",
+      "Knee Surg Sports Traumatol Arthrosc. 2025 Nov 14. doi: 10.1002/ksa.70191.",
+      "Ann Med. 2025 Dec;57(1):2584361. doi: 10.1080/07853890.2025.2584361. Epub 2025"
+    ],
+    "num_relevant": 5,
+    "relevance_judgments": {
+      "Diagnostics (Basel). 2025 Oct 22;15(21):2669. doi: 10.3390/diagnostics15212669.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.48217254877090454
+      },
+      "Knee Surg Sports Traumatol Arthrosc. 2025 Nov 14. doi: 10.1002/ksa.70191.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.5564768314361572
+      },
+      "Ann Med. 2025 Dec;57(1):2584361. doi: 10.1080/07853890.2025.2584361. Epub 2025": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5855770707130432
+      },
+      "Bone Jt Open. 2025 Nov 11;6(11):1425-1435. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.5488089323043823
+      },
+      "Osteoarthr Cartil Open. 2025 Oct 11;7(4):100695. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.6068150997161865
+      },
+      "PLoS One. 2025 Nov 7;20(11):e0336393. doi: 10.1371/journal.pone.0336393.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5897136926651001
+      },
+      "Arch Sex Behav. 2025 Nov 14. doi: 10.1007/s10508-025-03254-8.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.5849702954292297
+      },
+      "Osteoarthritis Cartilage. 2025 Nov 7:S1063-4584(25)01206-3. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.5854030847549438
+      },
+      "Knee Surg Sports Traumatol Arthrosc. 2025 Nov 14. doi: 10.1002/ksa.70183.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5961142778396606
+      },
+      "J Exp Orthop. 2025 Nov 5;12(4):e70511. doi: 10.1002/jeo2.70511. eCollection 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5999081134796143
+      },
+      "Orthop Surg. 2025 Nov 6. doi: 10.1111/os.70203.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6119284629821777
+      },
+      "Acta Ortop Bras. 2025 Nov 10;33(6):e296115. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6113402843475342
+      }
+    }
+  },
+  {
+    "query_id": "q_559774",
+    "query": "In what scenarios might a nanoplatform leveraging noncovalent molecular interactions and photothermal mechanisms be considered for the treatment of immunologically cold tumors to enhance antigen presentation and overcome T-cell exclusion?",
+    "relevant_doc_ids": [
+      "Acta Biomater. 2025 Nov 11:S1742-7061(25)00835-9. doi:",
+      "Acta Biomater. 2025 Nov 11:S1742-7061(25)00835-9. doi:",
+      "Acta Biomater. 2025 Nov 11:S1742-7061(25)00835-9. doi:",
+      "Acta Biomater. 2025 Nov 11:S1742-7061(25)00835-9. doi:",
+      "ACS Nano. 2025 Nov 14. doi: 10.1021/acsnano.5c14796.",
+      "ACS Nano. 2025 Nov 14. doi: 10.1021/acsnano.5c14796.",
+      "Biotechnol J. 2025 Nov;20(11):e70151. doi: 10.1002/biot.70151.",
+      "Biotechnol J. 2025 Nov;20(11):e70151. doi: 10.1002/biot.70151.",
+      "Int J Mol Sci. 2025 Nov 4;26(21):10733. doi: 10.3390/ijms262110733.",
+      "Small. 2025 Nov 7:e05605. doi: 10.1002/smll.202505605.",
+      "Mol Pharm. 2025 Nov 13. doi: 10.1021/acs.molpharmaceut.5c01064.",
+      "ACS Nano. 2025 Nov 13. doi: 10.1021/acsnano.5c14098.",
+      "ACS Appl Bio Mater. 2025 Nov 14. doi: 10.1021/acsabm.5c01139.",
+      "Biotechnol J. 2025 Nov;20(11):e70151. doi: 10.1002/biot.70151.",
+      "Adv Sci (Weinh). 2025 Nov 7:e12139. doi: 10.1002/advs.202512139.",
+      "Semin Cancer Biol. 2025 Nov 4:S1044-579X(25)00136-1. doi:",
+      "Chin J Cancer Res. 2025 Oct 30;37(5):742-758. doi:"
+    ],
+    "num_relevant": 17,
+    "relevance_judgments": {
+      "Acta Biomater. 2025 Nov 11:S1742-7061(25)00835-9. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.3866543471813202
+      },
+      "ACS Nano. 2025 Nov 14. doi: 10.1021/acsnano.5c14796.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.43763959407806396
+      },
+      "Biotechnol J. 2025 Nov;20(11):e70151. doi: 10.1002/biot.70151.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5179682970046997
+      },
+      "Proc Natl Acad Sci U S A. 2025 Nov 18;122(46):e2515072122. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.4841192662715912
+      },
+      "Int J Mol Sci. 2025 Nov 4;26(21):10733. doi: 10.3390/ijms262110733.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.4899899959564209
+      },
+      "Small. 2025 Nov 7:e05605. doi: 10.1002/smll.202505605.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.5059241652488708
+      },
+      "Cancers (Basel). 2025 Oct 31;17(21):3517. doi: 10.3390/cancers17213517.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5060563683509827
+      },
+      "Mol Pharm. 2025 Nov 13. doi: 10.1021/acs.molpharmaceut.5c01064.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5065497756004333
+      },
+      "ACS Nano. 2025 Nov 13. doi: 10.1021/acsnano.5c14098.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5119621157646179
+      },
+      "ACS Appl Bio Mater. 2025 Nov 14. doi: 10.1021/acsabm.5c01139.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5153752565383911
+      },
+      "Adv Sci (Weinh). 2025 Nov 7:e12139. doi: 10.1002/advs.202512139.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.523460865020752
+      },
+      "Semin Cancer Biol. 2025 Nov 4:S1044-579X(25)00136-1. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.530495285987854
+      },
+      "Chin J Cancer Res. 2025 Oct 30;37(5):742-758. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5311344861984253
+      }
+    }
+  },
+  {
+    "query_id": "q_156610",
+    "query": "What is the role of DNA methylation profiles in predicting treatment outcomes of transcranial magnetic stimulation in patients with treatment-resistant depression?",
+    "relevant_doc_ids": [
+      "BMC Med Genomics. 2025 Nov 12;18(1):181. doi: 10.1186/s12920-025-02240-2.",
+      "BMC Med Genomics. 2025 Nov 12;18(1):181. doi: 10.1186/s12920-025-02240-2.",
+      "BMC Med Genomics. 2025 Nov 12;18(1):181. doi: 10.1186/s12920-025-02240-2.",
+      "BMC Med Genomics. 2025 Nov 12;18(1):181. doi: 10.1186/s12920-025-02240-2.",
+      "Front Psychiatry. 2025 Oct 29;16:1671122. doi: 10.3389/fpsyt.2025.1671122.",
+      "Front Psychiatry. 2025 Oct 29;16:1671122. doi: 10.3389/fpsyt.2025.1671122.",
+      "Front Psychiatry. 2025 Oct 29;16:1671122. doi: 10.3389/fpsyt.2025.1671122."
+    ],
+    "num_relevant": 7,
+    "relevance_judgments": {
+      "BMC Med Genomics. 2025 Nov 12;18(1):181. doi: 10.1186/s12920-025-02240-2.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.31592893600463867
+      },
+      "Front Psychiatry. 2025 Oct 29;16:1671122. doi: 10.3389/fpsyt.2025.1671122.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.45073550939559937
+      },
+      "J Clin Med. 2025 Oct 27;14(21):7612. doi: 10.3390/jcm14217612.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.4343916177749634
+      },
+      "J Psychiatr Res. 2025 Oct 22;192:289-295. doi: 10.1016/j.jpsychires.2025.10.043.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5057543516159058
+      },
+      "J Psychiatry Neurosci. 2025 Oct 1;50(5):E323-E333. doi: 10.1139/jpn-25-0017. Epub": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.47351011633872986
+      },
+      "Artif Intell Med. 2025 Dec;170:103236. doi: 10.1016/j.artmed.2025.103236. Epub": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.47416654229164124
+      },
+      "Clin Epigenetics. 2025 Nov 14;17(1):190. doi: 10.1186/s13148-025-02007-7.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.48547065258026123
+      },
+      "Neurosci Appl. 2025 Oct 6;4:105530. doi: 10.1016/j.nsa.2025.105530. eCollection": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.4869183599948883
+      },
+      "Cancers (Basel). 2025 Nov 2;17(21):3556. doi: 10.3390/cancers17213556.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.48702675104141235
+      },
+      "Int J Mol Sci. 2025 Oct 31;26(21):10615. doi: 10.3390/ijms262110615.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.512698769569397
+      },
+      "Indian J Psychiatry. 2025 Oct;67(10):1007-1012. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5037510991096497
+      },
+      "Ann Gen Psychiatry. 2025 Oct 22;24(1):64. doi: 10.1186/s12991-025-00604-7.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5102660655975342
+      }
+    }
+  },
+  {
+    "query_id": "q_277241",
+    "query": "When should clinicians consider assessing standard modifiable cardiovascular risk factors in patients to prevent coronary artery disease?",
+    "relevant_doc_ids": [
+      "Am J Prev Cardiol. 2025 Oct 15;24:101334. doi: 10.1016/j.ajpc.2025.101334.",
+      "BMC Cardiovasc Disord. 2025 Nov 12;25(1):807. doi: 10.1186/s12872-025-05301-7.",
+      "PLoS One. 2025 Nov 13;20(11):e0334881. doi: 10.1371/journal.pone.0334881.",
+      "Am J Prev Cardiol. 2025 Oct 15;24:101334. doi: 10.1016/j.ajpc.2025.101334.",
+      "JMIR Med Inform. 2025 Nov 13;13:e76659. doi: 10.2196/76659.",
+      "JAMA. 2025 Nov 9:e2521077. doi: 10.1001/jama.2025.21077.",
+      "Circulation. 2025 Nov 10. doi: 10.1161/CIR.0000000000001394.",
+      "Circulation. 2025 Nov 10. doi: 10.1161/CIR.0000000000001394.",
+      "JMA J. 2025 Oct 15;8(4):1143-1152. doi: 10.31662/jmaj.2025-0122. Epub 2025 Aug"
+    ],
+    "num_relevant": 9,
+    "relevance_judgments": {
+      "Am J Prev Cardiol. 2025 Oct 15;24:101334. doi: 10.1016/j.ajpc.2025.101334.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.5272284150123596
+      },
+      "BMC Cardiovasc Disord. 2025 Nov 12;25(1):807. doi: 10.1186/s12872-025-05301-7.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.5221418142318726
+      },
+      "BMJ Ment Health. 2025 Oct 29;28(1):e301954. doi: 10.1136/bmjment-2025-301954.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.5180396437644958
+      },
+      "Sci Rep. 2025 Nov 7;15(1):39128. doi: 10.1038/s41598-025-26471-6.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.518437922000885
+      },
+      "PLoS One. 2025 Nov 13;20(11):e0334881. doi: 10.1371/journal.pone.0334881.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.5223776698112488
+      },
+      "JMIR Med Inform. 2025 Nov 13;13:e76659. doi: 10.2196/76659.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.538639485836029
+      },
+      "Int J Infect Dis. 2025 Nov 12:108211. doi: 10.1016/j.ijid.2025.108211.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5624850392341614
+      },
+      "JAMA. 2025 Nov 9:e2521077. doi: 10.1001/jama.2025.21077.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.545526385307312
+      },
+      "Int J Cardiovasc Imaging. 2025 Nov 13. doi: 10.1007/s10554-025-03560-1.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.5487409234046936
+      },
+      "Circulation. 2025 Nov 10. doi: 10.1161/CIR.0000000000001394.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5619744658470154
+      },
+      "J Prim Care Community Health. 2025 Jan-Dec;16:21501319251379732. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.563137412071228
+      },
+      "JMA J. 2025 Oct 15;8(4):1143-1152. doi: 10.31662/jmaj.2025-0122. Epub 2025 Aug": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5653101801872253
+      },
+      "Eur Respir Rev. 2025 Oct 22;34(178):250050. doi: 10.1183/16000617.0050-2025.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5654442310333252
+      },
+      "Front Nutr. 2025 Oct 23;12:1669931. doi: 10.3389/fnut.2025.1669931. eCollection": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5667715668678284
+      },
+      "Diabetes. 2025 Nov 13:db240787. doi: 10.2337/db24-0787.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5669505000114441
+      },
+      "Public Health. 2025 Nov;248:105960. doi: 10.1016/j.puhe.2025.105960. Epub 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5676563382148743
+      }
+    }
+  },
+  {
+    "query_id": "q_893057",
+    "query": "What is the role of adhesion profile in diagnosing CAD patients, and how does its sensitivity and specificity compare to other diagnostic methods based on the ROC curve analysis?",
+    "relevant_doc_ids": [
+      "J Thromb Thrombolysis. 2025 Nov 8. doi: 10.1007/s11239-025-03204-0.",
+      "J Thromb Thrombolysis. 2025 Nov 8. doi: 10.1007/s11239-025-03204-0.",
+      "J Thromb Thrombolysis. 2025 Nov 8. doi: 10.1007/s11239-025-03204-0.",
+      "Open Med (Wars). 2025 Nov 4;20(1):20251320. doi: 10.1515/med-2025-1320.",
+      "Front Cardiovasc Med. 2025 Oct 29;12:1651935. doi: 10.3389/fcvm.2025.1651935.",
+      "Front Cardiovasc Med. 2025 Oct 29;12:1651935. doi: 10.3389/fcvm.2025.1651935.",
+      "Int J Cardiovasc Imaging. 2025 Nov 13. doi: 10.1007/s10554-025-03570-z.",
+      "Quant Imaging Med Surg. 2025 Nov 1;15(11):11128-11139. doi:"
+    ],
+    "num_relevant": 8,
+    "relevance_judgments": {
+      "J Thromb Thrombolysis. 2025 Nov 8. doi: 10.1007/s11239-025-03204-0.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.47929567098617554
+      },
+      "Open Med (Wars). 2025 Nov 4;20(1):20251320. doi: 10.1515/med-2025-1320.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.49156180024147034
+      },
+      "Front Cardiovasc Med. 2025 Oct 29;12:1651935. doi: 10.3389/fcvm.2025.1651935.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.5731940269470215
+      },
+      "J Vasc Surg. 2025 Nov 11:S0741-5214(25)01958-5. doi: 10.1016/j.jvs.2025.11.003.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.5666970610618591
+      },
+      "Int J Cardiol. 2025 Nov 11:134023. doi: 10.1016/j.ijcard.2025.134023.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.5683703422546387
+      },
+      "Quant Imaging Med Surg. 2025 Nov 1;15(11):10409-10421. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.5710828304290771
+      },
+      "Circulation. 2025 Nov 10. doi: 10.1161/CIR.0000000000001394.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.6042180061340332
+      },
+      "J Clin Ultrasound. 2025 Nov 14. doi: 10.1002/jcu.70134.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.589272141456604
+      },
+      "Ann Med. 2025 Dec;57(1):2584361. doi: 10.1080/07853890.2025.2584361. Epub 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5905490517616272
+      },
+      "Int J Cardiovasc Imaging. 2025 Nov 13. doi: 10.1007/s10554-025-03570-z.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5923446416854858
+      },
+      "Open Heart. 2025 Nov 10;12(2):e003768. doi: 10.1136/openhrt-2025-003768.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5971095561981201
+      },
+      "Clin Radiol. 2025 Oct 16;92:107134. doi: 10.1016/j.crad.2025.107134.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.6070143580436707
+      },
+      "Eur Radiol. 2025 Nov 14. doi: 10.1007/s00330-025-12102-1.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.6089074611663818
+      },
+      "Front Neurol. 2025 Oct 27;16:1652009. doi: 10.3389/fneur.2025.1652009.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.6093391180038452
+      },
+      "Quant Imaging Med Surg. 2025 Nov 1;15(11):11128-11139. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6143301725387573
+      },
+      "logistic and multivariate logistic regression,": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6154242753982544
+      }
+    }
+  },
+  {
+    "query_id": "q_139811",
+    "query": "What is the potential use of noncoding RNAs, including miRNAs, lncRNAs, circRNAs, and piRNAs, in the management of NAFLD and NASH, specifically as biomarkers for early diagnosis and as therapeutic targets?",
+    "relevant_doc_ids": [
+      "Int J Mol Sci. 2025 Oct 26;26(21):10402. doi: 10.3390/ijms262110402.",
+      "Int J Mol Sci. 2025 Oct 26;26(21):10402. doi: 10.3390/ijms262110402.",
+      "Int J Mol Sci. 2025 Oct 26;26(21):10402. doi: 10.3390/ijms262110402.",
+      "Pharmacol Ther. 2025 Nov 12:108956. doi: 10.1016/j.pharmthera.2025.108956.",
+      "BMC Cancer. 2025 Nov 14;25(1):1768. doi: 10.1186/s12885-025-15237-y.",
+      "Int J Mol Sci. 2025 Nov 5;26(21):10769. doi: 10.3390/ijms262110769.",
+      "Pharmacol Ther. 2025 Nov 12:108956. doi: 10.1016/j.pharmthera.2025.108956.",
+      "Pharmacol Ther. 2025 Nov 12:108956. doi: 10.1016/j.pharmthera.2025.108956.",
+      "Int J Mol Sci. 2025 Nov 5;26(21):10769. doi: 10.3390/ijms262110769."
+    ],
+    "num_relevant": 9,
+    "relevance_judgments": {
+      "Int J Mol Sci. 2025 Oct 26;26(21):10402. doi: 10.3390/ijms262110402.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.2891257703304291
+      },
+      "Arab J Gastroenterol. 2025 Nov 11:S1687-1979(25)00132-7. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.512576699256897
+      },
+      "BMC Cancer. 2025 Nov 14;25(1):1768. doi: 10.1186/s12885-025-15237-y.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.4812600612640381
+      },
+      "Pharmacol Ther. 2025 Nov 12:108956. doi: 10.1016/j.pharmthera.2025.108956.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5259121656417847
+      },
+      "Psychopharmacology (Berl). 2025 Nov 3. doi: 10.1007/s00213-025-06958-w.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.4810870289802551
+      },
+      "Int J Mol Sci. 2025 Nov 5;26(21):10769. doi: 10.3390/ijms262110769.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5405481457710266
+      },
+      "Cox) approach. The area under the receiver operating characteristic curve": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5241037607192993
+      },
+      "Front Immunol. 2025 Oct 28;16:1679730. doi: 10.3389/fimmu.2025.1679730.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5276167988777161
+      },
+      "Mol Oncol. 2025 Nov 13. doi: 10.1002/1878-0261.70157.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5294150114059448
+      },
+      "Allergol Immunopathol (Madr). 2025 Nov 1;53(6):20-31. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5369554162025452
+      },
+      "Molecules. 2025 Oct 31;30(21):4247. doi: 10.3390/molecules30214247.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5380600690841675
+      },
+      "Liver Int. 2025 Dec;45(12):e70416. doi: 10.1111/liv.70416.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5393357872962952
+      }
+    }
+  },
+  {
+    "query_id": "q_788863",
+    "query": "What is the proposed mechanism by which vagus nerve stimulation may exert therapeutic effects in patients with adenomyosis, based on the observed sympatho-vagal imbalance in these patients?",
+    "relevant_doc_ids": [
+      "Reprod Fertil. 2025 Oct 14;6(4):e250039. doi: 10.1530/RAF-25-0039. Print 2025 Oct",
+      "Reprod Fertil. 2025 Oct 14;6(4):e250039. doi: 10.1530/RAF-25-0039. Print 2025 Oct",
+      "Reprod Fertil. 2025 Oct 14;6(4):e250039. doi: 10.1530/RAF-25-0039. Print 2025 Oct",
+      "Reprod Fertil. 2025 Oct 14;6(4):e250039. doi: 10.1530/RAF-25-0039. Print 2025 Oct",
+      "Neuromodulation. 2025 Oct 17:S1094-7159(25)01031-1. doi:"
+    ],
+    "num_relevant": 5,
+    "relevance_judgments": {
+      "Reprod Fertil. 2025 Oct 14;6(4):e250039. doi: 10.1530/RAF-25-0039. Print 2025 Oct": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.3564542531967163
+      },
+      "Neuromodulation. 2025 Oct 17:S1094-7159(25)01031-1. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.5412206053733826
+      },
+      "J ECT. 2025 Nov 3. doi: 10.1097/YCT.0000000000001198.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.47679880261421204
+      },
+      "Front Med (Lausanne). 2025 Oct 8;12:1664433. doi: 10.3389/fmed.2025.1664433.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.49954482913017273
+      },
+      "Front Physiol. 2025 Oct 24;16:1693907. doi: 10.3389/fphys.2025.1693907.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.58853679895401
+      },
+      "J Integr Neurosci. 2025 Oct 15;24(10):39451. doi: 10.31083/JIN39451.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5527135729789734
+      },
+      "Front Med (Lausanne). 2025 Oct 15;12:1679449. doi: 10.3389/fmed.2025.1679449.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5745178461074829
+      },
+      "Acta Epileptol. 2025 Nov 1;7(1):43. doi: 10.1186/s42494-025-00219-1.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5601016283035278
+      },
+      "Pain Res Manag. 2025 Oct 23;2025:3494216. doi: 10.1155/prm/3494216. eCollection": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5666919946670532
+      },
+      "Eur J Obstet Gynecol Reprod Biol. 2025 Nov 11;316:114823. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5803565979003906
+      }
+    }
+  },
+  {
+    "query_id": "q_948003",
+    "query": "In patients with preeclampsia, when should clinicians consider measuring angiogenetic factors, such as those involved in the pathogenesis of the disease, to assess disease severity and guide management decisions?",
+    "relevant_doc_ids": [
+      "Int J Mol Sci. 2025 Oct 27;26(21):10431. doi: 10.3390/ijms262110431.",
+      "Int J Mol Sci. 2025 Oct 27;26(21):10431. doi: 10.3390/ijms262110431.",
+      "Cureus. 2025 Oct 2;17(10):e93723. doi: 10.7759/cureus.93723. eCollection 2025",
+      "Am J Obstet Gynecol. 2025 Nov 11:S0002-9378(25)00828-2. doi:",
+      "Taiwan J Obstet Gynecol. 2025 Nov;64(6):996-1003. doi:",
+      "Hum Genomics. 2025 Nov 12;19(1):133. doi: 10.1186/s40246-025-00856-0.",
+      "Taiwan J Obstet Gynecol. 2025 Nov;64(6):996-1003. doi:",
+      "Taiwan J Obstet Gynecol. 2025 Nov;64(6):996-1003. doi:",
+      "Int J Mol Sci. 2025 Oct 27;26(21):10431. doi: 10.3390/ijms262110431.",
+      "J Clin Med. 2025 Oct 26;14(21):7593. doi: 10.3390/jcm14217593.",
+      "Pregnancy Hypertens. 2025 Nov 10;42:101393. doi: 10.1016/j.preghy.2025.101393.",
+      "Int J Mol Sci. 2025 Oct 29;26(21):10530. doi: 10.3390/ijms262110530.",
+      "Am J Obstet Gynecol. 2025 Nov 11:S0002-9378(25)00828-2. doi:"
+    ],
+    "num_relevant": 13,
+    "relevance_judgments": {
+      "Int J Mol Sci. 2025 Oct 27;26(21):10431. doi: 10.3390/ijms262110431.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5213057994842529
+      },
+      "Cureus. 2025 Oct 2;17(10):e93723. doi: 10.7759/cureus.93723. eCollection 2025": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.47385504841804504
+      },
+      "Am J Obstet Gynecol. 2025 Nov 11:S0002-9378(25)00828-2. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.539182186126709
+      },
+      "Taiwan J Obstet Gynecol. 2025 Nov;64(6):996-1003. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.5019041299819946
+      },
+      "Hum Genomics. 2025 Nov 12;19(1):133. doi: 10.1186/s40246-025-00856-0.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.4852718710899353
+      },
+      "Front Endocrinol (Lausanne). 2025 Oct 27;16:1661666. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5123780965805054
+      },
+      "BJOG. 2025 Nov 14. doi: 10.1111/1471-0528.70072.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.4963351786136627
+      },
+      "J Mother Child. 2025 Nov 14;29(1):114-125. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.4974939227104187
+      },
+      "J Clin Med. 2025 Oct 26;14(21):7593. doi: 10.3390/jcm14217593.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5234320759773254
+      },
+      "J Matern Fetal Neonatal Med. 2025 Dec;38(1):2586367. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5261882543563843
+      },
+      "Pregnancy Hypertens. 2025 Nov 10;42:101393. doi: 10.1016/j.preghy.2025.101393.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5312402844429016
+      },
+      "Hum Brain Mapp. 2025 Nov;46(16):e70397. doi: 10.1002/hbm.70397.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5312849879264832
+      },
+      "Lancet Rheumatol. 2025 Oct 17:S2665-9913(25)00218-8. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5344847440719604
+      },
+      "Int J Mol Sci. 2025 Oct 29;26(21):10530. doi: 10.3390/ijms262110530.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5390803217887878
+      }
+    }
+  },
+  {
+    "query_id": "q_916695",
+    "query": "In what scenarios might psychosocial factors, in addition to mechanical or pathological causes, be considered when evaluating and managing lactation-related pain in breastfeeding women?",
+    "relevant_doc_ids": [
+      "Brain Sci. 2025 Oct 8;15(10):1087. doi: 10.3390/brainsci15101087.",
+      "Brain Sci. 2025 Oct 8;15(10):1087. doi: 10.3390/brainsci15101087.",
+      "Brain Sci. 2025 Oct 8;15(10):1087. doi: 10.3390/brainsci15101087.",
+      "BMC Pregnancy Childbirth. 2025 Oct 17;25(1):1112. doi:",
+      "J Hum Lact. 2025 Oct 9:8903344251385524. doi: 10.1177/08903344251385524.",
+      "BMC Pregnancy Childbirth. 2025 Oct 17;25(1):1112. doi:",
+      "Brain Sci. 2025 Oct 8;15(10):1087. doi: 10.3390/brainsci15101087.",
+      "BMC Pregnancy Childbirth. 2025 Oct 17;25(1):1112. doi:",
+      "Int Breastfeed J. 2025 Aug 16;20(1):64. doi: 10.1186/s13006-025-00753-1.",
+      "BMC Womens Health. 2025 Oct 3;25(1):468. doi: 10.1186/s12905-025-04034-1."
+    ],
+    "num_relevant": 10,
+    "relevance_judgments": {
+      "Brain Sci. 2025 Oct 8;15(10):1087. doi: 10.3390/brainsci15101087.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.5216141939163208
+      },
+      "BMC Pregnancy Childbirth. 2025 Oct 17;25(1):1112. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.5375491976737976
+      },
+      "J Hum Lact. 2025 Oct 9:8903344251385524. doi: 10.1177/08903344251385524.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.5177507400512695
+      },
+      "Depress Anxiety. 2025 Oct 30;2025:6982348. doi: 10.1155/da/6982348. eCollection": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.5270346403121948
+      },
+      "Ann Afr Med. 2025 Aug 4. doi: 10.4103/aam.aam_183_25.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.533771276473999
+      },
+      "BMC Public Health. 2025 Nov 12;25(1):3925. doi: 10.1186/s12889-025-25214-6.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5561344623565674
+      },
+      "PLoS One. 2025 Oct 17;20(10):e0332135. doi: 10.1371/journal.pone.0332135.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5525463223457336
+      },
+      "J Manipulative Physiol Ther. 2025 Nov 13:S0161-4754(25)00088-0. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5534224510192871
+      },
+      "Int Breastfeed J. 2025 Aug 16;20(1):64. doi: 10.1186/s13006-025-00753-1.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5607303380966187
+      },
+      "J Affect Disord. 2025 Dec 1;390:120020. doi: 10.1016/j.jad.2025.120020. Epub 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.561108410358429
+      },
+      "BMC Womens Health. 2025 Oct 3;25(1):468. doi: 10.1186/s12905-025-04034-1.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5622955560684204
+      },
+      "Breastfeed Med. 2025 Sep;20(9):601-614. doi: 10.1089/bfm.2025.65870.abm. Epub": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5623376369476318
+      },
+      "Int J Psychoanal. 2025 Oct;106(5):958-977. doi: 10.1080/00207578.2025.2483299.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5636166930198669
+      }
+    }
+  },
+  {
+    "query_id": "q_058223",
+    "query": "What is the potential therapeutic effect of disrupting osteopontin (OPN) expression on cognitive impairments associated with neuroHIV in individuals with chronic viral infection?",
+    "relevant_doc_ids": [
+      "Brain Behav Immun. 2025 Nov 10:106168. doi: 10.1016/j.bbi.2025.106168.",
+      "Brain Behav Immun. 2025 Nov 10:106168. doi: 10.1016/j.bbi.2025.106168.",
+      "Brain Behav Immun. 2025 Nov 10:106168. doi: 10.1016/j.bbi.2025.106168.",
+      "Brain Behav Immun. 2025 Nov 10:106168. doi: 10.1016/j.bbi.2025.106168.",
+      "J Extracell Vesicles. 2025 Nov;14(11):e70191. doi: 10.1002/jev2.70191.",
+      "Neurochem Res. 2025 Nov 14;50(6):359. doi: 10.1007/s11064-025-04612-7.",
+      "Front Immunol. 2025 Oct 29;16:1677433. doi: 10.3389/fimmu.2025.1677433.",
+      "J Extracell Vesicles. 2025 Nov;14(11):e70191. doi: 10.1002/jev2.70191.",
+      "NPJ Parkinsons Dis. 2025 Nov 11;11(1):315. doi: 10.1038/s41531-025-01158-x."
+    ],
+    "num_relevant": 9,
+    "relevance_judgments": {
+      "Brain Behav Immun. 2025 Nov 10:106168. doi: 10.1016/j.bbi.2025.106168.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.36284592747688293
+      },
+      "Neurochem Res. 2025 Nov 14;50(6):359. doi: 10.1007/s11064-025-04612-7.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5664380788803101
+      },
+      "J Extracell Vesicles. 2025 Nov;14(11):e70191. doi: 10.1002/jev2.70191.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.5599247813224792
+      },
+      "Neurotherapeutics. 2025 Nov 6:e00782. doi: 10.1016/j.neurot.2025.e00782.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.5488225221633911
+      },
+      "Front Immunol. 2025 Oct 29;16:1677433. doi: 10.3389/fimmu.2025.1677433.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5624178647994995
+      },
+      "NPJ Parkinsons Dis. 2025 Nov 11;11(1):315. doi: 10.1038/s41531-025-01158-x.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5649265050888062
+      },
+      "Immunol Res. 2025 Nov 10;73(1):160. doi: 10.1007/s12026-025-09694-7.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.589123010635376
+      },
+      "J Orthop Surg Res. 2025 Nov 5;20(1):962. doi: 10.1186/s13018-025-06414-7.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5942652225494385
+      },
+      "Brain Commun. 2025 Oct 30;7(6):fcaf429. doi: 10.1093/braincomms/fcaf429.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5972424745559692
+      },
+      "Brain. 2025 Nov 14:awaf429. doi: 10.1093/brain/awaf429.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6004487872123718
+      },
+      "Eur J Pharm Sci. 2025 Nov 6:107368. doi: 10.1016/j.ejps.2025.107368.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.609252393245697
+      }
+    }
+  },
+  {
+    "query_id": "q_436377",
+    "query": "What compound was isolated from the palm fungus Leptosporella and reported in the Journal of Natural Products in 2025?",
+    "relevant_doc_ids": [
+      "J Nat Prod. 2025 Nov 10. doi: 10.1021/acs.jnatprod.5c01018.",
+      "J Nat Prod. 2025 Nov 10. doi: 10.1021/acs.jnatprod.5c01018."
+    ],
+    "num_relevant": 2,
+    "relevance_judgments": {
+      "J Nat Prod. 2025 Nov 10. doi: 10.1021/acs.jnatprod.5c01018.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 2,
+        "retrieval_score": 0.42622891068458557
+      },
+      "Molecules. 2025 Oct 31;30(21):4266. doi: 10.3390/molecules30214266.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.6195874214172363
+      },
+      "Food Chem. 2025 Nov 5;497:146964. doi: 10.1016/j.foodchem.2025.146964.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.6410074830055237
+      },
+      "Zhongguo Zhong Yao Za Zhi. 2025 Aug;50(15):4275-4283. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.6754897832870483
+      },
+      "Bioimpacts. 2025 Oct 21;15:30815. doi: 10.34172/bi.30815. eCollection 2025.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.6637755632400513
+      },
+      "Int J Mol Sci. 2025 Nov 3;26(21):10694. doi: 10.3390/ijms262110694.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.6519868969917297
+      },
+      "J Ethnopharmacol. 2025 Oct 21;356:120763. doi: 10.1016/j.jep.2025.120763.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6832835674285889
+      },
+      "Redox Biol. 2025 Nov 1;88:103913. doi: 10.1016/j.redox.2025.103913.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.6629581451416016
+      },
+      "J Agric Food Chem. 2025 Nov 12;73(45):28670-28677. doi: 10.1021/acs.jafc.5c06774.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.6631710529327393
+      },
+      "Compr Rev Food Sci Food Saf. 2026 Jan;25(1):e70323. doi: 10.1111/1541-4337.70323.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.6706097722053528
+      },
+      "Sci Rep. 2025 Oct 21;15(1):36814. doi: 10.1038/s41598-025-20645-y.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.6776686906814575
+      },
+      "Trop Biomed. 2025 Sep 1;42(3):242-249. doi: 10.47665/tb.42.3.002.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.6793831586837769
+      },
+      "In Silico Pharmacol. 2025 Nov 6;13(3):169. doi: 10.1007/s40203-025-00482-7.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6922913789749146
+      }
+    }
+  },
+  {
+    "query_id": "q_979344",
+    "query": "What are the potential long-term consequences of neonatal acute kidney injury (AKI) in children and adults?",
+    "relevant_doc_ids": [
+      "Pediatr Nephrol. 2025 Nov 14. doi: 10.1007/s00467-025-06978-w.",
+      "Front Nephrol. 2025 Oct 22;5:1671763. doi: 10.3389/fneph.2025.1671763.",
+      "JAMA Netw Open. 2025 Nov 3;8(11):e2543270. doi:",
+      "Pediatr Nephrol. 2025 Nov 14. doi: 10.1007/s00467-025-06978-w.",
+      "JAMA Netw Open. 2025 Nov 3;8(11):e2543270. doi:",
+      "JAMA Netw Open. 2025 Nov 3;8(11):e2543270. doi:",
+      "Pediatr Nephrol. 2025 Nov 14. doi: 10.1007/s00467-025-06978-w.",
+      "JAMA Netw Open. 2025 Nov 3;8(11):e2543270. doi:",
+      "Cureus. 2025 Sep 26;17(9):e93307. doi: 10.7759/cureus.93307. eCollection 2025",
+      "Front Nephrol. 2025 Oct 22;5:1671763. doi: 10.3389/fneph.2025.1671763.",
+      "Cureus. 2025 Aug 18;17(8):e90442. doi: 10.7759/cureus.90442. eCollection 2025",
+      "J Cardiothorac Surg. 2025 Oct 22;20(1):379. doi: 10.1186/s13019-025-03615-3.",
+      "Front Nephrol. 2025 Oct 22;5:1671763. doi: 10.3389/fneph.2025.1671763.",
+      "Intern Med J. 2025 Nov 11. doi: 10.1111/imj.70257.",
+      "Pediatr Nephrol. 2025 Nov 12. doi: 10.1007/s00467-025-07017-4.",
+      "Nephrol Dial Transplant. 2025 Oct 23:gfaf218. doi: 10.1093/ndt/gfaf218."
+    ],
+    "num_relevant": 16,
+    "relevance_judgments": {
+      "Pediatr Nephrol. 2025 Nov 14. doi: 10.1007/s00467-025-06978-w.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.47317418456077576
+      },
+      "Front Nephrol. 2025 Oct 22;5:1671763. doi: 10.3389/fneph.2025.1671763.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5595574378967285
+      },
+      "JAMA Netw Open. 2025 Nov 3;8(11):e2543270. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.47915369272232056
+      },
+      "Cureus. 2025 Sep 26;17(9):e93307. doi: 10.7759/cureus.93307. eCollection 2025": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.4971387982368469
+      },
+      "Kidney360. 2025 Nov 12. doi: 10.34067/KID.0000000998.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.5205884575843811
+      },
+      "Cureus. 2025 Aug 18;17(8):e90442. doi: 10.7759/cureus.90442. eCollection 2025": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5430396795272827
+      },
+      "J Cardiothorac Surg. 2025 Oct 22;20(1):379. doi: 10.1186/s13019-025-03615-3.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5535904765129089
+      },
+      "Open Heart. 2025 Nov 10;12(2):e003527. doi: 10.1136/openhrt-2025-003527.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5708972215652466
+      },
+      "Intern Med J. 2025 Nov 11. doi: 10.1111/imj.70257.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5720422267913818
+      },
+      "JAMA Netw Open. 2025 Nov 3;8(11):e2541157. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.572251558303833
+      },
+      "Pediatr Nephrol. 2025 Nov 12. doi: 10.1007/s00467-025-07017-4.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5723558664321899
+      },
+      "Nephrol Dial Transplant. 2025 Oct 23:gfaf218. doi: 10.1093/ndt/gfaf218.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5730953216552734
+      },
+      "BMC Pediatr. 2025 Nov 14;25(1):933. doi: 10.1186/s12887-025-06306-z.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.57583087682724
+      }
+    }
+  },
+  {
+    "query_id": "q_634867",
+    "query": "What are the mechanisms by which vitamin D deficiency contributes to adverse metabolic outcomes, such as insulin resistance and diabetes mellitus, in individuals with Down syndrome?",
+    "relevant_doc_ids": [
+      "Int J Mol Sci. 2025 Nov 5;26(21):10756. doi: 10.3390/ijms262110756.",
+      "Int J Mol Sci. 2025 Nov 5;26(21):10756. doi: 10.3390/ijms262110756.",
+      "Int J Mol Sci. 2025 Nov 5;26(21):10756. doi: 10.3390/ijms262110756.",
+      "Int J Mol Sci. 2025 Oct 22;26(21):10256. doi: 10.3390/ijms262110256.",
+      "Int J Mol Sci. 2025 Oct 22;26(21):10256. doi: 10.3390/ijms262110256.",
+      "Int J Mol Sci. 2025 Oct 22;26(21):10256. doi: 10.3390/ijms262110256.",
+      "Turk J Med Sci. 2025 Sep 1;55(5):1161-1173. doi: 10.55730/1300-0144.6071.",
+      "Turk J Med Sci. 2025 Sep 1;55(5):1161-1173. doi: 10.55730/1300-0144.6071."
+    ],
+    "num_relevant": 8,
+    "relevance_judgments": {
+      "Int J Mol Sci. 2025 Nov 5;26(21):10756. doi: 10.3390/ijms262110756.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.29344210028648376
+      },
+      "Int J Mol Sci. 2025 Oct 22;26(21):10256. doi: 10.3390/ijms262110256.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.4668429493904114
+      },
+      "Nutrients. 2025 Oct 24;17(21):3339. doi: 10.3390/nu17213339.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5305577516555786
+      },
+      "Turk J Med Sci. 2025 Sep 1;55(5):1161-1173. doi: 10.55730/1300-0144.6071.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5348180532455444
+      },
+      "Indian J Endocrinol Metab. 2025 Sep-Oct;29(5):555-561. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.49823445081710815
+      },
+      "J Steroid Biochem Mol Biol. 2025 Nov 10:106896. doi: 10.1016/j.jsbmb.2025.106896.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.5137209296226501
+      },
+      "Nutrients. 2025 Oct 28;17(21):3389. doi: 10.3390/nu17213389.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.5462301969528198
+      },
+      "Metabolites. 2025 Oct 14;15(10):670. doi: 10.3390/metabo15100670.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5373944044113159
+      },
+      "PLoS One. 2025 Nov 14;20(11):e0335156. doi: 10.1371/journal.pone.0335156.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.534374475479126
+      },
+      "Eur Arch Psychiatry Clin Neurosci. 2025 Nov 5. doi: 10.1007/s00406-025-02120-x.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5401982069015503
+      },
+      "Int J Mol Sci. 2025 Oct 30;26(21):10576. doi: 10.3390/ijms262110576.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.5503257513046265
+      }
+    }
+  },
+  {
+    "query_id": "q_984253",
+    "query": "What is the main difference between the therapeutic approaches aimed at reducing damage and those aimed at enabling regeneration in patients with lung conditions, according to the framework presented?",
+    "relevant_doc_ids": [
+      "Cells. 2025 Nov 4;14(21):1731. doi: 10.3390/cells14211731.",
+      "BMC Pulm Med. 2025 Nov 10;25(1):516. doi: 10.1186/s12890-025-03965-7.",
+      "Life Sci. 2025 Dec 1;382:124040. doi: 10.1016/j.lfs.2025.124040. Epub 2025 Oct",
+      "J Inflamm Res. 2025 Oct 25;18:14737-14753. doi: 10.2147/JIR.S547454. eCollection"
+    ],
+    "num_relevant": 4,
+    "relevance_judgments": {
+      "Cells. 2025 Nov 4;14(21):1731. doi: 10.3390/cells14211731.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 1,
+        "retrieval_score": 0.5150532722473145
+      },
+      "BMC Pulm Med. 2025 Nov 10;25(1):516. doi: 10.1186/s12890-025-03965-7.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 2,
+        "retrieval_score": 0.5835332870483398
+      },
+      "Life Sci. 2025 Dec 1;382:124040. doi: 10.1016/j.lfs.2025.124040. Epub 2025 Oct": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.6638942956924438
+      },
+      "Cells. 2025 Oct 28;14(21):1691. doi: 10.3390/cells14211691.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.6048792600631714
+      },
+      "J Thorac Dis. 2025 Oct 31;17(10):8838-8848. doi: 10.21037/jtd-2025-1024. Epub": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.6082726120948792
+      },
+      "Cytotechnology. 2025 Dec;77(6):188. doi: 10.1007/s10616-025-00857-w. Epub 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.6176853775978088
+      },
+      "Front Med (Lausanne). 2025 Oct 29;12:1665948. doi: 10.3389/fmed.2025.1665948.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.6225736141204834
+      },
+      "Eur J Cardiothorac Surg. 2025 Nov 14:ezaf410. doi: 10.1093/ejcts/ezaf410.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.634724497795105
+      },
+      "Fly (Austin). 2025 Dec;19(1):2586357. doi: 10.1080/19336934.2025.2586357. Epub": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.6365038752555847
+      },
+      "J Thorac Dis. 2025 Oct 31;17(10):7711-7723. doi: 10.21037/jtd-2025-790. Epub 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.6512352824211121
+      },
+      "Cells. 2025 Oct 27;14(21):1674. doi: 10.3390/cells14211674.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.6519167423248291
+      },
+      "Front Oncol. 2025 Oct 27;15:1657405. doi: 10.3389/fonc.2025.1657405. eCollection": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.6642894148826599
+      },
+      "Proc Natl Acad Sci U S A. 2025 Nov 18;122(46):e2522548122. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.6546335220336914
+      },
+      "Biochim Biophys Acta Rev Cancer. 2025 Nov 11:189494. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.6611849665641785
+      },
+      "Front Bioeng Biotechnol. 2025 Oct 28;13:1639727. doi: 10.3389/fbioe.2025.1639727.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.6662192344665527
+      },
+      "J Inflamm Res. 2025 Oct 25;18:14737-14753. doi: 10.2147/JIR.S547454. eCollection": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.6667170524597168
+      },
+      "J Wound Care. 2025 Nov 2;34(11):944-950. doi: 10.12968/jowc.2023.0239.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6673793196678162
+      },
+      "Front Pharmacol. 2025 Oct 22;16:1645964. doi: 10.3389/fphar.2025.1645964.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6675040125846863
+      }
+    }
+  },
+  {
+    "query_id": "q_243234",
+    "query": "In patients undergoing total knee arthroplasty (TKA) with severe varus deformity (> 10 degrees), what is the most commonly released structure to achieve soft tissue balance?",
+    "relevant_doc_ids": [
+      "J Orthop Surg Res. 2025 Oct 29;20(1):940. doi: 10.1186/s13018-025-06313-x.",
+      "J Orthop Surg Res. 2025 Oct 29;20(1):940. doi: 10.1186/s13018-025-06313-x.",
+      "J Orthop Surg Res. 2025 Oct 29;20(1):940. doi: 10.1186/s13018-025-06313-x.",
+      "Cureus. 2025 Oct 6;17(10):e93939. doi: 10.7759/cureus.93939. eCollection 2025",
+      "Zhongguo Gu Shang. 2025 Oct 25;38(10):1055-60. doi:"
+    ],
+    "num_relevant": 5,
+    "relevance_judgments": {
+      "J Orthop Surg Res. 2025 Oct 29;20(1):940. doi: 10.1186/s13018-025-06313-x.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.5421512126922607
+      },
+      "J Orthop Surg Res. 2025 Nov 7;20(1):970. doi: 10.1186/s13018-025-06394-8.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 3,
+        "retrieval_score": 0.5390158295631409
+      },
+      "J Exp Orthop. 2025 Nov 5;12(4):e70516. doi: 10.1002/jeo2.70516. eCollection 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.5861832499504089
+      },
+      "Cureus. 2025 Oct 6;17(10):e93939. doi: 10.7759/cureus.93939. eCollection 2025": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.5574363470077515
+      },
+      "J Exp Orthop. 2025 Nov 5;12(4):e70511. doi: 10.1002/jeo2.70511. eCollection 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.564644455909729
+      },
+      "Haemophilia. 2025 Nov;31(6):1298-1306. doi: 10.1111/hae.70153. Epub 2025 Oct 29.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.5715543031692505
+      },
+      "Zhongguo Gu Shang. 2025 Oct 25;38(10):994-1000. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.5726869702339172
+      },
+      "Zhongguo Gu Shang. 2025 Oct 25;38(10):1055-60. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.5824896693229675
+      },
+      "BMC Musculoskelet Disord. 2025 Nov 6;26(1):1029. doi: 10.1186/s12891-025-09269-5.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5793949365615845
+      },
+      "J Clin Med. 2025 Nov 6;14(21):7882. doi: 10.3390/jcm14217882.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.5862794518470764
+      },
+      "Arch Orthop Trauma Surg. 2025 Oct 29;145(1):492. doi: 10.1007/s00402-025-06104-3.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.5917600393295288
+      },
+      "Zhongguo Gu Shang. 2025 Oct 25;38(10):1009-18. doi:": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.5983186960220337
+      },
+      "J Knee Surg. 2025 Nov 12. doi: 10.1055/a-2741-1796.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6003468036651611
+      },
+      "Orthop Traumatol Surg Res. 2025 Oct 24:104523. doi: 10.1016/j.otsr.2025.104523.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6045277118682861
+      }
+    }
+  },
+  {
+    "query_id": "q_365792",
+    "query": "What are some current and emerging therapies that can counteract inflammatory bone loss?",
+    "relevant_doc_ids": [
+      "Nat Rev Rheumatol. 2025 Nov 13. doi: 10.1038/s41584-025-01323-9.",
+      "Nat Rev Rheumatol. 2025 Nov 13. doi: 10.1038/s41584-025-01323-9.",
+      "Molecules. 2025 Oct 22;30(21):4154. doi: 10.3390/molecules30214154.",
+      "Cells. 2025 Oct 22;14(21):1649. doi: 10.3390/cells14211649.",
+      "Phytomedicine. 2025 Oct 26;148:157472. doi: 10.1016/j.phymed.2025.157472.",
+      "Nat Rev Rheumatol. 2025 Nov 13. doi: 10.1038/s41584-025-01323-9.",
+      "Molecules. 2025 Oct 22;30(21):4154. doi: 10.3390/molecules30214154.",
+      "Phytomedicine. 2025 Oct 26;148:157472. doi: 10.1016/j.phymed.2025.157472.",
+      "Phytomedicine. 2025 Oct 26;148:157472. doi: 10.1016/j.phymed.2025.157472.",
+      "Osteoporos Int. 2025 Oct 31. doi: 10.1007/s00198-025-07707-7.",
+      "Phytomedicine. 2025 Oct 26;148:157472. doi: 10.1016/j.phymed.2025.157472.",
+      "Cancers (Basel). 2025 Oct 27;17(21):3442. doi: 10.3390/cancers17213442.",
+      "Nutrients. 2025 Oct 31;17(21):3440. doi: 10.3390/nu17213440.",
+      "Bone. 2025 Nov 10:117718. doi: 10.1016/j.bone.2025.117718.",
+      "Food Res Int. 2025 Dec;221(Pt 3):117359. doi: 10.1016/j.foodres.2025.117359. Epub",
+      "J Biomed Mater Res A. 2025 Nov;113(11):e38016. doi: 10.1002/jbm.a.38016."
+    ],
+    "num_relevant": 16,
+    "relevance_judgments": {
+      "Nat Rev Rheumatol. 2025 Nov 13. doi: 10.1038/s41584-025-01323-9.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.5548478364944458
+      },
+      "Molecules. 2025 Oct 22;30(21):4154. doi: 10.3390/molecules30214154.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.5559595823287964
+      },
+      "Cells. 2025 Oct 22;14(21):1649. doi: 10.3390/cells14211649.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.5429732799530029
+      },
+      "Phytomedicine. 2025 Oct 26;148:157472. doi: 10.1016/j.phymed.2025.157472.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.5970135927200317
+      },
+      "Biosci Rep. 2025 Nov 5:BSR20253559. doi: 10.1042/BSR20253559.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 8,
+        "retrieval_score": 0.5680283308029175
+      },
+      "J Bone Miner Res. 2025 Nov 8:zjaf165. doi: 10.1093/jbmr/zjaf165.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.5755373239517212
+      },
+      "Osteoporos Int. 2025 Oct 31. doi: 10.1007/s00198-025-07707-7.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.5843355059623718
+      },
+      "Food Res Int. 2025 Dec;221(Pt 3):117359. doi: 10.1016/j.foodres.2025.117359. Epub": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.6089385151863098
+      },
+      "Cancers (Basel). 2025 Oct 27;17(21):3442. doi: 10.3390/cancers17213442.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.6004745960235596
+      },
+      "Nutrients. 2025 Oct 31;17(21):3440. doi: 10.3390/nu17213440.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.6011478900909424
+      },
+      "Bone. 2025 Nov 10:117718. doi: 10.1016/j.bone.2025.117718.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.6036005616188049
+      },
+      "Semin Respir Crit Care Med. 2025 Nov 14. doi: 10.1055/a-2746-4469.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.608870267868042
+      },
+      "J Biomed Mater Res A. 2025 Nov;113(11):e38016. doi: 10.1002/jbm.a.38016.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.6107940673828125
+      }
+    }
+  },
+  {
+    "query_id": "q_906613",
+    "query": "In what scenarios should clinicians consider implementing AI-based screening models that?",
+    "relevant_doc_ids": [
+      "Cancers (Basel). 2025 Oct 30;17(21):3491. doi: 10.3390/cancers17213491.",
+      "Cancers (Basel). 2025 Oct 30;17(21):3491. doi: 10.3390/cancers17213491.",
+      "J Gen Intern Med. 2025 Oct 28. doi: 10.1007/s11606-025-09938-0.",
+      "BMC Palliat Care. 2025 Oct 28;24(1):274. doi: 10.1186/s12904-025-01909-w.",
+      "JAMIA Open. 2025 Oct 26;8(5):ooaf133. doi: 10.1093/jamiaopen/ooaf133. eCollection",
+      "Cureus. 2025 Nov 6;17(11):e96226. doi: 10.7759/cureus.96226. eCollection 2025",
+      "Crit Rev Oncol Hematol. 2025 Nov 10:105011. doi:",
+      "BMC Med Inform Decis Mak. 2025 Oct 28;25(1):397. doi: 10.1186/s12911-025-03237-8.",
+      "Cancers (Basel). 2025 Oct 30;17(21):3491. doi: 10.3390/cancers17213491.",
+      "Int Ophthalmol. 2025 Nov 3;45(1):456. doi: 10.1007/s10792-025-03806-w.",
+      "J Alzheimers Dis Rep. 2025 Nov 10;9:25424823251395310. doi:",
+      "J Am Soc Nephrol. 2025 Nov 7. doi: 10.1681/ASN.0000000929.",
+      "Cureus. 2025 Nov 6;17(11):e96226. doi: 10.7759/cureus.96226. eCollection 2025",
+      "Diagnostics (Basel). 2025 Nov 4;15(21):2788. doi: 10.3390/diagnostics15212788.",
+      "Int J Surg. 2025 Nov 13. doi: 10.1097/JS9.0000000000003828.",
+      "Digit Health. 2025 Nov 10;11:20552076251393429. doi: 10.1177/20552076251393429."
+    ],
+    "num_relevant": 16,
+    "relevance_judgments": {
+      "J Gen Intern Med. 2025 Oct 28. doi: 10.1007/s11606-025-09938-0.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 5,
+        "retrieval_score": 0.4435325860977173
+      },
+      "Cancers (Basel). 2025 Oct 30;17(21):3491. doi: 10.3390/cancers17213491.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 12,
+        "retrieval_score": 0.4601895213127136
+      },
+      "Cureus. 2025 Nov 5;17(11):e96121. doi: 10.7759/cureus.96121. eCollection 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 4,
+        "retrieval_score": 0.44080138206481934
+      },
+      "BMC Palliat Care. 2025 Oct 28;24(1):274. doi: 10.1186/s12904-025-01909-w.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 6,
+        "retrieval_score": 0.4471217393875122
+      },
+      "JAMIA Open. 2025 Oct 26;8(5):ooaf133. doi: 10.1093/jamiaopen/ooaf133. eCollection": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 7,
+        "retrieval_score": 0.4472442865371704
+      },
+      "Cureus. 2025 Nov 6;17(11):e96226. doi: 10.7759/cureus.96226. eCollection 2025": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 17,
+        "retrieval_score": 0.4676709771156311
+      },
+      "BJUI Compass. 2025 Nov 9;6(11):e70108. doi: 10.1002/bco2.70108. eCollection 2025": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 9,
+        "retrieval_score": 0.4545693099498749
+      },
+      "Crit Rev Oncol Hematol. 2025 Nov 10:105011. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 10,
+        "retrieval_score": 0.4577847719192505
+      },
+      "BMC Med Inform Decis Mak. 2025 Oct 28;25(1):397. doi: 10.1186/s12911-025-03237-8.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 11,
+        "retrieval_score": 0.4595639109611511
+      },
+      "Int Ophthalmol. 2025 Nov 3;45(1):456. doi: 10.1007/s10792-025-03806-w.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 13,
+        "retrieval_score": 0.46143385767936707
+      },
+      "J Alzheimers Dis Rep. 2025 Nov 10;9:25424823251395310. doi:": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 14,
+        "retrieval_score": 0.4620659351348877
+      },
+      "J Am Soc Nephrol. 2025 Nov 7. doi: 10.1681/ASN.0000000929.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 15,
+        "retrieval_score": 0.4645840525627136
+      },
+      "Eur J Surg Oncol. 2025 Nov 6;52(1):111175. doi: 10.1016/j.ejso.2025.111175.": {
+        "is_relevant": false,
+        "relevance_score": 0,
+        "retrieval_rank": 16,
+        "retrieval_score": 0.4669913351535797
+      },
+      "Diagnostics (Basel). 2025 Nov 4;15(21):2788. doi: 10.3390/diagnostics15212788.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 18,
+        "retrieval_score": 0.46782106161117554
+      },
+      "Int J Surg. 2025 Nov 13. doi: 10.1097/JS9.0000000000003828.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 19,
+        "retrieval_score": 0.4696826636791229
+      },
+      "Digit Health. 2025 Nov 10;11:20552076251393429. doi: 10.1177/20552076251393429.": {
+        "is_relevant": true,
+        "relevance_score": 0,
+        "retrieval_rank": 20,
+        "retrieval_score": 0.4720344543457031
+      }
+    }
+  }
+]
