@@ -386,3 +386,81 @@ ACO Automatic Optimization:
   - Repeat for 4 cycles
   - Converge to optimal parameters
 ```
+### Algorithm Hyperparameters
+
+```python
+Number of Ants: 5 per iteration
+Evaporation Rate (ρ): 0.7 (70%)
+Iterations: 4 cycles
+Alpha (α): 2.0 (pheromone influence)
+Test Samples: 10 random selections
+Fitness Metric: BERTScore F1 Median
+```
+
+### Why Median Instead of Mean?
+
+```
+Medical questions vary in difficulty:
+  - Some are straightforward ("What is diabetes?")
+  - Others are complex ("Multiple symptoms diagnosis")
+
+Median provides:
+  ✓ Robustness against outlier samples
+  ✓ Consistent performance across diverse question types
+  ✓ Prevents excelling on easy questions while failing on hard ones
+  ✓ More reliable optimization metric
+```
+
+### Optimal Parameters Found
+
+| Model | Temperature | Top-p | Max Tokens | BERTScore |
+|-------|------------|-------|------------|-----------|
+| **Llama Fine-tuned** | 0.7 | 0.7 | 512 | **70.50%** |
+| Llama Unsloth | 0.7 | 0.7 | 128 | 65.16% |
+| Llama Not Fine-tuned | 0.9 | 0.5 | 1024 | 61.29% |
+| Qwen 4 Epochs | 0.7 | 0.99 | 512 | 69.85% |
+| Qwen 3 Epochs | 0.7 | 0.99 | 512 | 69.80% |
+| Qwen Not Fine-tuned | 0.3 | 0.99 | 1024 | 65.02% |
+
+---
+## 📊 Model Evaluation
+
+### Evaluation Metrics
+
+#### 1. **BERTScore (Primary Metric)**
+```
+Purpose: Measures semantic similarity using contextual embeddings
+Range: 0-100% (higher is better)
+Best for: Arabic language evaluation
+
+Our Results:
+  - Llama 3.1 Fine-tuned: 70.50% 🏆
+  - Qwen 4 Epochs: 69.85%
+  - Qwen 3 Epochs: 69.80%
+
+Industry Benchmark:
+  - Medical AI standard: 60-75%
+  - Our model: High-performance range
+```
+
+**Components:**
+- **Precision**: How many generated tokens are relevant
+- **Recall**: How many reference tokens are captured
+- **F1**: Harmonic mean of precision and recall
+
+#### 2. **BLEU Score**
+```
+Purpose: Evaluates n-gram precision between generated and reference answers
+Used for: Machine translation quality
+```
+#### 3. **ROUGE Score**
+```
+Purpose: Measures longest common subsequence between generated and reference text
+Good for: Evaluating sentence structure similarity
+```
+
+#### 4. **Exact Match**
+```
+Binary metric checking if generated answer matches reference exactly
+(character-by-character)
+```
