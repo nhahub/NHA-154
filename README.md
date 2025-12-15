@@ -41,17 +41,15 @@ This repository is divided into four main core components. Click on the links be
 
 ## 👥 The Team
 
-<a href="https://github.com/nhahub/NHA-154">
-<img src="https://github.com/fatma2123456/CLASSIFYING-RESPIRATORY-DISEASES-FROM-X-RAYS/raw/main/Image/Picture2_20241025_195821_0000.png" align="right" width="150" alt="Team Logo">
-</a>
+<img src="https://github.com/fatma2123456/CLASSIFYING-RESPIRATORY-DISEASES-FROM-X-RAYS/raw/main/Image/Picture2_20241025_195821_0000.png" align="right" width="180">
 
-**Supervised by:** Dr. Heba Mohamed
+Supervised by: **Dr. Heba Mohamed**
 
-*   [Ahmed Mostafa](https://github.com/AhmedMostafa-hub) 
-*   [Mina Saeed](https://github.com/MinaSaeed) 
-*   [Fatma Elzhraa Ahmed](https://github.com/fatma2123456) 
-*   [Ahmed Mohamed](https://github.com/AhmedMohamed) 
-*   [Mohamed Ahmed](https://github.com/MohamedAhmed) 
+*   [Ahmed Mostafa](https://github.com/)
+*   [Mina Saeed](https://github.com/)
+*   [Fatma Elzhraa Ahmed](https://github.com/)
+*   [Ahmed Mohamed](https://github.com/)
+*   [Mohamed Ahmed](https://github.com/)
 
 <br clear="all">
 
