@@ -8,6 +8,8 @@
 ![Gemini](https://img.shields.io/badge/Google-Gemini_API-4285F4?style=for-the-badge)
 
 **An intelligent medical research assistant powered by Retrieval-Augmented Generation (RAG)**
+*Connecting doctors to evidence-based knowledge in seconds*
+
 • [🏗️ Architecture](#️-system-architecture)
 • [🚀 Installation](#-installation) 
 • [💻 Usage](#-usage) 
