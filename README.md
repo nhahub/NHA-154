@@ -26,7 +26,7 @@ This repository is divided into four main core components. Click on the links be
 
 ### 4. 📱 Frontend Application
 **Description:** The user interface code connecting all these services into a seamless experience for both patients and doctors.
-*   🔗 **[Go to Frontend Directory](https://github.com/nhahub/NHA-154/tree/main/Frontend)**
+*   🔗 **[Go to Frontend Directory](https://github.com/nhahub/NHA-154/tree/main/Frontend/README.md)**
 
 ---
 
