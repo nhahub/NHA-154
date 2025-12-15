@@ -43,13 +43,13 @@ This repository is divided into four main core components. Click on the links be
 
 
 
-Supervised by: [**ENG. Heba Mohamed**](https://github.com/heba14101998)
+Supervised by: [**ENG. Heba Mohamed**](https://github.com/heba14101998)-------------> [Linkedin](https://www.linkedin.com/in/heba-mohamed-14101998/)
 
-*   [Ahmed Mostafa](https://github.com/EngAhmed19)
-*   [Mina Saeed](https://github.com/Mkamel90)
-*   [Fatma Elzhraa Ahmed](https://github.com/fatma2123456)
-*   [Ahmed Mohamed](https://github.com/ahmediismaiil)
-*   [Mohamed Ahmed](https://github.com/Mohamed301)
+*   [Ahmed Mostafa](https://github.com/EngAhmed19)-------------> [Linkedin](linkedin.com/in/ahmed-mostafa-010436248/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BlEK8EaIZRRODCfMQwCyi3g%3D%3D)
+*   [Mina Saeed](https://github.com/Mkamel90)-------------> [Linkedin]()
+*   [Fatma Elzhraa Ahmed](https://github.com/fatma2123456)-------------> [Linkedin](https://www.linkedin.com/in/fatma-elzhraa-ahmed-9a3b9a232/)
+*   [Ahmed Mohamed](https://github.com/ahmediismaiil)-------------> [Linkedin]()
+*   [Mohamed Ahmed](https://github.com/Mohamed301)-------------> [Linkedin]()
 <img src="https://github.com/fatma2123456/CLASSIFYING-RESPIRATORY-DISEASES-FROM-X-RAYS/raw/main/Image/Picture2_20241025_195821_0000.png" align="right" width="200">
 <br clear="all">
 
