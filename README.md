@@ -11,7 +11,7 @@ This repository is divided into four main core components. Click on the links be
 
 ### 1. 🤖 Patient AI Consultant
 **Description:** An AI chatbot fine-tuned on Arabic medical consultations using **Qwen 2.5** and optimized with **Ant Colony Optimization (ACO)** algorithms to provide accurate, empathetic, and privacy-aware medical guidance to patients.
-*   **Key Tech:** Qwen 2.5, LoRA, Unsloth, ACO.
+* **Key Tech:** Llama, Qwen 2.5, QLoRA, Unsloth, ACO.
 *   🔗 **[Go to Patient Chatbot Directory](https://github.com/nhahub/NHA-154/tree/main/Patient%20Chatbot)**
 
 ### 2. 👨‍⚕️ Doctor RAG Assistant
