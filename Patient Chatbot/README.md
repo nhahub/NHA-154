@@ -207,3 +207,61 @@ Hyperparameters:
   - LoRA Alpha: 128
   - Quantization: 4-bit
 
+```
+#### Qwen Training (with Medical Adapter)
+```python
+Base Model: Qwen/Qwen2.5-7B-Instruct
+Dataset: 8,442 samples (10%)
+
+Architecture: QLoRA + Custom Medical Adapter
+
+Hyperparameters:
+  - Epochs: 3-4
+  - Max Sequence Length: 1024
+  - Batch Size: 8
+  - Learning Rate: 2e-4
+  - LoRA Rank (R): 64
+```
+
+### Training Process
+
+```
+Step 1: Environment Setup
+  └─ Install PyTorch, Transformers, Unsloth, PEFT
+  └─ Configure GPU and CUDA
+
+Step 2: Data Preparation
+  └─ Load Shifaa dataset (84,422 samples)
+  └─ Format as conversational pairs
+  └─ Tokenize with model tokenizer
+  └─ Create training/validation split (90/10)
+
+Step 3: Model Initialization
+  └─ Load base Llama 3.1 model
+  └─ Apply 4-bit quantization
+  └─ Configure LoRA adapters (R=64)
+  └─ Initialize optimizer (AdamW)
+
+Step 4: Training Loop
+  └─ Train for 1 epoch
+  └─ Gradient accumulation steps: 4
+  └─ Mixed precision training (FP16)
+  └─ Gradient checkpointing enabled
+  └─ Validation every 500 steps
+
+Step 5: Model Saving
+  └─ Save LoRA adapters
+  └─ Save tokenizer
+  └─ Merge with base model (optional)
+  └─ Test inference
+```
+
+---
+
+## 🧠 Custom Medical Adapter
+
+### Architecture Overview
+
+A **custom-designed neural network layer** specifically engineered to enhance the model's understanding of medical terminology, context, and reasoning patterns in Arabic medical consultations.
+
+### Design Details
