@@ -610,18 +610,6 @@ Health Check: /health
 
 ---
 
-### 4. Gemini Vision API
-
-```
-Type: Google SDK (Built-in)
-File: services/geminiService.ts
-Purpose: Analyze medical images for patients
-Authentication: API key (environment variable)
-```
-
-**Not an ngrok endpoint** - uses Google's API directly
-
----
 
 ## 🔄 Step-by-Step: Updating Endpoints After Colab Restart
 
@@ -837,107 +825,6 @@ const CV_API_URL = process.env.REACT_APP_CV_API || "https://backup.ngrok-free.de
 
 ---
 
-# 🎨 Design System
-
-## Color Palette
-
-### Primary Colors
-```
-Primary Blue (#1A2A4F):
-  - Headers and main text
-  - Button backgrounds
-  - Navigation elements
-  - Card borders (hover)
-  
-Rose/Pink (#F7A5A5):
-  - Call-to-action buttons
-  - Accent highlights
-  - Button hover states
-  - Patient card border
-  
-Light Beige (#FFF2EF):
-  - Section backgrounds
-  - Alternative backgrounds
-  - Page sections
-
-White (#FFFFFF):
-  - Card backgrounds
-  - Content areas
-  - Primary background
-
-Dark Gray (#6B7280):
-  - Secondary text
-  - Helper text
-  - Disabled states
-```
-
-## Typography
-
-### Font Stack
-```
-Primary: Cairo (Arabic-optimized)
-Fallback: System fonts
-
-Sizes:
-  H1: 2xl-4xl (text-2xl to text-4xl)
-  H2: xl-3xl (text-xl to text-3xl)
-  H3: lg-2xl (text-lg to text-2xl)
-  Body: base-lg (text-base to text-lg)
-  Small: sm-base (text-sm to text-base)
-
-Weights:
-  Bold: 700 (titles, headings)
-  Regular: 400 (body text)
-  Medium: 500 (emphasis)
-```
-
-## Animations
-
-### Available Animations
-```
-fadeIn:
-  - Opacity: 0 → 1
-  - Duration: 400ms
-  - Easing: ease-in-out
-  
-slideInUp:
-  - Transform: translateY(20px) → 0
-  - Opacity: 0 → 1
-  - Duration: 500ms
-  
-animation-delay:
-  - delay-300: 300ms
-  - delay-600: 600ms
-  - Creates staggered animations
-
-Hover Effects:
-  - scale-105: 5% size increase
-  - shadow transitions: Depth changes
-  - Color transitions: Smooth color changes
-  - Border transitions: Smooth border changes
-```
-
-## Responsive Breakpoints
-
-```
-Mobile: < 768px (md breakpoint)
-  - Single column layouts
-  - Stacked cards
-  - Full-width elements
-  
-Tablet: 768px - 1024px
-  - Two-column layouts
-  - Optimized spacing
-  - Touch-friendly sizing
-
-Desktop: > 1024px
-  - Multi-column grids
-  - Full feature display
-  - Horizontal layouts
-```
-
----
-
 # 🔗 Navigation & Architecture
 
 ## Complete Navigation Flow
@@ -966,10 +853,10 @@ Desktop: > 1024px
     │ DoctorDashboard   │   │PatientDashboard  │
     │  .tsx             │   │ .tsx             │
     ├───────────────────┤   ├──────────────────┤
-    │ ┌──────────────┐  │   │ ┌──────────────┐ │
-    │ │Image Upload  │  │   │ │Report Upload │ │
-    │ │& Analysis    │  │   │ │& Analysis    │ │
-    │ │(CV API)      │  │   │ │(Gemini API)  │ │
+    │ ┌──────────────┐  │   │  │
+    │ │Image Upload  │  │   │ │
+    │ │& Analysis    │  │   │  │
+    │ │(CV API)      │  │   │  
     │ ├──────────────┤  │   │ ├──────────────┤ │
     │ │Grad-CAM      │  │   │ │Chat Interface│ │
     │ │Visualization │  │   │ │Health Q&A    │ │
@@ -1405,4 +1292,5 @@ Connection refused:
 5. **Deploy**: `npm run build` → Deploy to Vercel or similar
 
 **Happy coding! 🏥🤖**
+
 
