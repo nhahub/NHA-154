@@ -88,7 +88,188 @@ Intelligently combines both methods with a tunable **alpha (α) parameter**:
            (α = 0.5)
                    │
            ┌───────▼────────┐
-           │  Ranked Results │
-           │  Top 5 Papers   │
-           └─────────────────┘
+           │  Ranked Results│
+           │  Top 5 Papers  │
+           └────────────────┘
 ```
+### 🎯 Two-Stage RAG Pipeline
+
+Unlike simple Q&A systems, our RAG pipeline thinks in **two stages**, mimicking how expert researchers approach literature review:
+
+#### **Stage 1: Document Analysis & Evidence Extraction**
+The system acts as a careful researcher:
+1. **Reads** all retrieved medical documents thoroughly
+2. **Extracts** relevant evidence related to the query
+3. **Identifies** key findings, methodologies, and conclusions
+4. **Notes** any contradictions or disagreements between sources
+5. **Flags** limitations, gaps, or uncertainties in the evidence
+
+#### **Stage 2: Synthesis & Structured Response**
+Then it synthesizes findings into a clinical-grade answer:
+1. **Constructs** an evidence-based response
+2. **Cites** specific sources (PMID numbers) for every claim
+3. **Provides** a confidence score (0-100%)
+4. **Lists** caveats, limitations, and warnings
+5. **Suggests** when to consult specialists or seek additional information
+
+**Example Output Structure:**
+```
+ANSWER:
+Current evidence suggests ACE inhibitors reduce mortality 
+in heart failure patients by 20-25% (PMID-12345678). Beta-blockers 
+show similar efficacy when combined with ACE inhibitors (PMID-87654321).
+
+SOURCES USED:
+• PMID-12345678: Meta-analysis of 15 RCTs (2023)
+• PMID-87654321: Large cohort study (2024)
+
+CONFIDENCE: 85%
+Based on multiple high-quality studies with consistent findings.
+
+LIMITATIONS:
+• Studies primarily focused on patients with reduced ejection fraction
+• Long-term outcomes beyond 5 years limited
+• Dosage variations across studies
+
+RECOMMENDATIONS:
+Consult cardiologist for patient-specific dosing and monitoring protocols.
+```
+
+### 🔒 Safety-First Design
+
+Medical information is critical—we can't afford hallucinations or misinformation:
+
+- **No Speculation**: If the system doesn't find information in retrieved documents, it explicitly says "Not found in provided sources"
+- **Always Cited**: Every single claim must be backed by a PMID citation
+- **Confidence Transparent**: Clear percentage showing how certain the answer is
+- **Limitation Warnings**: Explicitly states gaps, contradictions, or uncertainties
+- **Professional Boundaries**: Reminds users to consult healthcare providers for final decisions
+
+---
+## 🏗️ System Architecture
+
+### The Complete Journey: From PubMed to Answers
+
+```
+┌─────────────────────────────────────────────────────────┐
+│               📚 DATA COLLECTION PHASE                  │
+│                                                          │
+│  PubMed Database                                         │
+│  └─> Entrez API                                          │
+│      └─> Fetch  Medical Documents                        │
+│          • Research papers                               │
+│          • Clinical trials                               │
+│          • Meta-analyses                                 │
+│          • Case studies                                  │
+└────────────────────┬─────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────────────────┐
+│              🧹 PREPROCESSING PHASE                     │
+│                                                         │
+│  Clean & Normalize:                                     │
+│  ✓ Remove author info, DOIs, references                 │
+│  ✓ Filter English-language only                         │
+│  ✓ Clean formatting, special characters                 │
+│  ✓ Remove copyright notices & metadata noise            │
+│  ✓ Preserve medical terminology & abbreviations         │
+└────────────────────┬─────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────────────────┐
+│                ✂️ CHUNKING PHASE                        │
+│                                                         │
+│  RecursiveCharacterTextSplitter                         │
+│  • chunk_size: 1000 characters (~250 words)             │
+│  • chunk_overlap: 200 characters                        │
+│  • Separators: paragraphs → sentences → words           │
+│                                                         │
+│  Result: Semantically coherent text chunks              │
+└────────────────────┬────────────────────────────────────┘
+                     │
+                     ▼
+┌────────────────────────────────────────────────────────┐
+│            💾 VECTOR DATABASE PHASE                    │
+│                                                        │ 
+│  ┌─────────────────────┐    ┌──────────────────────┐   │
+│  │   ChromaDB          │    │    BM25 Index        │   │
+│  │  (Dense Vectors)    │    │  (Sparse Tokens)     │   │
+│  │                     │    │                      │   │
+│  │  🧠 MedEmbed Model  │    │  🔤 Keyword Search  │   │
+│  │  3584-dim vectors   │    │  Token frequency     │   │
+│  │  Cosine similarity  │    │  TF-IDF weighting    │   │
+│  └─────────────────────┘    └──────────────────────┘   │
+└────────────────────┬───────────────────────────────────┘
+                     │
+                     ▼
+┌──────────────────────────────────────────────────────────┐
+│              👨‍⚕️ DOCTOR'S QUERY                           │
+│  "What are the contraindications for ACE inhibitors?"    │
+└────────────────────┬─────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────────────────┐
+│          🔍 RETRIEVAL PHASE (Hybrid)                   │
+│                                                         │
+│  Parallel Processing:                                   │
+│  • Dense Search: Semantic similarity matching           │
+│  • Sparse Search: Keyword matching (BM25)               │
+│  • Score Fusion: α × dense + (1-α) × sparse             │ 
+│  • Ranking: Sort by fused relevance score               │
+│                                                         │
+│  Parameters:                                            │
+│  • k=5 (retrieve top 5 documents)                       │
+│  • α=0.5 (balanced hybrid weight)                       │
+└────────────────────┬────────────────────────────────────┘
+                     │
+                     ▼
+┌──────────────────────────────────────────────────────────┐
+│              📄 TOP-K DOCUMENTS                          │
+│  Ranked list of most relevant medical papers             │
+└────────────────────┬─────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────────────────┐
+│          📝 PROMPT CONSTRUCTION                         │
+│                                                         │
+│  Two-Stage Structured Prompt:                           │
+│                                                         │
+│  Stage 1: Analysis Instructions                         │
+│  • Read all documents carefully                         │
+│  • Extract relevant evidence                            │
+│  • Note contradictions & limitations                    │
+│                                                         │
+│  Stage 2: Synthesis Instructions                        │
+│  • Create structured answer                             │
+│  • Cite all sources (PMID)                              │
+│  • Provide confidence score                             │
+│  • List caveats & recommendations                       │
+└────────────────────┬────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────────────────┐
+│          🤖 GENERATION PHASE                           │
+│                                                         │
+│  Google Gemini API                                      │
+│  Model: gemini-2.5-flash-lite-preview-06-17             │
+│                                                         │
+│  Safety Features:                                       │
+│  • No hallucination allowed                             │
+│  • Must cite sources for every claim                    │
+│  • Must acknowledge uncertainty                         │
+│  • Must flag missing information                        │
+└────────────────────┬─────────────────────────────────────┘
+                     │
+                     ▼
+┌──────────────────────────────────────────────────────────┐
+│          ✅ STRUCTURED RESPONSE                          │
+│                                                           │
+│  📋 Answer: Evidence-based medical response              │
+│  📚 Sources: PMID citations                              │
+│  🎯 Confidence: Percentage + reasoning                   │
+│  ⚠️ Caveats: Limitations & warnings                      │
+│  💡 Recommendations: Next steps                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
