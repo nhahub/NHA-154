@@ -241,26 +241,12 @@ print(f"Status: {response.status_code}")
    - Ensure Colab backend allows requests from `localhost:3000` (Vite dev server)
    - Add proper CORS headers in Flask/FastAPI apps
 
-### 4. **Environment Variables (Optional - Better Practice)**
-Instead of hardcoding URLs, use environment variables:
 
-```tsx
-// In PatientDashboard.tsx
-const SHIFAA_API_URL = process.env.REACT_APP_SHIFAA_API || "https://backup-url.ngrok-free.app/ask";
-```
-
-Then create `.env` file:
-```
-REACT_APP_SHIFAA_API=https://your_new_url.ngrok-free.app/ask
-REACT_APP_RAG_API=https://your_new_url.ngrok-free.app/ask
-REACT_APP_CV_API=https://your_new_url.ngrok-free.dev/predict
-```
 
 ### 5. **API Response Times**
    - Shifaa API: ~2-5 seconds per response
    - RAG API: ~3-8 seconds (depends on context)
    - CV API: ~4-10 seconds (image processing)
-   - Gemini API: ~2-4 seconds
 
 ### 6. **Rate Limiting**
    - ngrok free tier: 40 requests per minute
@@ -312,21 +298,7 @@ If APIs aren't working:
 | Shifaa (Patient Chat) | `PatientDashboard.tsx` | `/ask` | 5000 |
 | RAG (Doctor Knowledge) | `DoctorDashboard.tsx` | `/ask` | 5001 |
 | CV (Image Analysis) | `DoctorDashboard.tsx` | `/predict` | 5002 |
-| Gemini (Image Analysis) | `geminiService.ts` | SDK | - |
 
 ---
 
-## 🔐 Security Notes
 
-1. **Never commit hardcoded URLs** to GitHub
-2. **Use `.env` files** for sensitive data
-3. **Validate all API responses** before using
-4. **Sanitize user inputs** before sending to APIs
-5. **Keep API keys secure** - use environment variables
-6. **Don't expose ngrok URLs publicly** - they're temporary anyway
-
----
-
-**Last Updated**: December 15, 2025  
-**Project**: طبيبك - AI Medical Platform  
-**Status**: Active Development
