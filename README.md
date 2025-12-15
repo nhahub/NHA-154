@@ -12,17 +12,17 @@ This repository is divided into four main core components. Click on the links be
 ### 1. 🤖 Patient AI Consultant
 **Description:** An AI chatbot fine-tuned on Arabic medical consultations using **Qwen 2.5** and optimized with **Ant Colony Optimization (ACO)** algorithms to provide accurate, empathetic, and privacy-aware medical guidance to patients.
 * **Key Tech:** Llama, Qwen 2.5, QLoRA, Unsloth, ACO.
-*   🔗 **[Go to Patient Chatbot Directory](https://github.com/nhahub/NHA-154/tree/main/Patient%20Chatbot)**
+*   🔗 **[Go to Patient Chatbot Directory](https://github.com/nhahub/NHA-154/blob/main/Patient%20Chatbot/README.md)**
 
 ### 2. 👨‍⚕️ Doctor RAG Assistant
 **Description:** A retrieval-augmented generation (RAG) system designed to assist doctors. It retrieves information from trusted medical sources (like PubMed) using a **Hybrid Vector Store** (Dense + Lexical search) to provide citation-backed answers.
 *   **Key Tech:** RAG, LangChain, ChromaDB, Gemini API, PubMed.
-*   🔗 **[Go to Doctor Chatbot Directory](https://github.com/nhahub/NHA-154/tree/main/Doctor%20Chatbot)**
+*   🔗 **[Go to Doctor Chatbot Directory](https://github.com/nhahub/NHA-154/blob/main/Doctor%20Chatbot/README.md)**
 
 ### 3. 👁️ Computer Vision (Brain Tumor Detection)
 **Description:** Deep learning models dedicated to analyzing medical imagery (MRI/X-rays) to assist in diagnosis, specifically focused on brain tumor detection.
 *   **Key Tech:** CNNs, VGG16, Image Processing.
-*   🔗 **[Go to Computer Vision Models](https://github.com/nhahub/NHA-154/tree/main/Computer%20Vision/brain_tumer/models)**
+*   🔗 **[Go to Computer Vision Models](https://github.com/nhahub/NHA-154/tree/main/Computer%20Vision)**
 
 ### 4. 📱 Frontend Application
 **Description:** The user interface code connecting all these services into a seamless experience for both patients and doctors.
@@ -45,11 +45,11 @@ This repository is divided into four main core components. Click on the links be
 
 Supervised by: **Dr. Heba Mohamed**
 
-*   [Ahmed Mostafa](https://github.com/)
-*   [Mina Saeed](https://github.com/)
-*   [Fatma Elzhraa Ahmed](https://github.com/)
-*   [Ahmed Mohamed](https://github.com/)
-*   [Mohamed Ahmed](https://github.com/)
+*   [Ahmed Mostafa](https://github.com/EngAhmed19)
+*   [Mina Saeed](https://github.com/Mkamel90)
+*   [Fatma Elzhraa Ahmed](https://github.com/fatma2123456)
+*   [Ahmed Mohamed](https://github.com/ahmediismaiil)
+*   [Mohamed Ahmed](https://github.com/Mohamed301)
 <img src="https://github.com/fatma2123456/CLASSIFYING-RESPIRATORY-DISEASES-FROM-X-RAYS/raw/main/Image/Picture2_20241025_195821_0000.png" align="right" width="200">
 <br clear="all">
 
