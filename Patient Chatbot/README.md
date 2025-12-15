@@ -69,3 +69,115 @@ A: "مرض السكري هو حالة تتميز برفع مستويات الج�
 Q: "كيف أتعامل مع الحمى؟"
 A: "الحمى هي رد فعل طبيعي للجسم..."
 ```
+
+#### 2. **Multi-turn Conversations**
+- Maintains context across entire conversation
+- Provides relevant follow-up responses
+- Remembers patient's medical history within session
+- Prevents repetitive information
+
+#### 3. **Safety Features**
+```
+✓ Medical disclaimers on all responses
+✓ Encourages professional consultation
+✓ Avoids definitive diagnosis claims
+✓ Provides factual medical information only
+✓ Flags urgent situations for immediate doctor visit
+✓ Privacy-preserving (no data retention)
+```
+
+---
+
+## 📊 Dataset & Preprocessing
+
+### Shifaa Dataset
+
+**Source**: Real Arabic medical consultations  
+**Size**: 84,422 question-answer pairs  
+**Format**: 16 CSV files organized by medical specialty  
+**Language**: Modern Standard Arabic + dialects  
+**Timespan**: 2003-2024
+
+#### Original Structure
+- **Question Title**
+- **Question** (Patient inquiry)
+- **Answer** (Doctor response)
+- **Doctor Name**
+- **Consultation Number**
+- **Date of Answer**
+- **Hierarchical Diagnosis**
+
+### Preprocessing Pipeline
+
+#### Step 1: Data Consolidation
+```
+Input: 16 separate CSV files (by specialty)
+Process:
+  ├─ Load all 16 files
+  ├─ Extract Question and Answer columns
+  └─ Combine into unified dataframe
+Output: 84,422 question-answer pairs
+```
+
+#### Step 2: Text Cleaning
+```
+Removed:
+  ✗ Islamic greetings and salutations (السلام عليكم ورحمة الله وبركاته)
+  ✗ Doctor names and professional titles
+  ✗ Site acknowledgments and thank you messages
+  ✗ Newlines, extra whitespace, special characters
+
+Preserved:
+  ✓ Meaningful Arabic text
+  ✓ Essential punctuation
+  ✓ Medical terminology
+```
+
+**Rationale**: Keep the chatbot neutral and focused on medical information without religious or cultural biases.
+
+#### Step 3: Data Finalization
+```
+Process:
+  ├─ Shuffle dataset randomly (balanced distribution)
+  ├─ Reset index (clean sequential numbering)
+  └─ Export to CSV (UTF-8-sig encoding)
+
+Result:
+  ├─ 84,422 total records
+  ├─ 16 medical categories
+  └─ 2 columns (Question, Answer)
+```
+
+### Privacy-First Approach
+```
+Challenges:
+  ✗ 84k consultations contained PII
+  ✗ Religious phrases could bias model
+  ✗ Dialects varied across regions
+
+Solutions:
+  ✓ Automated PII removal (names, IDs, locations)
+  ✓ Neutral medical language preservation
+  ✓ Dialect normalization while keeping essence
+  ✓ Quality filtering (removed low-quality entries)
+  ✓ GDPR-compliant data handling
+```
+
+---
+
+## 🤖 Model Training
+
+### Model Selection & Comparison
+
+We experimented with multiple state-of-the-art models:
+
+| Model | Parameters | Epochs | Dataset | BERTScore | Winner? |
+|-------|-----------|--------|---------|-----------|---------|
+| **Meta-Llama-3.1-8B-Instruct** | 8B | 1 | 100% (84,422) | **70.50%** | 🏆 YES |
+| **Unsloth/Meta-Llama-3.1-8B** | 8B | 1 | 100% (84,422) | 65.16% | ❌ |
+| **Llama (Not Fine-tuned)** | 8B | - | - | 61.29% | ❌ |
+| **Qwen/Qwen2.5-7B** | 7B | 4 | 10% (8,442) | 69.85% | ❌ |
+| **Qwen/Qwen2.5-7B** | 7B | 3 | 10% (8,442) | 69.80% | ❌ |
+| **Qwen (Not Fine-tuned)** | 7B | - | - | 65.02% | ❌ |
+
+**Winner: Meta-Llama-3.1-8B-Instruct** 🏆
