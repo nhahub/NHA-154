@@ -349,3 +349,40 @@ ACO Automatic Optimization:
   ├─ Finds optimal parameters in 4 hours
   └─ 20 evaluations vs hundreds manually
 ```
+### Research Novelty
+
+#### Unexplored Territory
+- Most research uses grid search or random search
+- **ACO hasn't been explored** for generation parameter optimization
+- Multi-objective challenge: balancing creativity vs quality vs completeness
+- **Arabic language focus**: Optimizing for Arabic medical text with BERTScore
+- **Practical application**: Directly improves deployment without retraining
+- **Efficiency gain**: Near-optimal parameters in 20 evaluations
+
+### How ACO Works for LLMs
+
+```
+🐜 Step 1: Initialize Ants
+  - Each "ant" represents one parameter combination
+  - 5 ants per iteration simultaneously explore
+  - Parameters: temperature, top_p, max_tokens
+
+🐜 Step 2: Pheromone Trails
+  - Each parameter value has a pheromone score
+  - Higher scores = better past results
+  - Ants probabilistically select values based on pheromone strength
+
+🐜 Step 3: Evaluate Fitness
+  - Each ant's combination generates answers on test samples
+  - BERTScore F1 is calculated
+  - Median score becomes the ant's fitness
+
+🐜 Step 4: Update Pheromones
+  - Better-performing parameters receive stronger pheromone deposits
+  - All pheromones evaporate by 70% each iteration
+  - Balance between exploitation (use good paths) and exploration (try new paths)
+
+🐜 Step 5: Iterate
+  - Repeat for 4 cycles
+  - Converge to optimal parameters
+```
