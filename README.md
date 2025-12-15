@@ -54,65 +54,34 @@ This repository is divided into four main core components. Click on the links be
 
 ---
 
+## 👥 Team Members
+
+## 👨‍🏫 Project Supervisor
+
+<div align="center">
+
+| Name | GitHub | LinkedIn |
+|:----:|:------:|:--------:|
+| **Eng. Heba Mohamed** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/heba14101998) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heba-mohamed-14101998/) |
+
+</div>
+
+---
+
 ## 👨‍💻 Team Members
 
-<table align="center">
-  <tr>
-    <td align="center" width="200px">
-      <img src="https://github.com/EngAhmed19.png" width="100px;" alt="Ahmed Mostafa"/><br />
-      <sub><b>Ahmed Mostafa</b></sub><br />
-      <a href="https://github.com/EngAhmed19">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
-      </a><br />
-      <a href="https://linkedin.com/in/ahmed-mostafa-010436248">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="200px">
-      <img src="https://github.com/Mkamel90.png" width="100px;" alt="Mina Saeed"/><br />
-      <sub><b>Mina Saeed</b></sub><br />
-      <a href="https://github.com/Mkamel90">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
-      </a><br />
-      <a href="#">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="200px">
-      <img src="https://github.com/fatma2123456.png" width="100px;" alt="Fatma Elzhraa Ahmed"/><br />
-      <sub><b>Fatma Elzhraa Ahmed</b></sub><br />
-      <a href="https://github.com/fatma2123456">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
-      </a><br />
-      <a href="https://www.linkedin.com/in/fatma-elzhraa-ahmed-9a3b9a232/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200px">
-      <img src="https://github.com/ahmediismaiil.png" width="100px;" alt="Ahmed Mohamed"/><br />
-      <sub><b>Ahmed Mohamed</b></sub><br />
-      <a href="https://github.com/ahmediismaiil">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
-      </a><br />
-      <a href="#">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="200px">
-      <img src="https://github.com/Mohamed301.png" width="100px;" alt="Mohamed Ahmed"/><br />
-      <sub><b>Mohamed Ahmed</b></sub><br />
-      <a href="https://github.com/Mohamed301">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
-      </a><br />
-      <a href="#">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td></td>
-  </tr>
-</table>
+<div align="center">
+
+| Name | GitHub | LinkedIn |
+|:-----|:------:|:--------:|
+| **Ahmed Mostafa** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/EngAhmed19) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-mostafa-010436248) |
+| **Mina Saeed** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Mkamel90) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#) |
+| **Fatma Elzhraa Ahmed** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/fatma2123456) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatma-elzhraa-ahmed-9a3b9a232/) |
+| **Ahmed Mohamed** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ahmediismaiil) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#) |
+| **Mohamed Ahmed** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Mohamed301) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#) |
+
+</div>
+
 
 <img src="https://github.com/fatma2123456/CLASSIFYING-RESPIRATORY-DISEASES-FROM-X-RAYS/raw/main/Image/Picture2_20241025_195821_0000.png" align="right" width="200">
 <br clear="all">
