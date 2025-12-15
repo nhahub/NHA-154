@@ -853,15 +853,15 @@ const CV_API_URL = process.env.REACT_APP_CV_API || "https://backup.ngrok-free.de
     │ DoctorDashboard   │   │PatientDashboard  │
     │  .tsx             │   │ .tsx             │
     ├───────────────────┤   ├──────────────────┤
-    │ ┌──────────────┐  │   │  │
-    │ │Image Upload  │  │   │ │
-    │ │& Analysis    │  │   │  │
-    │ │(CV API)      │  │   │  
-    │ ├──────────────┤  │   │ ├──────────────┤ │
-    │ │Grad-CAM      │  │   │ │Chat Interface│ │
-    │ │Visualization │  │   │ │Health Q&A    │ │
-    │ │              │  │   │ │(Shifaa API)  │ │
-    │ ├──────────────┤  │   │ └──────────────┘ │
+    │ ┌──────────────┐  │   │ ├──────────────┤ │
+    │ │Image Upload  │  │   │ │Chat Interface│ │
+    │ │& Analysis    │  │   │ │Health Q&A    │ │
+    │ │(CV API)      │  │   │ │(Shifaa API)  │ │               
+    │ ├──────────────┤  │   │ └──────────────┘ │ 
+    │ │Grad-CAM      │  │   │                  │
+    │ │Visualization │  │   │                  │
+    │ │              │  │   │                  │
+    │ ├──────────────┤  │   │                  │
     │ │Medical Q&A   │  │   │                  │
     │ │Chat          │  │   │                  │
     │ │(RAG API)     │  │   │                  │
@@ -1292,5 +1292,6 @@ Connection refused:
 5. **Deploy**: `npm run build` → Deploy to Vercel or similar
 
 **Happy coding! 🏥🤖**
+
 
 
