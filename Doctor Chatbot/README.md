@@ -43,3 +43,52 @@ This system is part of **Tabibak**, a comprehensive AI healthcare platform that 
 - **Cross-reference multiple sources** instantly for complex cases
 
 ---
+## ✨ Core Features
+
+### 🧠 Hybrid Intelligence Retrieval
+
+Our system doesn't rely on just one search method—it combines the best of both worlds:
+
+#### **Semantic Search (Dense Vectors)**
+Uses medical-specific embeddings to understand the *meaning* behind queries:
+- "What helps with high blood pressure?" → Finds papers about "hypertension management"
+- Understands medical synonyms and related concepts
+- Powered by **MedEmbed-large-v0.1** model trained on medical literature
+
+#### **Keyword Search (BM25 Sparse)**
+Traditional but powerful keyword matching:
+- Finds exact medical terminology and drug names
+- Excellent for specific queries like "metformin dosage"
+- Fast and computationally efficient
+
+#### **Hybrid Fusion**
+Intelligently combines both methods with a tunable **alpha (α) parameter**:
+- α = 0.3 → More weight on keyword matching
+- α = 0.5 → Balanced approach (default)
+- α = 0.7 → More weight on semantic understanding
+
+**Result**: Best of both worlds—catches both specific medical terms and conceptually related information.
+
+```
+┌─────────────────────────────────────────────────────┐
+│      USER: "Latest treatments for heart failure"     │
+└──────────────────┬──────────────────────────────────┘
+                   │
+        ┌──────────┴──────────┐
+        │                     │
+   Semantic Search      Keyword Search
+   Understanding          Finding
+   "cardiac failure"      "heart failure"
+   "HF management"        "ventricular"
+   "cardiovascular"       "ejection fraction"
+        │                     │
+        └──────────┬──────────┘
+                   │
+           Hybrid Fusion
+           (α = 0.5)
+                   │
+           ┌───────▼────────┐
+           │  Ranked Results │
+           │  Top 5 Papers   │
+           └─────────────────┘
+```
