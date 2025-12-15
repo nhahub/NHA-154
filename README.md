@@ -58,7 +58,7 @@ This repository is divided into four main core components. Click on the links be
 
 ## 👨‍🏫 Project Supervisor
 
-<div align="center">
+<div>
 
 | Name | GitHub | LinkedIn |
 |:----:|:------:|:--------:|
@@ -70,7 +70,7 @@ This repository is divided into four main core components. Click on the links be
 
 ## 👨‍💻 Team Members
 
-<div align="center">
+<div >
 
 | Name | GitHub | LinkedIn |
 |:-----|:------:|:--------:|
