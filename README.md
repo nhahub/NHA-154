@@ -43,7 +43,7 @@ This repository is divided into four main core components. Click on the links be
 
 
 
-Supervised by: **Dr. Heba Mohamed**
+Supervised by: [**ENG. Heba Mohamed**](https://github.com/heba14101998)
 
 *   [Ahmed Mostafa](https://github.com/EngAhmed19)
 *   [Mina Saeed](https://github.com/Mkamel90)
