@@ -1,21 +1,4 @@
 # 🏥 Tabibak: Patient Chatbot
----
-
-## 📋 Table of Contents
-
-1. [Overview](#overview)
-
-2. [Features](#features)
-3. [Project Structure](#project-structure)
-4. [Model Training](#model-training)
-5. [Model Evaluation](#model-evaluation)
-6. [Deployment](#deployment)
-7. [API Integration](#api-integration)
-8. [User Interface](#user-interface)
-9. [Usage Guide](#usage-guide)
-10. [Technical Stack](#technical-stack)
-11. [Performance Metrics](#performance-metrics)
-12. [Troubleshooting](#troubleshooting)
 
 ---
 
