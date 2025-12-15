@@ -6,7 +6,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-RAG-00D9FF?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-FF6B6B?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Google-Gemini_API-4285F4?style=for-the-badge)
-
+</div>
 **An intelligent medical research assistant powered by Retrieval-Augmented Generation (RAG)**
 *Connecting doctors to evidence-based knowledge in seconds*
 
