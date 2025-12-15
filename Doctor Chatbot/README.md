@@ -10,8 +10,10 @@
 
 **An intelligent medical research assistant powered by Retrieval-Augmented Generation (RAG)**
 <div align="center">
+  
 • [🏗️ Architecture](#️-system-architecture)
 • [🚀 Installation](#-installation) 
 • [💻 Usage](#-usage) 
 • [📊 Results](#-results)
+
 </div>
