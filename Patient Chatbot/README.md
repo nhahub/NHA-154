@@ -265,3 +265,87 @@ Step 5: Model Saving
 A **custom-designed neural network layer** specifically engineered to enhance the model's understanding of medical terminology, context, and reasoning patterns in Arabic medical consultations.
 
 ### Design Details
+```
+Input Layer
+  ├─ Receives 3584-dimensional hidden states from base model
+  └─ (from Qwen 2.5 7B final layer)
+
+Compression Layer (Bottleneck)
+  ├─ Projects down to 512 dimensions
+  ├─ Extracts essential medical features
+  └─ Activation: GELU (smooth non-linear transformation)
+
+Regularization
+  ├─ Dropout: 5%
+  └─ Prevents overfitting on medical patterns
+
+Expansion Layer
+  ├─ Projects back up to 3584 dimensions
+  └─ Restores original dimensionality
+
+Normalization
+  ├─ LayerNorm
+  └─ Ensures stable gradient flow
+```
+
+**Architecture: 3584 → 512 → 3584 (Bottleneck Design)**
+
+### How It Works
+
+#### Forward Pass Integration
+```python
+# Simplified conceptual code
+def forward(self, hidden_states):
+    # Original hidden states from base model
+    original = hidden_states
+    
+    # Adapter transformation
+    compressed = GELU(Linear_512(original))
+    compressed = Dropout(compressed)
+    expanded = Linear_3584(compressed)
+    normalized = LayerNorm(expanded)
+    
+    # Residual connection (scaled by 0.1)
+    output = original + (0.1 * normalized)
+    
+    return output
+```
+
+#### Residual Connection
+- Adapter output scaled by **0.1** and added to original hidden states
+- **Preserves base model knowledge** while adding medical specialization
+- Prevents catastrophic forgetting
+
+#### Domain-Specific Learning
+- Learns medical-specific patterns
+- Understands terminology relationships
+- Captures reasoning structures
+- Adapts to Arabic medical context
+
+## 🐜 Ant Colony Optimization (ACO)
+
+### What is ACO?
+
+**Ant Colony Optimization** is a bio-inspired algorithm that mimics how ants find the shortest path to food sources using pheromone trails.
+
+### Why ACO for LLM Optimization?
+
+#### Traditional Problem
+```
+Manual Parameter Tuning:
+  ├─ Try temperature = 0.5, top_p = 0.9, max_tokens = 512
+  ├─ Evaluate results
+  ├─ Try temperature = 0.7, top_p = 0.8, max_tokens = 256
+  ├─ Evaluate results
+  └─ Repeat hundreds of times (3-5 days of work)
+```
+
+#### Our Innovation
+```
+ACO Automatic Optimization:
+  ├─ Bio-inspired search algorithm
+  ├─ Multi-objective optimization
+  ├─ Balances temperature, top-p, max_tokens simultaneously
+  ├─ Finds optimal parameters in 4 hours
+  └─ 20 evaluations vs hundreds manually
+```
