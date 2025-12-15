@@ -181,3 +181,29 @@ We experimented with multiple state-of-the-art models:
 | **Qwen (Not Fine-tuned)** | 7B | - | - | 65.02% | ❌ |
 
 **Winner: Meta-Llama-3.1-8B-Instruct** 🏆
+### Why Llama 3.1 Won
+- **Superior Arabic language understanding**
+- **Better handling of medical terminology**
+- **Highest semantic accuracy (70.50% BERTScore)**
+- **More coherent long-form responses**
+- **Excellent context retention**
+
+### Training Configuration
+
+#### Llama 3.1 Training
+```python
+Base Model: Meta-Llama-3.1-8B-Instruct
+Dataset: 84,422 samples (100%)
+
+Fine-tuning Method: QLoRA (Quantized LoRA)
+Framework: Unsloth (memory optimization)
+
+Hyperparameters:
+  - Epochs: 1
+  - Max Sequence Length: 1024
+  - Batch Size: 8
+  - Learning Rate: 2e-4
+  - LoRA Rank (R): 64
+  - LoRA Alpha: 128
+  - Quantization: 4-bit
+
