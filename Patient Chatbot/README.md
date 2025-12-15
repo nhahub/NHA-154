@@ -51,3 +51,21 @@ A lightweight neural network layer designed for medical specialization:
 *   **Efficiency:** **95% fewer parameters** to train compared to full retraining.
 *   **Speed:** **10x faster training** while preserving the base model's general knowledge.
 *   **Impact:** Adds deep, domain-specific medical understanding to the model.
+---
+## ✨ Features
+
+### Core Capabilities
+
+#### 1. 🏥 Medical Question Answering in Arabic
+*   **Input:** Patient's health question in Arabic.
+*   **Processing:** Fine-tuned Llama 3.1 model inference.
+*   **Output:** Medically accurate, culturally appropriate response.
+
+**Examples:**
+```text
+Q: "ما هي أعراض السكري؟"
+A: "مرض السكري هو حالة تتميز برفع مستويات الجلوكوز في الدم..."
+
+Q: "كيف أتعامل مع الحمى؟"
+A: "الحمى هي رد فعل طبيعي للجسم..."
+```
