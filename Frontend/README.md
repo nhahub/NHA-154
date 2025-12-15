@@ -1,4 +1,4 @@
-# 📚 طبيبك - AI Medical Platform - Complete Documentation
+#  Tabibak AI Medical Platform - Complete Documentation
 
 **A comprehensive guide covering all pages, components, and API endpoints**
 
@@ -1405,3 +1405,4 @@ Connection refused:
 5. **Deploy**: `npm run build` → Deploy to Vercel or similar
 
 **Happy coding! 🏥🤖**
+
