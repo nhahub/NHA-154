@@ -9,11 +9,37 @@
 </div>
 
 **An intelligent medical research assistant powered by Retrieval-Augmented Generation (RAG)**
-<div align="center">
-  
-• [🏗️ Architecture](#️-system-architecture)
-• [🚀 Installation](#-installation) 
-• [💻 Usage](#-usage) 
-• [📊 Results](#-results)
+---
+## 🏥 The Problem: Information Overload in Healthcare
 
-</div>
+Picture this: **It's 2 AM in the emergency room**. Dr. Sarah is treating a patient with unusual symptoms—a combination of cardiac arrhythmia and acute kidney dysfunction. She remembers reading about a similar case in a recent study about drug interactions, but which medication was it? Which journal? What were the exact recommendations?
+
+She needs answers **fast**, but searching through thousands of medical papers manually would take hours she doesn't have.
+
+This is the daily reality for healthcare professionals worldwide:
+
+- 📚 **Over 1.5 million new research papers** published annually on PubMed alone
+- ⏰ **Limited time** to stay current with medical literature
+- 🔍 **Difficulty finding specific information** when making critical decisions
+- ❓ **Uncertainty about evidence quality** and source reliability
+- 📱 **Fragmented tools** that don't integrate seamlessly into clinical workflow
+### 💡 Our Solution: A Medical Research Companion
+
+We built an **AI-powered research assistant** that acts like having a medical librarian with photographic memory at your fingertips. It doesn't just search—it **understands, synthesizes, and explains** medical literature in seconds.
+
+Think of it as **Google Scholar meets ChatGPT**, but specifically designed for medical professionals with:
+- ✅ Evidence-based responses backed by peer-reviewed sources
+- ✅ Confidence scores for transparency
+- ✅ Citation tracking for verification
+- ✅ Safety-first design that never hallucinates
+### 🌍 Real-World Impact
+
+This system is part of **Tabibak**, a comprehensive AI healthcare platform that bridges the gap between patients and doctors. The Doctor Chatbot specifically empowers medical professionals to:
+
+- **Make faster, evidence-based decisions** during patient consultations
+- **Stay updated with latest research** without spending hours reading
+- **Verify treatment protocols** against current medical literature
+- **Discover relevant studies** they might have missed
+- **Cross-reference multiple sources** instantly for complex cases
+
+---
