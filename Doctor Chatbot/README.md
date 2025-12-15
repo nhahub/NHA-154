@@ -7,10 +7,11 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-FF6B6B?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Google-Gemini_API-4285F4?style=for-the-badge)
 </div>
-**An intelligent medical research assistant powered by Retrieval-Augmented Generation (RAG)**
-*Connecting doctors to evidence-based knowledge in seconds*
 
+**An intelligent medical research assistant powered by Retrieval-Augmented Generation (RAG)**
+<div align="center">
 • [🏗️ Architecture](#️-system-architecture)
 • [🚀 Installation](#-installation) 
 • [💻 Usage](#-usage) 
 • [📊 Results](#-results)
+</div>
