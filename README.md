@@ -39,17 +39,81 @@ This repository is divided into four main core components. Click on the links be
 
 ---
 
-## 👥 The Team
+## 👥 Team Members
 
+## 👨‍🏫 Project Supervisor
 
+<div align="center">
 
-Supervised by: [**ENG. Heba Mohamed**](https://github.com/heba14101998)-------------> [Linkedin](https://www.linkedin.com/in/heba-mohamed-14101998/)
+### **Eng. Heba Mohamed**
 
-*   [Ahmed Mostafa](https://github.com/EngAhmed19)-------------> [Linkedin](linkedin.com/in/ahmed-mostafa-010436248/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BlEK8EaIZRRODCfMQwCyi3g%3D%3D)
-*   [Mina Saeed](https://github.com/Mkamel90)-------------> [Linkedin]()
-*   [Fatma Elzhraa Ahmed](https://github.com/fatma2123456)-------------> [Linkedin](https://www.linkedin.com/in/fatma-elzhraa-ahmed-9a3b9a232/)
-*   [Ahmed Mohamed](https://github.com/ahmediismaiil)-------------> [Linkedin]()
-*   [Mohamed Ahmed](https://github.com/Mohamed301)-------------> [Linkedin]()
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heba14101998)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heba-mohamed-14101998/)
+
+</div>
+
+---
+
+## 👨‍💻 Team Members
+
+<table align="center">
+  <tr>
+    <td align="center" width="200px">
+      <img src="https://github.com/EngAhmed19.png" width="100px;" alt="Ahmed Mostafa"/><br />
+      <sub><b>Ahmed Mostafa</b></sub><br />
+      <a href="https://github.com/EngAhmed19">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+      </a><br />
+      <a href="https://linkedin.com/in/ahmed-mostafa-010436248">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://github.com/Mkamel90.png" width="100px;" alt="Mina Saeed"/><br />
+      <sub><b>Mina Saeed</b></sub><br />
+      <a href="https://github.com/Mkamel90">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+      </a><br />
+      <a href="#">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://github.com/fatma2123456.png" width="100px;" alt="Fatma Elzhraa Ahmed"/><br />
+      <sub><b>Fatma Elzhraa Ahmed</b></sub><br />
+      <a href="https://github.com/fatma2123456">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+      </a><br />
+      <a href="https://www.linkedin.com/in/fatma-elzhraa-ahmed-9a3b9a232/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200px">
+      <img src="https://github.com/ahmediismaiil.png" width="100px;" alt="Ahmed Mohamed"/><br />
+      <sub><b>Ahmed Mohamed</b></sub><br />
+      <a href="https://github.com/ahmediismaiil">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+      </a><br />
+      <a href="#">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://github.com/Mohamed301.png" width="100px;" alt="Mohamed Ahmed"/><br />
+      <sub><b>Mohamed Ahmed</b></sub><br />
+      <a href="https://github.com/Mohamed301">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+      </a><br />
+      <a href="#">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
 <img src="https://github.com/fatma2123456/CLASSIFYING-RESPIRATORY-DISEASES-FROM-X-RAYS/raw/main/Image/Picture2_20241025_195821_0000.png" align="right" width="200">
 <br clear="all">
 
