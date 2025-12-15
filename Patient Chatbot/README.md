@@ -464,3 +464,35 @@ Good for: Evaluating sentence structure similarity
 Binary metric checking if generated answer matches reference exactly
 (character-by-character)
 ```
+### Testing Process
+
+```
+Step 1: Load Test Dataset
+  └─ Separate evaluation set (not used in training)
+
+Step 2: Generate Answers
+  └─ Model produces responses for sample questions
+  └─ Uses ACO-optimized parameters
+
+Step 3: Compare with Ground Truth
+  └─ Generated vs reference answers
+
+Step 4: Calculate Metrics
+  └─ BERTScore, BLEU, ROUGE, Exact Match
+
+Step 5: Analyze Results
+  └─ Both quantitative and qualitative evaluation
+```
+### Performance Summary
+
+```
+Model: Llama 3.1 (Fine-tuned, 1 epoch)
+Dataset: 84,422 samples
+
+Metrics:
+  BERTScore F1:        70.50% 🏆
+  ROUGE-L:             0.58
+  
+```
+
+---
