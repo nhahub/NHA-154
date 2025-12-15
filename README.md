@@ -41,7 +41,7 @@ This repository is divided into four main core components. Click on the links be
 
 ## 👥 The Team
 
-
+<img src="https://github.com/fatma2123456/CLASSIFYING-RESPIRATORY-DISEASES-FROM-X-RAYS/raw/main/Image/Picture2_20241025_195821_0000.png" align="right" width="200">
 
 Supervised by: **Dr. Heba Mohamed**
 
@@ -50,7 +50,7 @@ Supervised by: **Dr. Heba Mohamed**
 *   [Fatma Elzhraa Ahmed](https://github.com/)
 *   [Ahmed Mohamed](https://github.com/)
 *   [Mohamed Ahmed](https://github.com/)
-<img src="https://github.com/fatma2123456/CLASSIFYING-RESPIRATORY-DISEASES-FROM-X-RAYS/raw/main/Image/Picture2_20241025_195821_0000.png" align="right" width="180">
+
 <br clear="all">
 
 ---
