@@ -39,22 +39,6 @@ This repository is divided into four main core components. Click on the links be
 
 ---
 
-## 👥 Team Members
-
-## 👨‍🏫 Project Supervisor
-
-<div align="center">
-
-### **Eng. Heba Mohamed**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heba14101998)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heba-mohamed-14101998/)
-
-</div>
-
----
-
-## 👥 Team Members
 
 ## 👨‍🏫 Project Supervisor
 
