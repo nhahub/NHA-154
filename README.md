@@ -21,7 +21,7 @@ This repository is divided into four main core components. Click on the links be
 
 ### 3. 👁️ Computer Vision (Brain Tumor Detection)
 **Description:** Deep learning models dedicated to analyzing medical imagery (MRI/X-rays) to assist in diagnosis, specifically focused on brain tumor detection.
-*   **Key Tech:** CNNs, Image Processing.
+*   **Key Tech:** CNNs, VGG16, Image Processing.
 *   🔗 **[Go to Computer Vision Models](https://github.com/nhahub/NHA-154/tree/main/Computer%20Vision/brain_tumer/models)**
 
 ### 4. 📱 Frontend Application
@@ -41,13 +41,19 @@ This repository is divided into four main core components. Click on the links be
 
 ## 👥 The Team
 
-Supervised by: **Dr. Heba Mohamed**
+<a href="https://github.com/nhahub/NHA-154">
+<img src="https://github.com/fatma2123456/CLASSIFYING-RESPIRATORY-DISEASES-FROM-X-RAYS/raw/main/Image/Picture2_20241025_195821_0000.png" align="right" width="150" alt="Team Logo">
+</a>
 
-*   Ahmed Mostafa
-*   Mina Saeed
-*   Fatma Elzhraa Ahmed
-*   Ahmed Mohamed
-*   Mohamed Ahmed
+**Supervised by:** Dr. Heba Mohamed
+
+*   [Ahmed Mostafa](https://github.com/AhmedMostafa-hub) 
+*   [Mina Saeed](https://github.com/MinaSaeed) 
+*   [Fatma Elzhraa Ahmed](https://github.com/fatma2123456) 
+*   [Ahmed Mohamed](https://github.com/AhmedMohamed) 
+*   [Mohamed Ahmed](https://github.com/MohamedAhmed) 
+
+<br clear="all">
 
 ---
 *Digital Egypt Pioneers Initiative (DEPI) - NHA-154*
