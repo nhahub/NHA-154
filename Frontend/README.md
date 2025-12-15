@@ -19,7 +19,7 @@
 
 ## 🎯 Project Overview
 
-**طبيبك** (Your Doctor) is an AI-powered medical platform that serves two main user groups:
+**Tabibak** (Your Doctor) is an AI-powered medical platform that serves two main user groups:
 
 - **Doctors**: Advanced diagnostic tools with AI-powered image analysis and medical knowledge base
 - **Patients**: Easy-to-use interface for understanding medical reports and asking health questions
@@ -1292,6 +1292,7 @@ Connection refused:
 5. **Deploy**: `npm run build` → Deploy to Vercel or similar
 
 **Happy coding! 🏥🤖**
+
 
 
 
