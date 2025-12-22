@@ -68,6 +68,8 @@ This repository is divided into four main core components. Click on the links be
 
 
 <img src="https://github.com/fatma2123456/CLASSIFYING-RESPIRATORY-DISEASES-FROM-X-RAYS/raw/main/Image/Picture2_20241025_195821_0000.png" align="right" width="200">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4wuzcHpKjkTgqdpZH7YUsDVQ9edGZhyIXbQ&s" align="center" alt="DEPI Logo" width="200"/>
+<img src="https://lms.skillsdynamix.com/pluginfile.php/1/core_admin/logocompact/300x300/1756484684/skills_logo.png" align="left" alt="Skills Dynamix Logo" width="200"/>
 <br clear="all">
 
 ---
