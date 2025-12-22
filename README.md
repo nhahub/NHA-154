@@ -67,7 +67,7 @@ This repository is divided into four main core components. Click on the links be
 </div>
 
 <div align="center">
-  <img src="https://www.cairo24.com/UploadCache/libfiles/53/0/600x338o/845.jpg" alt="NHA Logo" width="200" style="margin: 0 20px;"/>
+  <img src="https://debi.gov.eg/assets/optimized-images/MCEN.webp" alt="NHA Logo" width="200" style="margin: 0 20px;"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4wuzcHpKjkTgqdpZH7YUsDVQ9edGZhyIXbQ&s" alt="DEPI Logo" width="200" style="margin: 0 20px;"/>
   <img src="https://lms.skillsdynamix.com/pluginfile.php/1/core_admin/logocompact/300x300/1756484684/skills_logo.png" alt="Skills Dynamix Logo" width="200" style="margin: 0 20px;"/>
 </div>
